@@ -1,0 +1,858 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-576336": {
+        "articles": {
+            "resultCount": 10,
+            "results": [
+                {
+                    "body": "Summary IBM and Apple partnership is historic. Adds air of legitimacy for Apple products in the enterprise. There are several hidden implications.\n\nApple (NASDAQ:AAPL) and IBM (NYSE:IBM) have just partnered to deliver a slew of big data analytics crossed with iPad apps to the enterprise. In my earlier post, I described the features and enumerated benefits for both the companies. Here I will discuss some possible other benefits, although some may be a bit speculative.\n\nFirst, to reiterate, the four basic services announced:\n\nSpecific big data mobile applications, (100+ in the making)A new iOS tailored cloud service,New enterprise level AppleCare support services from Apple, andNew package from IBM for mobile device management\n\nThe objective is with regard to big data analytics:\n\nTo put big data at the user's fingertipsTo deliver the promise of mobility in a big way -- that takes Apple and IBM doing it.\n\n(click to enlarge)\n\nSource: IBM website\n\nBesides the more obvious benefits, we need to look deeper and perhaps we will see some other ones.\n\nLegitimacy\n\nFor example, Apple has always had this problem in the enterprise with legitimacy. Businesses flocked to Microsoft (NASDAQ:MSFT) based hardware for the low initial costs, and naturally the IT departments were filled with first DOS and then Windows specialists. While many of these rationally avoided the platform religion wars, some took on the Microsoft mantra that \"Macs are just toys,\" etc. On top of that, Microsoft went to great pains to always build incompatibilities into their software in order to marginalize Apple and other competitors.\n\nThus, the antipathy of IT service people to Apple grew to a virtual frenzy. (The fact that Apple did almost nothing to court the business user, especially in terms of service, did nothing to help their cause.) Who did what to whom is not the issue here. What is, however, is the simple fact that a strong antipathy continues to exist, and while there is a rational basis for a certain degree for this, a large part is simply the fact that to manage Macs one has to learn how to do so, and IT personnel all have too much on their plates to begin with without any extra work.\n\nThis antipathy extends to iOS, since for many, the mantra \"Apple is bad\" extends to all things Cupertino.\n\nThis is my point. IBM is the epitome of the business world. They stand for all that is prized by the enterprise. No wishy-washy, artsy graphic design people here [tongue in cheek please!]. They mean serious business. So when they not just endorse iOS, but embrace it whole-heartedly and partner with Apple in a big way, this has to change the perception of Apple in the big enterprise.\n\nSo the first important benefit of this section is that this is going be a push not only for iOS devices, but for the Mac as well. Many people who use an iPad will want to switch to a Mac for their laptop when given the opportunity. They work together so well, it will be natural to do so.\n\nOddly, Microsoft itself got its leg up and into business precisely because of its partnering with IBM that initiated MS-DOS. Ironic that Apple may now do the same -- again due to IBM.\n\nIBM\n\nAs noted in my previous post, IBM wants to build out their cloud services. This will be a boon to them as they will have the most complete and secure system for integrating iPads.\n\nOn a more subtle note, for the IBM programmers, I have to believe that for some, the interaction with their Apple counterparts will be an eye opener, to see how the attention to details of usability and design are raised in their importance. (Not that Apple developers will not be learning a lot as well.) Programmers are proud of their work. It is essentially a creative process. They are engineers building intricate, invisible structures and machines beneath the visible program behavior.\n\nHidden implications\n\nOne has to wonder if perhaps there is more to this partnership that remains to be revealed.\n\n1-\n\nThe first thing that comes to mind is the Mac. I can imagine that if the current partnership works out well, particularly for the service portion of the project, this could be expanded to include the Mac line as well. Obviously, this would be an enormous push for Apple. It would solve a very long standing problem of service for them. But obviously, this needs to go slowly.\n\n2-\n\nIBM some time ago bought flash storage manufacturer Texas Memory Systems. Now its FlashSystem Line has pushed it to be the number one supplier of Sold State Arrays (SSA) for 2013. [source]\n\nApple was a pioneer in the use of Solid State Drives (SSD), initially in their MacBook Air line. They have also been the first to move to the much faster PCIe based memory system, replacing the SATA based solid state drives. The two are similar in that they are solid state memory (i.e., integrated circuit chips) substituting for the older hard disks. Even though the SSD is many times faster than a spinning disk drive, the SSA is faster still as it uses wider and more direct read/write channels.\n\nApple uses PCIe based SSA drives in MacBooks and the new Mac Pro. Perhaps part of the overall deal is for Apple to use IBM parts. That would be a pretty big order.\n\n3-\n\nIBM owns an IC fab in Essex Junction, Vermont. There is speculation that it will be sold, possibly to GlobalFoundries. Meanwhile, NetworkWorld reports:\n\nIBM will pour US$3 billion into computing and chip materials research over the next five years, as it rethinks computer design and looks to a future that may not involve silicon chips.\n\nPart of that research is to reach the 7 nm process level, and beyond.\n\nApple has two interests in this. First, they have continued to surprise the integrated chip world with their bold designs of their A-series processors. (See How a processor works.) They are always trying to squeeze the best processing power out of a given design system. They would love to get their hands on cutting-edge chip processes technology.\n\nNow add that Apple would also like to shift its processor fabrication away from Samsung (OTC:SSNLF), due to other conflicts. With all this, one has to wonder if Apple is working with IBM in this field as well.\n\nConclusion\n\nTim Cook worked for 12 years in IBM's personal computer business, ultimately serving as the director of North American Fulfillment. So he knows IBM very well. If you watch the CNBC interview of him and Ginni Rometty, you can see that the connection between them is real. It is therefore logical to think that they may very well be planning more partnerships for the future.\n\nResources:\n\nApple + IBM: The Benefits\n\nWWDC - Hidden Implications\n\nMicrosoft Surface Pro 3 vs. Apple iPad/MB Air - Make your own analysis\n\nApple's A8 processor - what it will mean and why\n\nSource: Apple And IBM - Connecting The Dots, Part 2: Hidden Implications?\n\nDisclosure: The author is long AAPL. The author wrote this article themselves, and it expresses their own opinions. The author is not receiving compensation for it (other than from Seeking Alpha). The author has no business relationship with any company whose stock is mentioned in this article. (More...)",
+                    "date": "2014-07-18",
+                    "eventUri": "1020476",
+                    "id": "15615263",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7627,
+                    "source": {
+                        "title": "Seeking Alpha",
+                        "uri": "seekingalpha.com"
+                    },
+                    "time": "02:43:00",
+                    "title": "Apple And IBM - Connecting The Dots, Part 2: Hidden Implications?",
+                    "uri": "198113769",
+                    "url": "http://seekingalpha.com/article/2321785-apple-and-ibm-connecting-the-dots-part-2-hidden-implications?source=feed",
+                    "wgt": 1
+                },
+                {
+                    "body": "The IBM-Apple partnership resonates with Roxanne Reynolds-Lair, CIO at the Fashion Institute of Design & Merchandising in Los Angeles. Connecting Apple's mobile platform with IBM's backend data is something she can use.\n\nThe fashion institute is an enterprise IBM user, but the students mostly use iOS. \"Apple is by far still number one, by a long ways, with our student body,\" she said.\n\nReynolds-Lair said the agreement will \"make dealing with Apple easier from an enterprise standpoint,\" as well as developing apps for its devices. Right now, the institute has to custom develop apps and push them out, she said.\n\n\"Apple is great at user-friendly design,\" said Reynolds-Lair. \"IBM is great at enterprise and corporate and neither is necessarily great at the opposite, so I think it is a very complementary relationship.\"\n\nBut there are also questions from users and analysts, and no certainty the IBM-Apple partnership will succeed.\n\nThe hope is that Apple's collaboration with IBM will lead to mobile apps using back-end business services that are \"as nicely designed and as compelling to use as your consumer apps are,\" said Daryl Plummer, an analyst at Gartner.\n\nBut Plummer tempers down some of the hype, such as the assumed belief that Siri, Apple's voice personal assistant, will play a role. Neither Apple nor IBM has said anything about using voice recognition capabilities in the mobile apps, said Plummer. However, \"if they don't do that they just took a big swing and a miss,\" he added.\n\nWhile the agreement cements the iPhone as an enterprise tool, \"a lot people will say that IBM won't support other mobile devices - not true,\" said Plummer. IBM \"will continue to commit to delivering back end services to Android and Windows phones, but you know how people are, they will see this announcement as a statement of exclusive support.\"\n\nPlummer isn't assuming this partnership will succeed, and puts the probability that Apple and IBM might do this right at \"50-50.\" He'll know better once the first apps developed under the arrangement are released this spring.\n\nJustin Porter, who heads IT consulting firm, First Technology Services and is on the board of directors of Common, an IBM Power systems user group, sees positives and possibilities in this agreement, but also has questions.\n\nIf IBM and Apple are talking about adding new cloud services that augment existing systems, \"that doesn't necessarily simplify anything for me,\" said Porter, \"It just means I have another moving part.\"\n\nBut, says Porter, if IBM and Apple are building a mobile platform that integrates directly with existing business system, that would be valuable. \"I would assume that to some degree is the aim.\"\n\nPorter has other questions, which don't have immediate answers, such as: How will these apps will be priced, and will they help small businesses as well as large ones?\n\nVendor lock-in may be another issue for users. IT managers in IBM shops could make decisions to focus on iOS and the IBM development platform.\n\nReynolds-Lair said vendor lock-in has become more difficult for vendors in an era when users can rally through social media. \"I think both IBM and Apple would listen,\" she said.\n\nApps will be built by IBM as well enterprise developers. At first, it will be IBM, which plans to build 100-plus apps for business verticals, with seven starting this spring.\n\nBut enterprise developers, as well as third party developers using IBM's BlueMix, a cloud-based platform as a service (PaaS) that allows developers to build Java apps that can talk to a mobile device, will be able to build more products, said Plummer.\n\nFrank Gens, an analyst at IDC, said agreement should strengthen IBM's ability to attract developers to its cloud platform, and position its PaaS as potentially the best developer service and support platform for iOS mobile integration. \"This should help BlueMix grow its developer community,\" he said.\n\nWhile IBM will hope for a services and software revenue boost from the arrangement with Apple, the move doesn't signal a shift from its hardware business.\n\nJoe Clabby of Clabby Analytics, said IBM's recent down quarters in hardware revenue is not something he worries about. Unix may be in decline, but IBM has moved ahead with Linux support.\n\nIts belief in its Power platform is illustrated by Watson, its artificial intelligence and cognitive platform, \"and Watson only runs on Power,\" he said.\n\nThe idea that IBM may link up the Jeopardy-playing capabilities of Watson with Apple's flirty Siri is intriguing, but neither company has said whether that's a direction.\n\nFor now, IBM and Apple \"are trying to leverage one another's relative strengths, but they are also attempting to compensate for own relative weaknesses,\" said Charles King of Pund-IT.",
+                    "date": "2014-07-18",
+                    "eventUri": "1020476",
+                    "id": "15611706",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7617,
+                    "source": {
+                        "title": "Macworld",
+                        "uri": "www.macworld.com.au"
+                    },
+                    "time": "01:38:00",
+                    "title": "Among IBM users, Apple enterprise agreement gets praise, questions",
+                    "uri": "198105306",
+                    "url": "http://www.macworld.com.au/news/among-ibm-users-apple-enterprise-127960/",
+                    "wgt": 1
+                },
+                {
+                    "body": "If you're a tech nut, you've probably seen Apple's famous 1984 advert. In sharp contrast to that scathing attack at IBM, Apple has announced a new \"landmark\" deal to announce its partnership with the Big Blue.\n\nThe deal will see Apple create specifically tailored apps for IBM's corporate clients.\n\nTimes sure have changed since then. IBM no longer produces hardware while Apple has got a newer spirit and overall feel. Its CEO is a former IBM employee.\n\nThe partnership will see out Apple and IBM to built over 100 apps for various fields. It will also provide Apple with an opportunity to sell its iOS devices to more enterprise customers. While most Fortune 500 companies use Apple hardware, there is obviously some competition to be seen.\n\nIBM will assist Apple with the security, management and analytics. It will handle sales of devices, which will come built-in with this tailored software. Unlike Apple, IBM is an enterprise company at heart and brings the expertise in a field which is an unfamiliar territory for Apple.\n\nBy bringing together the analytics and enterprise-scale computing of IBM with the elegant user experience of iPhone and iPad, this partnership will deliver a new level of value for businesses.\n\nThere is even a new website made to commemorate the event. You should probably expect these custom-made iOS devices to come with the next release of iOS.\n\nAs of now, about one-third of all iPad sales are through enterprises. In the coming years, the sales will be higher and the competition will grow as the tablet market will take strides to overtake PC in terms of market share.\n\nApple without Steve Jobs has learnt to team up with former archrivals, making it clear that absolutely nothing comes in the way of success.",
+                    "date": "2014-07-18",
+                    "eventUri": "1020476",
+                    "id": "15616992",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7426,
+                    "source": {
+                        "title": "propakistani.pk",
+                        "uri": "propakistani.pk"
+                    },
+                    "time": "03:19:00",
+                    "title": "Apple Announces a Landmark Partnership with IBM",
+                    "uri": "198118019",
+                    "url": "http://propakistani.pk/2014/07/17/apple-announces-landmark-partnership-ibm/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2BPropakistani%2B%2528Pro%2BPakistani%2B-%2BPakistan%2527s%2BTelecom%2Band%2BIT%2BTalk%2529&utm_content=FeedBurner%2Buser%2Bview",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple wants a seat at the enterprise table and IBM will soon be rolling out the red carpet that leads to the boardroom. Sure, Big Blue's CEO Ginni Rommety might have to help Apple Chief Tim Cook tie his tie and polish his shoes first, but it's a fair trade. He might have to tell her the difference between an application and an app. Other than a few small hurdles like those, the earliest days of the IBM and Apple relationship should run smooth.\n\nAfter all, without needing to sacrifice turf, Rommety's 103-year-old monolith could be perceived to be cool and forward thinking again. Not only to the old guard that holds IBM Research, with its track record of pushing the boundaries of science, technology and business to make the world work better place, in high regard, but also to the fast tracked execs of the digital generation who have tremendous respect for old guys who get it.\n\nYes, for IBM the Apple partnership has the potential of doing what Watson hasn't been able to do -- namely making it relevant to Gen Y and the millennials.\n\nNot only that, but Rommety's slowly sinking ship will be buoyed by consulting fees earned through helping enterprises roll out Mobile in a safe and compliant way.\n\nWhite Hat Heroes?\n\nThen there are those analytics apps that IBM is supposed have industry-leading expertise in creating. The jury may be out on this one. First because Big Blue will most likely need to get clearance from Apple before they can sell them in the App Store, and, second, because it will be interesting to see how easily IBM is willing to forgo its ego and make them simple and admissible to modern users.\n\nAnd while some analysts and pundits are saying that Apple's big win is about selling more iPhones and iPads into the enterprise, the truth is that the devices are already there and that their presence would continue to grow with or without IBM. Even the tough mustered US Government has intentions of rolling them out.\n\nBut Tim Cook won't cop to that at this point. Instead he and Rometty will present themselves as white- hatted heroes who are helping the enterprise eliminate shadow IT. IBM will talk to CIOs about all of the valuable data that's being lost via unsanctioned BYOD, and, not only that, but also about all of the analytics that can be performed on the data to help enterprises work smarter.\n\nLet's hope they gain more traction than Watson. Maybe Siri's delivery will help.\n\nApple Wants a Bigger Bite\n\nBut enough about all of this, because Apple wants more than to ride on IBM's coat tails. It wants its own seat at the conference room table -- Craig Federighi, the company's CTO, all but said so at Worldwide Developers Conference last month.\n\nHairforce One, as Federighi has jokingly called himself, stood before a crowd introducing Yosemite, Apple's new OSx. It's built for a world in which desktops, mobile devices, the Cloud and your personal and professional lives intersect.\n\nIt was clear then that Apple wanted in on that territory. A point of proof was iCloud Drive, a cloud file store that is accessible via any device. It's comparable to Microsoft's OneDrive, Google Drive, Amazon Cortana, and the like. Add Apple's Mail Drop SaaS app to it, which automatically loads large attachments into a user's iCloud account and then emails a link by which they can be accessed and edited, and it could give Box, Dropbox and services like them a run for their money.\n\nThen there's Handoff, a cool tool that lets you start something on one device, work on it or add changes to it on another, and finish up on still another. This is how we live and so Handoff, and solutions like it, could be enterprise \"must haves\" a few years from now.\n\nMutually Beneficial\n\nSure IBM might be Apple's official ticket into the enterprise, but it's probably more of a short term \"I use you, you use me\" relationship than it is a true love.\n\nEither way, it will give IBM a few years to prove that it still has to offer what enterprises want and it will Apple what it needs to become a true platform play -- the kind that Microsoft, Google and Amazon already are.\n\ncomments Top Articles Related Articles Recent Comments Forrester: Move Faster on App Development\n\nWorld Cup Website Hacked: Is Yours Vulnerable, Too?\n\nCan You Name the Top 10 IoT Companies?\n\nA Man, a Blouse and an Awesome Customer Experience\n\nMicrosoft Strikes Google by Slashing Office 365 Prices #WPC14\n\nWhy Microsoft's Cortana is 14 for 14 Calling World Cup Matches\n\nThank You, Apple-IBM? Why Mega Deal is Good for Microsoft\n\nThank You, Apple-IBM? Why Mega Deal is Good for Microsoft Big, Bigger, Huge: Apple, IBM Create Massive Partnership Good Bet or Huge Gamble? Microsoft's Vision for the Future Useful article? Email It\n\nFollow @cmswire Tags: apple, business, enterprise 2.0, enterprise collaboration, google, ibm, ios, ipads, microsoft, mobile enterprise, wpc14",
+                    "date": "2014-07-22",
+                    "eventUri": "1020476",
+                    "id": "15880947",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7047,
+                    "source": {
+                        "title": "CMSWire.com",
+                        "uri": "www.cmswire.com"
+                    },
+                    "time": "03:11:00",
+                    "title": "Apple's IBM Play Isn't Only About Selling More iDevices",
+                    "uri": "198886239",
+                    "url": "http://www.cmswire.com/cms/mobile-enterprise/apples-ibm-play-isnt-only-about-selling-more-idevices-025948.php?utm_source=MainRSSFeed&utm_medium=Web&utm_campaign=RSS-News",
+                    "wgt": 1
+                },
+                {
+                    "body": "Summary Revenue is beginning to stabilize which should propel the shares higher over the next few quarters. Management reaffirmed earnings of $18 per share which makes IBM unduly cheap. Continued growth of its Software division will allow it to de-emphasize the hardware division.\n\nPatience is one of the key traits an investor must possess. The market is full of pitfalls, leading to an investor prematurely selling out of what would be a winning position. The article below will discuss International Business Machines (NYSE:IBM) revenue growth which has been absent over the past few quarters. At the end of the article, I will update my year end price target for the shares.\n\nIBM has been besieged with falling revenue growth over the past eight quarters as the company looks to transition itself into a more software focused solutions enterprise. IBM's major emphasis is expanding their revenue generated from cloud applications while de-emphasizing the revenue generated from hardware. I would like to examine the hardware division dubbed Systems and Technology first. Sales for this division came in at $3.3 billion, a decline of 11% versus the same period last year. Clearly, this is IBM weakest division with scant signs of improvement so far.\n\nThe software division however was able to grow revenues to $6.5 billion a 1% increase from the prior year. The software division carries a much higher gross profit which greatly aids IBM in overcoming the weight of the declining sales from the hardware division on overall profitability. The Software division carries a pre-tax margin of 36.5% which is certainly very attractive.\n\nThe largest division of IBM is the Services division, it came in with sales of $13.9 billion which was down 1% from the previous quarter. The Services division has an estimated backlog of approximately $136 billion which is a truly staggering number. If we examine this for a moment, Services has a roughly 10 quarter backlog of contracts. The backlog offers quite a bit of visibility and predictability which I find very appealing. I believe the ease of predictability of IBM revenue and profits is what attracted Warren Buffett to the shares. The Service division carries a pre-tax margin north of 17%, an adequate number while not as attractive as the margins seen in software.\n\nIBM is de-emphasizing its reliance on hardware and shifting its focus to higher margin service and software divisions. While revenue continues to shrink as evidenced by the 2% decrease this quarter to $24.4 billion, the shift in business mix is leading to higher profits. IBM's gross profit rose to 49.1% versus 48.7% the comparable period before. Clearly, the emphasis on higher margin products is the correct course of action and the transformation is beginning to bear fruit.\n\nIBM data by YCharts\n\nThere are two things I will continue to focus on with regards to my holding of IBM. The first is the company's return of capital activities. IBM continues to repurchase a large amount of shares which will greatly enhance shareholder return once the transformation is complete. IBM is currently trading at less than 12 times its current year's recently reaffirmed earnings projection of $18 per share. The shares are unduly cheap, especially in light of the all-time highs the market is currently trading at. In my opinion, there is never a better time to repurchase shares then when you're multiple is less than 15. IBM certainly didn't disappoint this quarter, reducing shares outstanding from 1.11 billion to 1.01 billion. As we can see from the chart below, IBM has steadily reduced shares outstanding over the past three years taking advantage of the lull in its share price.\n\nIBM Shares Outstanding data by YCharts\n\nThe second portion of IBM's capital allocation plan revolves around its return of capital to shareholders in the form of a dividend. IBM certainly hasn't disappointed in this regard. As we can see from the chart below there have been steady dividend hikes along with the share repurchases. The shares currently yield a tad over 2% which is certainly appealing.\n\nIBM Dividend data by YCharts\n\nThe second part I continue to watch is the transformation of the company. I am particularly interested in the continued increase in IBM's gross margin. For the transformation to be successful, I would need to see revenues stabilize first then eventually grow. I believe we are rapidly approaching stabilization in revenues as evidenced by the most recent earnings release. From here, the investing in higher margin divisions such as software, combined with the dramatic decrease in shares outstanding as evidenced by the chart above, will kick off a virtuous cycle of higher earnings which begets higher dividends along with a much higher share price.\n\nI can easily envision a share price of $250 by the same time next year. I am actually being a tad conservative as IBM is projected to earn $20 per share next year which doesn't exactly make my prediction wildly bullish. I continue to view IBM as the best value in the Dow 30 (NYSEARCA:DIA) and one of the lowest in the S&P 500 (NYSEARCA:SPY) as well. I am heartened by the recent earnings report and I remain long the shares. Thank you for reading and I look forward to your comments.\n\nSource: IBM Transformation Continues, Expect The Shares To Trade To $250 By Year End\n\nDisclosure: The author is long IBM. The author wrote this article themselves, and it expresses their own opinions. The author is not receiving compensation for it (other than from Seeking Alpha). The author has no business relationship with any company whose stock is mentioned in this article. (More...)",
+                    "date": "2014-07-18",
+                    "eventUri": "1020476",
+                    "id": "15622409",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6255,
+                    "source": {
+                        "title": "Seeking Alpha",
+                        "uri": "seekingalpha.com"
+                    },
+                    "time": "05:13:00",
+                    "title": "IBM Transformation Continues, Expect The Shares To Trade To $250 By Year End",
+                    "uri": "198132510",
+                    "url": "http://seekingalpha.com/article/2322075-ibm-transformation-continues-expect-the-shares-to-trade-to-250-by-year-end?source=feed",
+                    "wgt": 1
+                },
+                {
+                    "body": "There was front-page coverage to Microsoft cutting 18,000 jobs, but what could be worse news for Microsoft wasn'\u200dt as broadly reported.\n\nLast week, Apple and IBM announced a partnership aimed at the business world.\n\nApple for a long time has wanted to loosen Microsoft'\u200ds hold on the desktop office computer with little success.\n\nBusinesses have been allowing employees to use iPads and iPhones, but the IT departments of many businesses are not enthusiastic about the practice. The reasons for that are the same reasons that Apple has not cracked enterprise computing -- the lack of a sales force, a support network and expertise in secure networking.\n\nEnter IBM.\n\nIn its posting on the partnership, Apple said it expects to get from IBM cloud services optimized for iOS, including device management, security, analytics and mobile integration; new AppleCare service and support offering tailored to the needs of the enterprise; and new packaged offerings from IBM for device activation, supply and management, support, sales and networking -- just what Apple could not offer businesses.\n\nIn addition, the newest version of the Apple operating system for its Mac desktop, due in the fall, will concentrate on linking its mobile products, iPhone and iPad to the desktop. This gives Apple a direct line to business desktops from their mobile products. But the desktops must be Macs, so maybe Apple has finally unlocked the door to the cubicle.\n\n\u25cf\n\nWhen \"free\" doesn'\u200dt mean \"free\": Google has said that by the end of September, it will cease to advertise games as \"free\" when they include in-app purchases, according to The Verge. Many of us have had the frustration of downloading a free app, then finding out you can'\u200dt do much with it unless you buy features from within the app. Google took this action at the behest of the European Commission, so it is unclear whether it will apply outside of Europe.\n\n\u25cf\n\nLoad up your Kindle: Amazon has announced Kindle Unlimited, an unrestricted reading and listening service for $10 a month that offers more than 600,000 books for reading on Kindle and Kindle-reading apps as well as thousands of audiobooks from Audible, according to TechCrunch. The big five -- the major publishers -- are offering some of their best and most popular titles on the service. The service also features Whispersync for Voice, which allows you to move from reading to listening without losing your place in the book.\n\n\u25cf\n\nAll aboard the cheaper train: Microsoft with its partners plans to launch a $199 Windows-based laptop that is designed to compete with Chromebooks, according to Tech Times, and a $99 tablet designed to compete with cheap Android-based tablets. The $199 laptop will be made by HP.\n\n\u25cf\n\nBack to just being just sand: IBM is getting ready for a future in which chips are not made of silicon, says Wired.com. The components of silicon chips are getting so small that they are reaching a point where they can no longer maintain a reliable on or off state, so IBM will spend $3 billion to find alternatives. In the wings are carbon nanotubes and silicon nanophotonics, which use light instead of electrical signals to send data around the chip.",
+                    "date": "2014-07-19",
+                    "eventUri": "1020476",
+                    "id": "15904399",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6086,
+                    "source": {
+                        "title": "Pittsburgh Post-Gazette",
+                        "uri": "www.post-gazette.com"
+                    },
+                    "time": "16:47:00",
+                    "title": "Ced Kurtz's Techman Texts: Apple moving in on rival's territory",
+                    "uri": "198962896",
+                    "url": "http://www.post-gazette.com/business/technology/2014/07/22/Ced-Kurtz-s-Techman-Texts-Apple-moving-in-on-rival-s-territory/stories/201407220018",
+                    "wgt": 1
+                },
+                {
+                    "body": "Government agencies aren't the first group that come to mind as cloud computing trailblazers, but the State of California is investing in its own private cloud to help unclog the government service bottlenecks that occur all too frequently in America's most populated state.\n\n\"CalCloud\" is a collaboration between the California Department of Technology and IBM to offer cloud services to state and local government agencies using a subscription model based on usage.\n\nIBM manages CalCloud's pool of IT resources -- compute, networking, storage, and disaster recovery -- using its orchestration software called IBM Service Delivery Manager (ISDM). The company is also training state employees on how to use CalCloud. The CalCloud infrastructure is located at data centers in Rancho Cordova and Vacaville, Calif., so the data stays in the state's control. The state Department of Technology is supplying the floor space, power/cooling, network connectivity, and management at the data center sites. IBM is providing, and retains ownership of, the IT infrastructure.\n\n[Apple and IBM's alliance has huge potential, starting with slick business apps. Read Apple, IBM Deal: When Siri Meets Watson.]\n\nUsing an IBM portal, a state or local agency can customize the computing it gets from CalCloud. An agency starts with a base server bundle and can select different options to fit its needs.\n\nThe CalCloud concept is the first of its kind to be implemented in the US at the state level, according to IBM. The main benefits of CalCloud for government IT workers is they can scale up or down to match workload requirements. Today, hundreds of state and local agencies rely on siloed, legacy IT systems. The CalCloud service model lets government entities share a pool of computing resources with quick access to modern back-end services that will help them operate more efficiently than they do today within their own systems.\n\nCalCloud is currently an IaaS offering. In its roadmap, IBM said it plans to have support for PaaS and SaaS offerings within CalCloud.\n\nThe benefit for California residents, if enough of the state's agencies use CalCloud, is they will have a single sign-on system for state and local government services. Single sign-on will authenticate users to access services that usually require individual registrations.\n\n\"With single sign-on, citizens get a consistent view of who they are across different state services and what services they're eligible for,\" says Dan Pelino, GM for IBM's global public sector. \"If you're applying for a license or permit or changing your address on one service, it's applied to all of them because they'll all be on one platform.\"\n\nCalifornia has 400 state departments and local government entities that are served by the state's Department of Technology. Because these agencies mostly manage their own infrastructures today, \"there's a lot of redundancy, a lot of vendors to manage, a lot of backup and recovery,\" says Pelino. \"It creates too many islands of information, and it's expensive to manage.\"\n\nThe State of California and IBM have organized seminars and events promoting CalCloud to state and local agencies. The state will let the agencies decide whether to use CalCloud. So far, 20 agencies - including the Employment Development Department, one of the largest state departments -- have begun to migrate from their legacy infrastructures to the CalCloud service.\n\nCalCloud meets security standards based on National Institute of Standards (NIST) for cloud-based services and FedRAMP, a program that provides standards for security assessment, authorization, and monitoring for cloud services for the federal government.\n\nIn addition to IBM, CalCloud partners include AT&T, which will provide network services for the core and edge networks. IT consulting firms Alexan International and KPMG are also helping with migration to CalCloud.",
+                    "date": "2014-07-24",
+                    "eventUri": "1020476",
+                    "id": "16085233",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6079,
+                    "source": {
+                        "title": "InformationWeek",
+                        "uri": "www.informationweek.com"
+                    },
+                    "time": "17:00:00",
+                    "title": "IBM & California Partner On Private Cloud - InformationWeek",
+                    "uri": "199483647",
+                    "url": "http://www.informationweek.com/cloud/infrastructure-as-a-service/ibm-and-california-partner-on-private-cloud/d/d-id/1297526",
+                    "wgt": 1
+                },
+                {
+                    "body": "(The Hosting News) - CloudOne (http://www.oncloudone.com), an IBM Premier Business Partner and the industry leader in cloud delivery of IBM Software-as-a-Service, announced today they have acquired the North American sales and marketing operations of Sodius Corp., the market leader in interoperability solutions for systems development. Simultaneously, Sodius Corp. announced a partnership to serve as CloudOne's sales and marketing reseller in the growing French marketplace.\n\nAs part of the acquisition, Robert Baillargeon will become Director of Solutions Delivery for CloudOne's new systems services practice. Led by CloudOne's Vice President of Business Development James Pietrocarlo, a former executive in the Lab Services team for IBM Rational, this new practice will provide top-level consulting services and architectural direction for customers in automotive and related systems development industries.\n\nJean-Philippe Lerat, Pr\u00e9sident-Directeur G\u00e9n\u00e9ral of Sodius said, \"I welcome this mutually beneficial agreement for our companies. This will leverage our strengths in our respective marketplaces, and put us at the forefront of systems development, which is integrated, cloud-delivered workspaces to accelerate collaborative product innovation.\"\n\nJohn McDonald, CEO of CloudOne added, \"We've had a long and close relationship with Sodius, a company well-respected in the marketplace and appreciated by their customers for the capabilities and reputation they bring to systems development. It is an honor to represent their technologies in North America, and even more exciting is the chance to better serve the French marketplace through this new chapter in our relationship.\"\n\nAbout CloudOne\n\nCloudOne delivers on-demand Software-as-a-Service (SaaS) and Virtual Private Cloud solutions for IBM\u00ae software tools to meet the needs of all industry verticals and variably sized organizations. Cummins, Panasonic, Hilton, CVS/Caremark, US Army, Shell, Xerox, Deloitte, Delphi Automotive, Harman/Kardon, McDonald's and other organizations worldwide rely on CloudOne's cloud-based IBM SaaS services to make their infrastructure work on-demand.\n\nStarted in 2009, the company is privately owned and headquartered in Indianapolis, IN. CloudOne speeds the development of IBM\u00ae technologies with no up-front capital, so companies \"pay as they go\" on a monthly subscription saving them money on infrastructure, staffing and configuration costs while creating a dynamic, elastic environment to facilitate global collaboration, visibility and consistency. To learn more about accelerating architecture initiatives with CloudOne, visit http://www.oncloudone.com or follow us on Twitter @OnCloudOne.\n\nAbout Sodius\n\nStarted in 1999, Sodius, a privately-owned French corporation, is dedicated to improving engineering processes for designing complex systems, products, and software by amplifying existing skills and engineering assets to deliver products more efficiently. Sodius provides off-the-shelf and custom interoperability solutions to integrate applications, engineering teams, and processes. Sodius is a technology provider for IBM Rational, with an expertise in integrating the Rational tool suite with non-Rational design and architecture products. To learn more about Sodius, visit http://www.sodius.com or follow us on Twitter at @SodiusCorp.",
+                    "date": "2014-07-21",
+                    "eventUri": "1020476",
+                    "id": "15838632",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.483,
+                    "source": {
+                        "title": "TheHostingNews.com",
+                        "uri": "www.thehostingnews.com"
+                    },
+                    "time": "14:31:00",
+                    "title": "CloudOne Acquires North American Sales and Marketing Operations of Sodius Corp.",
+                    "uri": "198772044",
+                    "url": "http://www.thehostingnews.com/cloudone-acquires-north-american-sales-and-marketing-operations-of-sodius-corp-32143.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "A Site Devoted to the Discovery and Application of Emerging Technologies .\n\nHave had some discussions on this concept. There is considerable interest in academia, but the ideas have to be tied to course structure, AND be of real interest to hiring companies. You have to work both sides of the knowledge chain. IBM News room - 2014-05-07 Seven of the Nation's Leading Technology Institutions Unveil Cognitive Computing Courses Leveraging IBM Watson.",
+                    "date": "2014-07-21",
+                    "eventUri": "1020476",
+                    "id": "15837876",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.4166,
+                    "source": {
+                        "title": "eponymouspickle.blogspot.com",
+                        "uri": "eponymouspickle.blogspot.com"
+                    },
+                    "time": "13:56:00",
+                    "title": "Watson and Academic Institutions",
+                    "uri": "198769961",
+                    "url": "http://eponymouspickle.blogspot.com/2014/07/watson-and-academic-institutions.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Adaptable System Recovery (ASR) for Linux virtual machines\n\nQuotw How would you like to be told that you've lost your job? Probably not with an email which started with the phrase: \"Hello there.\"\n\nBut that's how Microsoft mobile boss Stephen Elop began his missive to the Microsoft Devices Group, burying the news about killing off Nokia X in par four, and the bit about which operations in the Devices Group would be \"right-sized\" in par nine.\n\nHe wrote: \"We expect to focus phone production mainly in Hanoi, with some production to continue in Beijing and Dongguan. We plan to shift other Microsoft manufacturing and repair operations to Manaus and Reynosa respectively, and start a phased exit from Komaron, Hungary.\"\n\nHe continued: \"We plan that this would result in an estimated reduction of 12,500 factory direct and professional employees over the next year.\n\nElop had been elaborating on Microsoft CEO Satya Nadella's earlier announcement, which had included a warning that a whopping 18,000 jobs would be lost from Microsoft as a whole - 12,500 of which would come from Elop's troops.\n\n\"We recognize these planned changes are broad and have very difficult implications for many of our team members,\" wrote Elop.\n\nThat's OK then. Sleep tight Microsofties.\n\nThis was also the week when we were told that Apple would have to cough $400m to customers in 33 US states after participating in a price-fixing conspiracy to raise the prices of ebooks.\n\nNew York State Attorney General Schneiderman said:\n\nThis settlement proves that even the biggest, most powerful companies in the world must play by the same rules as everyone else.\n\nSo will Apple - famously described by the Chinese state television channel CCTV as \"greedy\" and \"incomparably arrogant\" - change its wicked price-fixing ways? We don't know for sure, because the firm has a way of surprising us all.\n\nJaws around the world dropped to the floor when Apple announced a deal with IBM, a company that late CEO Steve Jobs regarded as his arch-rival. The two companies struck a \"landmark deal\", which will see IBM develop 100 enterprise apps for iPad and iPhone.\n\nIBM chief Ginni Rommetty said of Big Blue Apple:\n\nWe are delighted to be teaming with Apple, whose innovations have transformed our lives in ways we take for granted, but can't imagine living without. Our alliance will bring the same kind of transformation to the way people work, industries operate and companies perform.\n\nThis week we also learned that NASA boffins expect to find habitable, Earth-like worlds and maybe even extra-terrestrial life within the next 20 years (assuming we haven't all killed each other by then).\n\nMatt Mountain, a top space scientist, said:\n\nImagine the moment when the world wakes up and the human race realizes that its long loneliness in time and space may be over - the possibility we're no longer alone in the universe.\n\nIf that doesn't make you worry about humanity, perhaps the revelation that Elon Musk wanted to name his range of electric cars \"SEX\" will. He already had a range called the Model S and X, which are sedans or SUVS, so he thought why not name the next lots of cars Model E?\n\nSadly, Ford wasn't happy and sued him for the use of the name.\n\nHe said:\n\nThis is crazy. Ford's trying to kill sex! So we'll have to think of another name. The new model is going to be called Model 3, we'll have three bars to represent it and it'll be S III X!\"\n\nIt's not only difficult to get into space, it's difficult to stay up there, particularly when astronauts' competing paymasters in Russia and the US spend all their time squabbling. So when the private firm Orbital Sciences Corp sent its unmanned Cygnus craft into orbit from a spaceport in Virginia, NASA took the chance to tell the major space powers to sort out their differences.\n\n\"Keeping the space station supplied, keeping it flying, and even, politically, keeping it supported by the various governments around the world continues to be a challenge,\" said Frank Culbertson, a former NASA astronaut and current executive vice president for Orbital Sciences.\n\nSo how did the team which created the darkest material in the world come up with the idea? They were down the pub, of course.\n\n\"We were in the research lab getting very frustrated. We raced down to the pub and had a lightbulb moment,\" said Surrey NanoSystems CTO Ben Jensen.\n\nThe light of freedom is well and truly alight up in Scotland, where the SNP's mission to burn down the United Kingdom is reaching fever pitch. Smug wee Alex Salmond's shock troops are celebrating the arrival of Scotland's very own domain name, .scot, which can be used by anyone who wants to pledge allegiance to Lord Shrek and his freedom-crying hordes.\n\nNicola Sturgeon, deputy first minister, said:\n\nIt is entirely right that Scotland should have its own distinctive and recognisable Internet domain, in particular one that will resonate internationally, helping to promote Scottish business and culture throughout the world.\n\n\u00ae",
+                    "date": "2014-07-18",
+                    "eventUri": "1020476",
+                    "id": "15625825",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.3884,
+                    "source": {
+                        "title": "www.theregister.co.uk",
+                        "uri": "www.theregister.co.uk"
+                    },
+                    "time": "06:03:00",
+                    "title": "Stephen Elop: 'Hello there' (and goodbye to, er, 12,500 of you)",
+                    "uri": "198141687",
+                    "url": "http://www.theregister.co.uk/2014/07/18/quote_of_the_week/",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 10,
+            "averageDate": "2014-07-20",
+            "avgCos": 0.4315,
+            "categories": [
+                {
+                    "label": "Computers/Companies/Apple_Inc.",
+                    "uri": "http://www.dmoz.org/Computers/Companies/Apple_Inc.",
+                    "wgt": 34
+                },
+                {
+                    "label": "Computers/Companies/IBM",
+                    "uri": "http://www.dmoz.org/Computers/Companies/IBM",
+                    "wgt": 37
+                }
+            ],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1020476",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1020476",
+            "lang": "eng",
+            "storyDate": "2014-07-20",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-576336",
+            "variance": 0.3138
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-221280": {
+        "articles": {
+            "resultCount": 31,
+            "results": [
+                {
+                    "body": "IBM desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS.\n Los gigantes tecnol\u00f3gicos Apple e IBM, que hace tres d\u00e9cadas eran rivales irreconciliables en el entonces emergente mercado inform\u00e1tico, anunciaron este martes una alianza para competir juntos en el mercado de la telefon\u00eda inteligente.\n Trabajar\u00e1n juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresasEn un comunicado, Apple explic\u00f3 que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas, aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad que comercializa la empresa de la manzana mordida.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de un tit\u00e1n de este sector como es IBM.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley -la compa\u00f1\u00eda tiene su sede en Armonk (Nueva York)-, desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, mientras que Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\", indic\u00f3 el consejero delegado de Apple, Tim Cook.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que, a finales del siglo XX, se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple, Steve Jobs, dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15410959",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8573,
+                    "source": {
+                        "title": "20minutos.es - \u00daltimas Noticias",
+                        "uri": "www.20minutos.es"
+                    },
+                    "time": "02:39:00",
+                    "title": "Apple se al\u00eda con su rival hist\u00f3rico IBM para competir en el mercado m\u00f3vil",
+                    "uri": "197597319",
+                    "url": "http://www.20minutos.es/noticia/2194425/0/apple/ibm/mercado-movil/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Antes rivales irreconciliables, trabajar\u00e1n en el desarrollo de soluciones para empresas.  Los gigantes tecnol\u00f3gicos Apple e IBM, que hace tres d\u00e9cadas eran rivales irreconciliables en el entonces emergente mercado inform\u00e1tico, anunciaron una alianza para competir juntos en el mercado de la telefon\u00eda inteligente.\n En un comunicado, Apple explic\u00f3 que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad que comercializa la empresa de la manzana mordida.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de un tit\u00e1n de este sector como es IBM.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley -la compa\u00f1\u00eda tiene su sede en Armonk (Nueva York)-, desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, y Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\", indic\u00f3 el consejero delegado de Apple, Tim Cook.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que a finales del siglo XX se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple Steve Jobs dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15405084",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8447,
+                    "source": {
+                        "title": "heraldo.es",
+                        "uri": "www.heraldo.es"
+                    },
+                    "time": "07:49:00",
+                    "title": "Apple e IBM se al\u00edan en el mercado m\u00f3vil",
+                    "uri": "197579860",
+                    "url": "http://www.heraldo.es/noticias/sociedad/2014/07/16/apple_ibm_alian_mercado_movil_299775_310.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Los gigantes tecnol\u00f3gicos Apple e IBM, que hace tres d\u00e9cadas eran rivales irreconciliables en el entonces emergente mercado inform\u00e1tico, anunciaron este martes una alianza para competir juntos en el mercado de la telefon\u00eda inteligente.\n En un comunicado, Apple explic\u00f3 que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas, aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad que comercializa la empresa de la manzana mordida.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de un tit\u00e1n de este sector como es IBM.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley -la compa\u00f1\u00eda tiene su sede en Armonk (Nueva York)-, desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, mientras que Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\", indic\u00f3 el consejero delegado de Apple, Tim Cook.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que, a finales del siglo XX, se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple, Steve Jobs, dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15378511",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8399,
+                    "source": {
+                        "title": "www.rpp.com.pe",
+                        "uri": "www.rpp.com.pe"
+                    },
+                    "time": "00:37:00",
+                    "title": "Apple e IBM se al\u00edan en el mercado m\u00f3vil",
+                    "uri": "197510689",
+                    "url": "http://www.rpp.com.pe/2014-07-15-apple-e-ibm-se-alian-en-el-mercado-movil-noticia_708291.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple y Google alcanzan un acuerdo para sellar su lucha por patentes de telefon\u00eda m\u00f3vil\nLos gigantes tecnol\u00f3gicos Apple e IBM, rivales irreconciliables desde hace tres d\u00e9cadas en el entonces emergente mercado inform\u00e1tico, han anunciado una alianza con el objetivo de desarrollar m\u00e1s de 100 nuevas soluciones para empresas, entre ellas aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley (la compa\u00f1\u00eda tiene su sede en Armonk, Nueva York), desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhone e iPad que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst, seg\u00fan ha explicado Apple en un comunicado.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, y Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple\", ha declarado el consejero delegado de Apple, Tim Cook.\n Este movimiento pondr\u00e1 a disposici\u00f3n de Apple la docena de adquisiciones de patentes en seguridad que IBM ha realizado en la \u00faltima d\u00e9cada y m\u00e1s de 6.000 investigadores y desarrolladores en m\u00e1s de 25 laboratorios en todo el mundo.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de IBM.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que a finales del siglo XX se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple Steve Jobs dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15418825",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8357,
+                    "source": {
+                        "title": "RTVE.es",
+                        "uri": "www.rtve.es"
+                    },
+                    "time": "10:56:00",
+                    "title": "Apple e IBM firman un acuerdo para colaborar en el entorno empresarial",
+                    "uri": "197619884",
+                    "url": "http://www.rtve.es/noticias/20140716/apple-ibm-firman-acuerdo-para-colaborar-entorno-empresarial/974460.shtml",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple y Google alcanzan un acuerdo para sellar su lucha por patentes de telefon\u00eda m\u00f3vil\nLos gigantes tecnol\u00f3gicos Apple e IBM, rivales irreconciliables hace tres d\u00e9cadas en el entonces emergente mercado inform\u00e1tico, han anunciado una alianza con la que la marca de la manzana mordida pretende introducirse en el mercado de la empresa.\n En un comunicado, Apple explica que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad que pretenden revolucionar la aplicaci\u00f3n de la tecnolog\u00eda m\u00f3vil en la empresa.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley (la compa\u00f1\u00eda tiene su sede en Armonk, Nueva York), desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, y Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\", ha declarado el consejero delegado de Apple, Tim Cook.\n La combinaci\u00f3n del saber hacer de ambas firmas crear\u00e1 aplicaciones capaces de transformar las relaciones entre empresas y empleados y permitir\u00e1 a las compa\u00f1\u00edas ser m\u00e1s eficientes, efectivas y satisfactorias para sus clientes.\n Este movimiento har\u00e1 \u00fatil la docena de adquisiciones de patentes en seguridad que IBM ha realizado en la \u00faltima d\u00e9cada y pondr\u00e1 al servicio de los clientes empresariales de Apple sus m\u00e1s de 6.000 investigadores y desarrolladores en m\u00e1s de 25 laboratorios en todo el mundo.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de un tit\u00e1n de este sector como es IBM.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que a finales del siglo XX se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple Steve Jobs dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15380522",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8287,
+                    "source": {
+                        "title": "RTVE.es",
+                        "uri": "www.rtve.es"
+                    },
+                    "time": "01:03:00",
+                    "title": "Apple e IMB firman un acuerdo para comer terreno a Microsoft en el mundo empresarial",
+                    "uri": "197515097",
+                    "url": "http://www.rtve.es/noticias/20140716/apple-imb-firman-acuerdo-para-comer-terreno-microsoft-mundo-empresarial/974460.shtml",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple ha explicado en un comunicado que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas, aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad que comercializa la empresa de la manzana mordida.\n Con el acuerdo, Apple, que en los \u00faltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00e1tica de consumo en lugar de centrarse en la empresa (donde el l\u00edder indiscutible sigue siendo Microsoft), trata de introducirse en el \u00e1mbito empresarial de la mano de un tit\u00e1n de este sector como es IBM.\n IBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley -la compa\u00f1\u00eda tiene su sede en Armonk (Nueva York)-, desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhone e iPad que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, mientras que Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\", indic\u00f3 el consejero delegado de Apple, Tim Cook.\n Se trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que, a finales del siglo XX, se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple, Steve Jobs, dedic\u00e1ndole una peineta al logotipo de IBM, as\u00ed como el m\u00edtico anuncio del Mac en el que se representaba el ordenador personal de IBM y Microsoft como el Gran Hermano de la novela 1984.\n Con esta decisi\u00f3n, Apple intentar\u00e1 hacerse fuerte en el mercado empresarial, un nicho que ha dejado hu\u00e9rfano Blackberry y en el que Microsoft ha visto la gran oportunidad de ganar hueco para su Windows Phone.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15452463",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8264,
+                    "source": {
+                        "title": "Libertad Digital",
+                        "uri": "www.libertaddigital.com"
+                    },
+                    "time": "16:32:00",
+                    "title": "Apple se al\u00eda con IBM, el \"Gran Hermano\"",
+                    "uri": "197704480",
+                    "url": "http://www.libertaddigital.com/ciencia-tecnologia/tecnologia/2014-07-16/apple-e-ibm-viejos-competidores-se-alian-en-el-mercado-movil-1276523969/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Los dos gigantes tecnol\u00f3gicos, rivales irreconciliables durante d\u00e9cadas, sellaron un acuerdo para desarrollar aplicaciones corporativas que operar\u00e1n bajo el sistema de la empresa de la manzanita\n\nEn un comunicado de prensa, Apple explic\u00f3 que su nueva sociedad con IBM llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas, aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad. Con este acuerdo, Apple intentar\u00e1 ganar espacio en el \u00e1mbito empresarial de la mano de un tit\u00e1n de la industria, como es IBM.\n\nIBM, una de las pocas grandes empresas tecnol\u00f3gicas que sobreviven fuera de Silicon Valley -la compa\u00f1\u00eda tiene su sede en Armonk (Nueva York) -, desarrollar\u00e1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n\nIBM proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, mientras que Apple se encargar\u00e1 de ofrecer apoyo t\u00e9cnico a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n\n\"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00e1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple. Esto es un avance radical para las empresas y algo que s\u00f3lo Apple e IBM pueden ofrecer\" , asegur\u00f3 el consejero delegado de Apple, Tim Cook.\n\n\"Queremos enfocarnos en crear un flujo de trabajo irresistible, en los procesos, junto con dise\u00f1os de aplicaciones que puedan ser empleados por todos los usuarios de la organizaci\u00f3n\", le dijo Bridget van Kralingen, vicepresidenta senior de IBM y jefa del negocio de servicios globales, a la agencia de noticias Reuters.\n\nSe trata del primer acuerdo de gran calado entre dos compa\u00f1\u00edas que, a finales del siglo XX, se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00f3 para la historia la ic\u00f3nica fotograf\u00eda del cofundador de Apple, Steve Jobs, dedic\u00e1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15560150",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8137,
+                    "source": {
+                        "title": "infobae",
+                        "uri": "www.infobae.com"
+                    },
+                    "time": "15:03:00",
+                    "title": "Hist\u00f3rica alianza entre IBM y Apple para potenciar el iOS - InfoBAE.com",
+                    "uri": "197980922",
+                    "url": "http://www.infobae.com/2014/07/17/1581378-historica-alianza-ibm-y-apple-potenciar-el-ios",
+                    "wgt": 1
+                },
+                {
+                    "body": "IBM proveer\u00c3\u00a1 mecanismos de seguridad, herramientas de an\u00c3\u00a1lisis e integraci\u00c3\u00b3n m\u00c3\u00b3vil para los sistemas operativos iOS\nSan Francisco.- - Los gigantes tecnol\u00c3\u00b3gicos Apple e IBM, que hace tres d\u00c3\u00a9cadas eran rivales irreconciliables en el entonces emergente mercado inform\u00c3\u00a1tico, anunciaron este martes una alianza para competir juntos en el mercado de la telefon\u00c3\u00ada inteligente.\n En un comunicado, Apple explic\u00c3\u00b3 que su nueva sociedad con IBM llevar\u00c3\u00a1 a ambas compa\u00c3\u00b1\u00c3\u00adas a trabajar juntas en el desarrollo de m\u00c3\u00a1s de 100 nuevas soluciones para empresas, entre ellas aplicaciones exclusivas para los tel\u00c3\u00a9fonos iPhone y las tabletas iPad que comercializa la empresa de la manzana mordida.\n Con el acuerdo, Apple, que en los \u00c3\u00baltimos tiempos ha dirigido sus esfuerzos hacia la inform\u00c3\u00a1tica de consumo en lugar de centrarse en la empresa (donde el l\u00c3\u00adder indiscutible sigue siendo el software de Microsoft), trata de introducirse en el \u00c3\u00a1mbito empresarial de la mano de un tit\u00c3\u00a1n de este sector como es IBM.\n IBM, una de las pocas grandes empresas tecnol\u00c3\u00b3gicas que sobreviven fuera de Silicon Valley -la compa\u00c3\u00b1\u00c3\u00ada tiene su sede en Armonk (Nueva York)-, desarrollar\u00c3\u00a1 servicios en nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhones e iPads que se vendan a las compa\u00c3\u00b1\u00c3\u00adas llevar\u00c3\u00a1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM proveer\u00c3\u00a1 mecanismos de seguridad, herramientas de an\u00c3\u00a1lisis e integraci\u00c3\u00b3n m\u00c3\u00b3vil para los sistemas operativos iOS, y Apple se encargar\u00c3\u00a1 de ofrecer apoyo t\u00c3\u00a9cnico a las empresas para las nuevas aplicaciones a trav\u00c3\u00a9s de AppleCare.\n \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las prestigiosas herramientas de Big Data y an\u00c3\u00a1lisis de IBM, lo que abre una gran oportunidad de mercado para Apple.  Esto es un avance radical para las empresas y algo que s\u00c3\u00b3lo Apple e IBM pueden ofrecer\", indic\u00c3\u00b3 el consejero delegado de Apple, Tim Cook.\n Se trata del primer acuerdo de gran calado entre dos compa\u00c3\u00b1\u00c3\u00adas que a finales del siglo XX se atacaban sin reparo alguno para llegar a controlar el mercado de los ordenadores personales, una rivalidad que dej\u00c3\u00b3 para la historia la ic\u00c3\u00b3nica fotograf\u00c3\u00ada del cofundador de Apple Steve Jobs dedic\u00c3\u00a1ndole una peineta al logotipo de IBM.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15386923",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7775,
+                    "source": {
+                        "title": "Primera Hora",
+                        "uri": "www.primerahora.com"
+                    },
+                    "time": "02:49:00",
+                    "title": "Apple e IBM se al\u00edan en el mercado m\u00f3vil",
+                    "uri": "197530451",
+                    "url": "http://www.primerahora.com/noticias/tecnologia/nota/appleeibmsealianenelmercadomovil-1022674/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple busca as\u00ed reforzar sus grandes carencias en el mundo empresarial El acuerdo conocido este martes entre los gigantes tecnol\u00f3gicos Apple e IBM para expandir el iPhone y el iPad dentro del mundo empresarial supone una amenaza directa a los planes de Microsoft de controlar el mercado de los tel\u00e9fonos inteligentes en este sector.\n Apple e IBM, que hace tres d\u00e9cadas eran rivales irreconciliables en el entonces emergente mercado inform\u00e1tico, anunciaron esta semana una alianza para competir juntos en el mercado de la telefon\u00eda inteligente, con el objetivo de complementar sus fortalezas para superar las debilidades de cada empresa en distintos \u00e1mbitos.\n Apple, muy consolidada en la inform\u00e1tica de consumo pero con grandes carencias en el mundo de la empresa, trata as\u00ed de introducirse de lleno en el \u00e1mbito de los negocios de la mano de un tit\u00e1n del sector como es IBM, mientras que la compa\u00f1\u00eda neoyorquina encuentra en los dispositivos de Apple una plataforma ideal para ofrecer sus servicios a las empresas.\n Por su parte, Microsoft, la gran dominadora del mercado inform\u00e1tico en el \u00e1mbito empresarial, ve c\u00f3mo de la noche a la ma\u00f1ana aparece un nuevo competidor para una de sus grandes apuestas de futuro: el control del mercado del m\u00f3vil en las empresas de la mano de sus tabletas y del sistema operativo Windows Phone.\n Adem\u00e1s, se trata de un competidor a priori muy serio si se tienen en cuenta las dimensiones de las dos compa\u00f1\u00edas aliadas, y que puede tener un efecto directo sobre las ventas de Windows Phone, ya que de ahora en adelante cuando IBM ofrezca servicios a su gigantesca cartera de clientes, tendr\u00e1 un incentivo para recomendarles el iPhone y el iPad antes que los productos de Microsoft.\n Desde que Satya Nadella asumi\u00f3 el cargo de consejero delegado de Microsoft el 4 de febrero de este a\u00f1o, la empresa con sede en Seattle (Washington) ha redoblado su apuesta en este sentido, con el lanzamiento del paquete de servicios en el m\u00f3vil para empresas Enterprise Mobility Suite y la mejora de sus servicios en la nube.\n Tal es la magnitud de la apuesta conjunta de Apple e IBM, que el propio consejero delegado de Apple y exempleado de IBM, Tim Cook, la calific\u00f3 de \"punto de inflexi\u00f3n\" para su compa\u00f1\u00eda, ya que, a su juicio, ambas empresas proveen juntas \"un producto para las empresas que ninguna de las dos pod\u00eda proveer por s\u00ed misma y que ninguna otra alianza de compa\u00f1\u00edas puede proveer\".\n La nueva sociedad llevar\u00e1 a ambas compa\u00f1\u00edas a trabajar juntas en el desarrollo de m\u00e1s de 100 nuevas soluciones para empresas, entre ellas aplicaciones exclusivas para iPhone e iPad, a la vez que IBM desarrollar\u00e1 servicios en la nube optimizados para los sistemas operativos iOS de Apple y, a su vez, los iPhone e iPad que se vendan a las compa\u00f1\u00edas llevar\u00e1n instalada la plataforma para empresas de IBM MobileFirst.\n IBM tambi\u00e9n proveer\u00e1 mecanismos de seguridad, herramientas de an\u00e1lisis e integraci\u00f3n m\u00f3vil para los sistemas operativos iOS, y Apple se encargar\u00e1 de ofrecer asistencia t\u00e9cnica a las empresas para las nuevas aplicaciones a trav\u00e9s de AppleCare.\n \"Muchas de las aplicaciones m\u00e1s exitosas fueron desarrolladas para el m\u00f3vil y no para el ordenador.  A su vez, muchos de los productos para empresas empezaron en el ordenador y luego migraron al m\u00f3vil, pero no est\u00e1n optimizados para \u00e9l.  (...) Para cambiar esto necesitamos la experiencia de la industria que tiene IBM\", explic\u00f3 Cook.\n Si la alianza entre ambas empresas da sus frutos y las aplicaciones que \u00e9stas lancen para los sistemas operativos iOS resultan exitosas, Microsoft se ver\u00e1 obligada a desarrollar productos similares o mejorados para no quedarse atr\u00e1s y, adem\u00e1s, deber\u00e1 hacer frente a la cuesti\u00f3n sobre si desarrollarlos s\u00f3lo para Windows Phone o adaptarlos tambi\u00e9n para iOS y alcanzar as\u00ed a todo el mercado.\n Adem\u00e1s de Microsoft, el otro gran perjudicado por el acuerdo entre Apple e IBM es el fabricante canadiense de tel\u00e9fonos inteligentes Blackberry, que tras ceder mucho terreno durante los \u00faltimos a\u00f1os en el mercado de consumo, ha redirigido y focalizado su estrategia en el sector empresarial.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15509084",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7578,
+                    "source": {
+                        "title": "heraldo.es",
+                        "uri": "www.heraldo.es"
+                    },
+                    "time": "04:37:00",
+                    "title": "La alianza de Apple e IBM pone en jaque los planes de Microsoft para el m\u00f3vil",
+                    "uri": "197840335",
+                    "url": "http://www.heraldo.es/noticias/sociedad/2014/07/17/la_alianza_apple_ibm_pone_jaque_los_planes_microsoft_para_movil_299958_310.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Esta alianza incluye la creaci\u00f3n de una nueva categor\u00eda con m\u00e1s de 100 soluciones de empresa espec\u00edficas, incluyendo aplicaciones desarrolladas \"por completo y en exclusiva\" para iPhone e iPad\nApple e IBM han establecido una \"alianza exclusiva\" que une las fortalezas de ambas compa\u00f1\u00edas para \"transformar la movilidad en el mundo de la empresa\" mediante la creaci\u00f3n de un nuevo tipo de aplicaciones de negocios que llevan al iPhone y a iPad las capacidades de anal\u00edtica y gesti\u00f3n de datos de IBM.\n \"Esta asociaci\u00f3n hist\u00f3rica tiene como objetivo redefinir el modo de realizar el trabajo, abordar retos clave en el \u00e1mbito de la movilidad en la industria y propiciar un aut\u00e9ntico cambio en el mundo de los negocios impulsado por la movilidad\", aseguran ambas empresas en un comunicado conjunto.\n En concreto, esta alianza incluye la creaci\u00f3n de una nueva categor\u00eda con m\u00e1s de 100 soluciones de empresa espec\u00edficas, incluyendo aplicaciones desarrolladas \"por completo y en exclusiva\" para iPhone e iPad.\n Asimismo, tambi\u00e9n incorpora servicios en la 'nube' de IBM optimizados para iOS, incluyendo gesti\u00f3n de dispositivos, seguridad, anal\u00edtica e integraci\u00f3n m\u00f3vil, as\u00ed como una nueva oferta de servicio y soporte AppleCare adaptada a las necesidades de la empresa.\n En esta l\u00ednea, informan de que tambi\u00e9n se realizar\u00e1n \"nuevas ofertas en paquetes\" de IBM para el suministro, la activaci\u00f3n y la gesti\u00f3n del dispositivo.\n Ambas empresas defienden que la combinaci\u00f3n crear\u00e1 aplicaciones que pueden transformar aspectos espec\u00edficos de c\u00f3mo trabajan las empresas y los empleados usando el iPhone y el iPad, \"permitiendo a las empresas alcanzar nuevos niveles de eficiencia, efectividad y satisfacci\u00f3n del cliente; m\u00e1s r\u00e1pido y m\u00e1s f\u00e1cil que nunca antes\".\n Por otro lado, informan de que, como parte del acuerdo exclusivo IBM MobileFirst para iOS, IBM vender\u00e1 tambi\u00e9n iPhones e iPads equipados con las soluciones espec\u00edficas para empresas a clientes empresariales de todo el mundo.\n El consejero delegado de Apple, Tim Cook, recalc\u00f3 que el iPhone y el iPad son \"los mejores dispositivos m\u00f3viles del mundo\" y han transformado la forma de trabajar de m\u00e1s del 98% de las empresas de la lista Fortune 500 y de m\u00e1s del 92% de las empresas de la lista Global 500, que actualmente hacen uso de dispositivos iOS en tareas de negocios.\n \"Por vez primera vamos a poner la renombrada capacidad de gesti\u00f3n de big data y anal\u00edtica de IBM en las manos de los usuarios de iOS, lo que abre una enorme oportunidad de mercado para Apple.  Este es un paso trascendental para el mundo de la empresa; algo que s\u00f3lo Apple e IBM pueden ofrecer\", destac\u00f3.\n Por su parte, la presidenta y consejera delegado de IBM, Ginni Rometty, afirm\u00f3 que esta alianza contribuir\u00e1 a su empe\u00f1o por llevar las innovaciones a sus clientes de todo el mundo y fortalece el liderazgo de IBM en los \u00e1mbitos de anal\u00edtica, cloud, software y servicios.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15416953",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7309,
+                    "source": {
+                        "title": "El Correo Gallego - Diario de la Capital de Galicia",
+                        "uri": "www.elcorreogallego.es"
+                    },
+                    "time": "10:31:00",
+                    "title": "Apple e IBM unir\u00e1n fuerzas para la creaci\u00f3n de nuevas aplicaciones y negocios",
+                    "uri": "197614862",
+                    "url": "http://www.elcorreogallego.es/tendencias/ecg/apple-e-ibm-uniran-fuerzas-para-la-creacion-de-nuevas-aplicaciones-y-negocios/idEdicion-2014-07-16/idNoticia-880333/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple e IBM han establecido una \"alianza exclusiva\" que une las fortalezas de ambas compa\u00f1\u00edas para \"transformar la movilidad en el mundo de la empresa\" mediante la creaci\u00f3n de un nuevo tipo de aplicaciones de negocios que llevan al iPhone y a iPad las capacidades de anal\u00edtica y gesti\u00f3n de datos de IBM.\n \"Esta asociaci\u00f3n hist\u00f3rica tiene como objetivo redefinir el modo de realizar el trabajo, abordar retos clave en el \u00e1mbito de la movilidad en la industria y propiciar un aut\u00e9ntico cambio en el mundo de los negocios impulsado por la movilidad\", aseguran ambas empresas en un comunicado conjunto.\n En concreto, esta alianza incluye la creaci\u00f3n de una nueva categor\u00eda con m\u00e1s de 100 soluciones de empresa espec\u00edficas, incluyendo aplicaciones desarrolladas \"por completo y en exclusiva\" para iPhone e iPad.\n Gesti\u00f3n de dispositivos\nAsimismo, tambi\u00e9n incorpora servicios en la 'nube' de IBM optimizados para iOS, incluyendo gesti\u00f3n de dispositivos, seguridad, anal\u00edtica e integraci\u00f3n m\u00f3vil, as\u00ed como una nueva oferta de servicio y soporte AppleCare adaptada a las necesidades de la empresa.\n En esta l\u00ednea, tambi\u00e9n se realizar\u00e1n \"nuevas ofertas en paquetes\" de IBM para el suministro, la activaci\u00f3n y la gesti\u00f3n del dispositivo.\n Ambas firmas defienden que la combinaci\u00f3n crear\u00e1 aplicaciones que pueden transformar aspectos espec\u00edficos de c\u00f3mo trabajan las empresas y los empleados usando el iPhone y el iPad, \"permitiendoles alcanzar nuevos niveles de eficiencia, efectividad y satisfacci\u00f3n del cliente; m\u00e1s r\u00e1pido y m\u00e1s f\u00e1cil que nunca antes\".\n Como parte del acuerdo exclusivo IBM MobileFirst para iOS, IBM vender\u00e1 tambi\u00e9n iPhones e iPads equipados con las soluciones espec\u00edficas a clientes empresariales de todo el mundo.\n El consejero delegado de Apple, Tim Cook, recalc\u00f3 que el iPhone y el iPad son \"los mejores dispositivos m\u00f3viles del mundo\" y han transformado la forma de trabajar de m\u00e1s del 98% de las empresas de la lista Fortune 500 y de m\u00e1s del 92% de las de la lista Global 500, que actualmente hacen uso de dispositivos iOS en todo lo relacionado con sus tareas de negocios.\n Capacidad gesti\u00f3n\n\"Por vez primera vamos a poner la renombrada capacidad de gesti\u00f3n de big data y anal\u00edtica de IBM en las manos de los usuarios de iOS, lo que abre una enorme oportunidad de mercado para Apple.  Este es un paso trascendental para el mundo de la empresa; algo que s\u00f3lo Apple e IBM pueden ofrecer\", destac\u00f3.\n Por su parte, la presidenta y consejera delegado de IBM, Ginni Rometty, afirm\u00f3 que esta alianza contribuir\u00e1 a su empe\u00f1o por llevar las innovaciones a sus clientes de todo el mundo y fortalece el liderazgo de IBM en los \u00e1mbitos de anal\u00edtica, cloud, software y servicios.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15514565",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7232,
+                    "source": {
+                        "title": "El Adelanto de Salamanca",
+                        "uri": "www.eladelantado.com"
+                    },
+                    "time": "06:09:00",
+                    "title": "Apple e IBM unen fuerzas para facilitar soluciones a los negocios",
+                    "uri": "197855946",
+                    "url": "http://www.eladelantado.com/noticia.asp?id=194987",
+                    "wgt": 1
+                },
+                {
+                    "body": "Dos de las tecnol\u00f3gicas m\u00e1s grandes del mundo, despu\u00e9s de treinta a\u00f1os de competir sin desmayo, acuerdan ahora emprender juntas \"100 nuevas soluciones\" para las empresas.\n Apple e IBM, ahora socias\nDesde aplicaciones exclusivas para los tel\u00e9fonos iPhone y las tabletas iPad a las que se instalar\u00e1 la plataforma para empresas de IBM Mobile First, hasta servicios en la nube del m\u00e1ximo nivel, optimizados con sistemas operativos iOS de Apple, un panorama de nuevas y gigantescas relaciones se abre para ambas, que, en conjunto podr\u00edan cambiar el escenario de la competitividad.  IBM tiene como objetivo ahora proveer sistemas de seguridad, y herramientas de integraci\u00f3n m\u00f3vil para sistemas operativos iOS, mientras que Apple, a trav\u00e9s de Apple Care, dar\u00e1 apoyo t\u00e9cnico a empresas para nuevas aplicaciones.\n Los lugares f\u00edsicos de ambas compa\u00f1\u00edas seguir\u00e1n siendo independientes: IBM es de las pocas megacompa\u00f1\u00edas de tecnolog\u00eda que esta fuera de Silicon Valley y piensa continuar en su sede neoyorquina de Armonk.\n Patentes de seguridad de IBM ser\u00e1n compartidas por Apple\nUn gigantesco despliegue de 6.000 investigadores y desarrolladores en todo el mundo, que trabajan en unos 26 laboratorios, ser\u00e1n ahora trabajadores para ambas firmas, en tanto Apple dispondr\u00e1 de unas doce o trece patentes de seguridad que IBM ha comprado en los \u00faltimos doce a\u00f1os.\n Apple podr\u00e1 ahora ingresar m\u00e1s f\u00e1cilmente a la competencia con Microsoft en la focalizaci\u00f3n empresarial, donde \u00e9sta mantiene el liderazgo del software, para lo cual el aporte de IBM le ser\u00e1 fundamental.\n Para la empresa de la manzana, se trata de la segunda gran jugada del a\u00f1o, despu\u00e9s que comprara el fabricante de auriculares Beats Electronics, en unos 3.000 millones de d\u00f3lares, para ingresar de lleno al negocio de la m\u00fasica para suscriptores.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15431536",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7206,
+                    "source": {
+                        "title": "LARED21",
+                        "uri": "www.lr21.com.uy"
+                    },
+                    "time": "13:15:00",
+                    "title": "Apple e IBM acuerdan \"revolucionar\" juntas el flujo de trabajo mediante movilidad",
+                    "uri": "197653449",
+                    "url": "http://www.lr21.com.uy/tecnologia/1186266-apple-e-ibm-acuerdan-revolucionar-juntas-el-flujo-de-trabajo-mediante-movilidad#utm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dapple-e-ibm-acuerdan-revolucionar-juntas-el-flujo-de-trabajo-mediante-movilidad",
+                    "wgt": 1
+                },
+                {
+                    "body": "Los defensores de los discapacitados presionan a Apple para mejorar la accesibilidad de las apps\nCUPERTINO, California y ARMONK, New York -- 15 de julio de 2014 -- Apple e IBM han anunciado hoy una alianza exclusiva que conjuga las fortalezas de ambas compa\u00f1\u00edas para transformar la movilidad en el mundo de la empresa por medio de un nuevo tipo de apps de negocios que llevan al iPhone y a iPad las capacidades de anal\u00edtica y gesti\u00f3n de datos de IBM.\n Este gran acuerdo de colaboraci\u00f3n tiene como objetivo redefinir el modo de realizar el trabajo, abordando retos clave en el \u00e1mbito de la movilidad en la industria y propiciando as\u00ed un cambio profundo en el mundo de los negocios.\n Las principales iniciativas que se desarrollar\u00e1n para poner en marcha esta alianza son: una nueva categor\u00eda con m\u00e1s de cien soluciones de empresa espec\u00edficas, incluyendo apps nativas, desarrolladas por completo y en exclusiva para iPhone e iPad; servicios cloud de IBM optimizados para iOS, incluyendo gesti\u00f3n de dispositivos, seguridad, anal\u00edtica e integraci\u00f3n m\u00f3vil; una nueva oferta de servicio y soporte AppleCare adaptada a las necesidades de la empresa; y nuevas ofertas paquetizadas de IBM para el suministro, la activaci\u00f3n y la gesti\u00f3n del dispositivo.\n Las nuevas soluciones IBM MobileFirst para el sistema operativo iOS de Apple aprovechar\u00e1n las capacidades de big data y anal\u00edtica de IBM y la plataforma de desarrollo de Apple.  La combinaci\u00f3n crear\u00e1 apps que pueden transformar aspectos espec\u00edficos de c\u00f3mo trabajan las empresas y los empleados usando los dispositivos de Apple.\n Como parte del acuerdo exclusivo IBM MobileFirst para iOS, IBM vender\u00e1 tambi\u00e9n iPhones e iPads equipados con las soluciones espec\u00edficas para empresas a clientes empresariales de todo el mundo:\n\"El iPhone y el iPad son los mejores dispositivos m\u00f3viles del mundo y han transformado la forma de trabajar de m\u00e1s del 98 por ciento de las empresas de la lista Fortune 500 y de m\u00e1s del 92 por ciento de las empresas de la lista Global 500, que actualmente hacen uso de dispositivos iOS en tareas de negocios\", dice Tim Cook, CEO de Apple.\n \"Por vez primera vamos a poner la renombrada capacidad de gesti\u00f3n de big data y anal\u00edtica de IBM en las manos de los usuarios de iOS, lo que abre una enorme oportunidad de mercado para Apple.  Este es un paso trascendental para el mundo de la empresa; algo que s\u00f3lo Apple e IBM pueden ofrecer\".\n \"La movilidad -- sumada al fen\u00f3meno de los datos y la nube (cloud) -- est\u00e1 transformando las empresas y nuestra industria de una forma hist\u00f3rica, permitiendo a las personas reinventar el trabajo, las industrias y las profesiones\" dice Ginni Rometty, Chairman, Presidente y CEO de IBM.\n \"Esta alianza con Apple contribuir\u00e1 a nuestro empe\u00f1o por llevar estas innovaciones a nuestros clientes de todo el mundo, y fortalece el liderazgo de IBM en los \u00e1mbitos de anal\u00edtica, cloud, software y servicios.  Estamos encantados de poder hacer equipo con Apple, cuyas innovaciones han transformado nuestras vidas hasta el punto de que no podr\u00edamos imaginar ahora nuestra vida sin ellas.  Nuestra alianza impulsar\u00e1 este mismo tipo de transformaci\u00f3n en la forma en la que trabajan las personas, operan las industrias y realizan su actividad las empresas\".\n Las nuevas apps de la plataforma IBM MobileFirst para iOS estar\u00e1n enfocadas a diferentes situaciones y oportunidades espec\u00edficas en industrias como retail, salud, banca, viajes y transporte, telecomunicaciones y seguros, entre otras, que estar\u00e1n disponibles a partir de este oto\u00f1o y a lo largo de 2015.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15544366",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7166,
+                    "source": {
+                        "title": "LaVanguardia",
+                        "uri": "www.lavanguardia.com"
+                    },
+                    "time": "07:43:00",
+                    "title": "Apple e IBM se al\u00edan para transformar la movilidad en la empresa",
+                    "uri": "197940411",
+                    "url": "http://www.lavanguardia.com/tecnologia/moviles-dispositivos/iphone-ipad/20140716/54411153139/apple-ibm-alian-transformar-movilidad-empresa.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Tim Cook, consejero delegado de de Apple y Ginni Rometty, consejera delegada de IBM, quienes han anunciado una alianza global para transformar la movilidad en la empresa.\n Alianza hist\u00f3rica entre dos gigantes tecnol\u00f3gicos.  Apple e IBM, ac\u00e9rrimos enemigos en el negocio de los ordenadores personales en los a\u00f1os 80, parecen haber corrido un tupido velo y anoche anunciaron un acuerdo exclusivo para sumar sus fortalezas y atacar el negocio m\u00f3vil en las empresas.  Con esta maniobra, la compa\u00f1\u00eda de la manzana quiere impulsar las ventas de sus iPhone y iPad en el mercado corporativo, un entorno que se le ha resistido hasta ahora, e IBM afianzarse como un l\u00edder en la nube, donde rivaliza con empresas como Amazon.\n Ambas empresas destacaron que con esta alianza desarrollar\u00e1n un nuevo tipo de aplicaciones corporativas que llevar\u00e1n al smartphone y tableta de Apple las capacidades de anal\u00edtica y gesti\u00f3n de datos de IBM.  Seg\u00fan los t\u00e9rminos del acuerdo, adem\u00e1s de crear m\u00e1s de 100 soluciones de empresas espec\u00edficas, IBM vender\u00e1 iPhones e iPads equipados con el nuevo software.\n Ken Dulaney, analista de la consultora Gartner, asegur\u00f3 a la BBC que a\u00fan era demasiado pronto para saber la importancia que tendr\u00e1 el acuerdo.  \"Es dif\u00edcil estar seguro, sin tener m\u00e1s detalles\".  Para empezar, se desconocen qu\u00e9 aplicaciones concretas ser\u00e1n desarrolladas y el alcance econ\u00f3mico de la alianza entre ambas empresas.\n En la nota enviada por ambas empresas, estas se limitan a apuntar que crear\u00e1n apps espec\u00edficas en industrias como el retail, el sector sanitario, la banca, los viajes y el transporte, las telecomunicaciones y los seguros, entre otras.  Igualmente aseguran que estar\u00e1n disponibles a partir de este oto\u00f1o y a lo largo de 2015.\n Junto a las aplicaciones, la alianza incluye una oferta de servicios en la nube de IBM optimizados para iOS (el sistema operativo m\u00f3vil de Apple), incluyendo gesti\u00f3n de dispositivos, seguridad, anal\u00edtica e integraci\u00f3n m\u00f3vil; una nueva oferta de servicios y soporte AppleCare adaptadas a las necesidades de la empresa, y nuevas ofertas paquetizadas de IBM para el suministro y la gesti\u00f3n de los dispositivos.\n Seg\u00fan reconocen ambas compa\u00f1\u00edas, Apple podr\u00e1 sacar partido de los m\u00e1s de 100.000 consultores y desarrolladores de software de IBM para impulsar las ventas de sus iPads y iPhones en las empresas, mientras que el gigante azul se beneficiar\u00e1 de la experiencia de usuario y la plataforma de desarrollo de Apple.\n \"Por primera vez vamos a poner la renombrada capacidad de gesti\u00f3n de big data y anal\u00edtica de IBM en las manos de los usuarios de iOS, lo que abre una enorme oportunidad de mercado para Apple\", asegur\u00f3 Tim Cook, consejero delegado de Apple.  Por su parte, la presidenta de IBM, Ginni Rometty, defendi\u00f3 que la movilidad, junto con los datos y la nube est\u00e1n transformando las empresas.  \"Est\u00e1n permitiendo a las personas reinventar el trabajo, las industrias y las profesiones.  Y esta alianza con Apple fortalecer\u00e1 nuestro liderazgo en los \u00e1mbitos de anal\u00edtica, cloud, software y servicios\".\n El nuevo acuerdo marca un nuevo intento de Apple para aprovechar la ca\u00edda de Blackberry, uno de los l\u00edderes m\u00f3viles en el \u00e1mbito empresarial, pero tambi\u00e9n deja clara la intenci\u00f3n de la compa\u00f1\u00eda de la manzana por ara\u00f1ar cuota de mercado a Microsoft en el mundo de la empresa, donde hasta ahora el gigante de Redmond se ha defendido bien con Windows y Office, y sus servicios en la nube.  Ahora, con el apoyo de IBM la empresa de Tim Cook gozar\u00e1 -al menos sobre el papel- de mayor confianza por parte de los departamentos de TI de las empresas.\n Las acciones de Apple subieron ayer un 1,5% en las operaciones posteriores al cierre del mercado, mientras las de IBM se elevaron un 1,8% tras el anuncio.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15397915",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7121,
+                    "source": {
+                        "title": "Cinco D\u00edas",
+                        "uri": "cincodias.com"
+                    },
+                    "time": "06:03:00",
+                    "title": "Apple e IBM se al\u00edan en el negocio m\u00f3vil empresarial",
+                    "uri": "197559951",
+                    "url": "http://cincodias.com/cincodias/2014/07/16/tecnologia/1405486464_703787.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "IBM vender\u00e1 iPhones y iPads a sus clientes, y desarrollar\u00e1 aplicaciones corporativas para el sistema operativo m\u00f3vil de Apple.\n IBM se asociar\u00e1 de manera exclusiva con Apple para vender iPhones y tabletas iPads equipados con aplicaciones para clientes empresariales a partir del oto\u00f1o boreal, anunci\u00f3 la compa\u00f1\u00eda ayer.\n El anuncio, que se produce dos d\u00edas antes de que IBM reporte sus resultados del segundo trimestre, ocurre mientras la firma intenta enfocarse en software y servicios mientras su unidad de hardware contin\u00faa enfrentando problemas, y luego de una serie de adquisiciones de software para dispositivos m\u00f3viles.\n IBM lanzar\u00e1 a partir del oto\u00f1o boreal m\u00e1s de 100 aplicaciones orientadas a sectores espec\u00edficos como minoristas, salud, banca, viajes, transportes y telecomunicaciones.\n \"Queremos enfocarnos en crear un flujo de trabajo irresistible, en los procesos, junto con dise\u00f1os de aplicaciones que puedan ser empleados por todos los usuarios de la organizaci\u00f3n\", le dijo Bridget van Kralingen, vicepresidenta senior de IBM y jefa del negocio de servicios globales, a Reuters, en la sede de Apple en California.\n \"Quer\u00edamos quitar algunas de actuales barreras en cuanto a m\u00f3viles para las empresas\", sostuvo, y agreg\u00f3 que a los ejecutivos les preocupa la seguridad, la utilizaci\u00f3n de la nube y la instalaci\u00f3n de aplicaciones en sus dispositivos m\u00f3viles.\n Tim Cook, director ejecutivo de Apple, le dijo a AP que su empresa est\u00e1 recurriendo a la ayuda de IBM porque no comprende las necesidades de clientes corporativos tan bien como conoce las de los consumidores.  Ginni Rometty, directora ejecutiva de IBM, se\u00f1al\u00f3 que la alianza ayudar\u00e1 a su compa\u00f1\u00eda al ampliar la clientela para sus herramientas tecnol\u00f3gicas, proporcionando mayores ganancias sobre los aproximadamente 24.000 millones de d\u00f3lares que IBM ha invertido en an\u00e1lisis de datos.\n \"Es una sociedad que re\u00fane lo mejor de Apple y lo mejor de IBM'', dijo Cook el martes.  \"Esto se trata de dos centrales el\u00e9ctricas desencadenando la energ\u00eda de movilidad (para los negocios)'', dijo Rometty.  \"Esto va a transformar profesiones e industrias''.\n Al unir fuerzas, Apple e IBM esperan construir aplicaciones m\u00f3viles que demuestren que iPhones y iPads pueden servir para otros muchos prop\u00f3sitos empresariales adem\u00e1s de revisar el correo electr\u00f3nico y estar al tanto de citas.  Cook dice que los dispositivos ya son utilizados para trabajar en casi todas las compa\u00f1\u00edas de la lista Fortune 500.\n La asociaci\u00f3n, que estuvo frangu\u00e1ndose por seis meses, ofrecer\u00e1 servicios con altos est\u00e1ndares de seguridad, gesti\u00f3n de dispositivos m\u00f3viles y gran capacidad de an\u00e1lisis de datos.  La compa\u00f1\u00eda tambi\u00e9n planea desarrollar negocios en la nube optimizados por el sistema operativo para m\u00f3viles de Apple, iOS.\n La asociaci\u00f3n con IBM podr\u00eda ayudar a Apple a abordar las preocupaciones constantes sobre la seguridad del software y la privacidad de datos en los tel\u00e9fonos m\u00f3viles, gracias al aporte de un socio con experiencia que se ha destacado en el sector por d\u00e9cadas.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15454237",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7003,
+                    "source": {
+                        "title": "lt10digital.com.ar",
+                        "uri": "lt10digital.com.ar"
+                    },
+                    "time": "16:46:00",
+                    "title": "IBM y Apple se asocian para llevar al iOS al mundo corporativo",
+                    "uri": "197708168",
+                    "url": "http://lt10digital.com.ar/noticia/idnot/211741/ibmyappleseasocianparallevaraliosalmundocorporativo.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Los grupos inform\u00e1ticos estadounidenses Apple e IBM anunciaron el martes una asociaci\u00f3n centrada en el mercado de clientes profesionales.\n Ambos grupos dise\u00f1ar\u00e1n en com\u00fan aplicaciones m\u00f3viles integrando tecnolog\u00edas de IBM destinadas a empresas para el iPhone y la tableta iPad.  IBM vender\u00e1 tambi\u00e9n los aparatos iPhone as\u00ed como iPad, integrando productos adaptados espec\u00edficamente a clientes profesionales, detalla el comunicado conjunto de los grupos.\n Los grupos expresan su voluntad de \"transformar la movilidad de la empresa con una nueva clase de aplicaciones profesionales\", aportando la capacidad de IBM en t\u00e9rminos de an\u00e1lisis de grandes cantidades de datos (\"big data\") a los aparatos de Apple.\n \"Por primera vez, ponemos la renombrada capacidad de an\u00e1lisis de big data de IBM al alcance de los usuarios de iOS\", el sistema de explotaci\u00f3n m\u00f3vil de Apple, \"lo que abre una gran oportunidad en el mercado para Apple\", coment\u00f3 el director general del grupo de la manzana, Tim Cook.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15434097",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6702,
+                    "source": {
+                        "title": "Revista Summa Magazine",
+                        "uri": "www.revistasumma.com"
+                    },
+                    "time": "13:40:00",
+                    "title": "Apple e IBM se unen en mercado para empresas",
+                    "uri": "197660091",
+                    "url": "http://www.revistasumma.com/tecnologia/50015-apple-e-ibm-se-unen-en-mercado-para-empresas.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "16-07-2014 - IBM y Eduardo Marin Alt1040.- - Apple acaban de anunciar lo que supone una de las sociedades y acuerdos m\u00e1s importantes en el \u00e1mbito corporativo de la electr\u00f3nica de consumo en lo que va de a\u00f1o.  Se trata de un acuerdo para proveer a los dispositivos m\u00f3viles con sistema operativo iOS de un gran n\u00famero de aplicaciones y funcionalidades dirigidas al mercado empresarial, que a su vez abre un nuevo mercado para Apple, el de los clientes de IBM.\n Desde hace algunos a\u00f1os IBM se ha dedicado a crear un fuerte cat\u00e1logo de software y servicios para el \u00e1mbito empresarial, se ha convertido en su nicho de mercado y es l\u00edder en esa industria, especialmente luego de deshacerse de sus divisiones de hardware, vendida a varios, entre ellos Lenovo.\n IBM es experto en software y aplicaciones corporativas, y se ha comprometido a llevar unas 100 aplicaciones de uso corporativo a iOS, para que funcionen de forma exclusiva en iPhones y iPads, lo que significa que comenzar\u00e1n a vender iPhones y iPads a sus clientes empresariales.\n Esto es un gran amenaza para BlackBerryAlgunos de los servicios de IBM que llegar\u00e1 al iPhone y al iPad est\u00e1n relacionados con aplicaciones para gesti\u00f3n de dispositivos a nivel empresarial, anal\u00edticas y estad\u00edsticas, integraci\u00f3n m\u00f3vil con la plataforma de la empresa y por supuesto, seguridad plena en los datos e informaci\u00f3n sensible.\n Seg\u00fan Tim Cook, esta nueva sociedad que han llamado MobileFirst se dedicar\u00e1 a \"transformar la movilidad corporativa\", ofreciendo los servicios y productos \u00fanicos de ambas marcas que ya trabajaron en conjunto alguna vez, hasta el a\u00f1o 2005 con PowerPC.\n Por otro lado, esto supone un nuevo tit\u00e1n en el mercado corporativo que se plantar\u00e1 con much\u00edsima fuerza ante otros como, por supuesto, BlackBerry, cuyo ecosistema, potenciado por QNX, es considerado uno de los m\u00e1s seguros a nivel empresarial (y cuenta con el apoyo de cientos de compa\u00f1\u00edas en el mundo), pero dada la delicada situaci\u00f3n econ\u00f3mica que vive la compa\u00f1\u00eda canadiense, la llegada de este nuevo rival no son buenas noticias.\n Apple e IBM en conjunto se convertir\u00e1n en una opci\u00f3n de lo m\u00e1s atractiva a nivel corporativo, aprovechando la enorme popularidad del iPhone y iPad en el mercado, con el respaldo de seguridad de los productos y software IBM para dar confianza a nuevos y viejos clientes.\n Mientras que BlackBerry intenta recuperarse aprovechando su fama en el \u00e1mbito empresarial, y Microsoft tambi\u00e9n comienza a apostar de lleno por este mercado, Apple cuenta con un gran aliado para impactar con un cat\u00e1logo atractivo de dispositivos y servicios.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15406969",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6633,
+                    "source": {
+                        "title": "www.internautas.org",
+                        "uri": "www.internautas.org"
+                    },
+                    "time": "08:16:00",
+                    "title": "IBM anuncia sociedad con Apple para vender iPhones y iPads",
+                    "uri": "197585572",
+                    "url": "http://www.internautas.org/html/8398.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple se asoci\u00f3 con su ex competidor IBM en un intento por vender m\u00e1s iPhones y iPads a clientes corporativos y agencias gubernamentales.\n La sociedad anunciada el martes requiere que las dos compa\u00f1\u00edas tecnol\u00f3gicas trabajen juntas en aproximadamente 100 diferentes aplicaciones m\u00f3viles dise\u00f1adas para un rango amplio de industrias.\n Las aplicaciones, que se espera salgan al mercado a fin de a\u00f1o, contendr\u00e1n algunas herramientas de compactaci\u00f3n de informaci\u00f3n que IBM Corp. vende a compa\u00f1\u00edas que tratan de obtener un mejor control de sus mercados principales, al tiempo que buscan nuevas oportunidades de ganar dinero.\n 21 cosas que no sab\u00edan que hace su iPhone y les facilitar\u00e1n el d\u00eda\nIBM tambi\u00e9n est\u00e1 prometiendo proporcionar mejor seguridad para tranquilizar a compa\u00f1\u00edas preocupadas por piratas cibern\u00e9ticos que roben informaci\u00f3n vital de dispositivos m\u00f3viles de empleados que realizan cada vez menos de su trabajo en computadoras de escritorio o port\u00e1tiles.\n Tim Cook, director ejecutivo de Apple Inc., dijo que su empresa est\u00e1 recurriendo a la ayuda de IBM porque no comprende las necesidades de clientes corporativos tan bien como conoce las de los consumidores.\n Ginni Rometty, director ejecutivo de IBM, se\u00f1al\u00f3 que la alianza ayudar\u00e1 a su compa\u00f1\u00eda al ampliar la clientela para sus herramientas tecnol\u00f3gicas, proporcionando mayores ganancias sobre los aproximadamente 24.000 millones de d\u00f3lares que IBM ha invertido en an\u00e1lisis de datos.\n \"Es una sociedad parteaguas que re\u00fane lo mejor de Apple y lo mejor de IBM\", dijo Cook el martes durante una entrevista en la sede de Apple, en Cupertino, California.  En un hecho que enfatiza la importancia de la alianza, Rometty vol\u00f3 de la sede de IBM en Armonk, Nueva York, con el fin de reunirse con Cook para realizar el anuncio.\n \"Esto se trata de dos centrales el\u00e9ctricas desencadenando la energ\u00eda de movilidad (para los negocios)\", dijo Rometty.  \"Esto va a transformar profesiones e industrias\".\n Al unir fuerzas, Apple e IBM esperan construir aplicaciones m\u00f3viles que demuestren que iPhones y iPads pueden servir para otros muchos prop\u00f3sitos empresariales adem\u00e1s de revisar el correo electr\u00f3nico y estar al tanto de citas.  Cook dice que los dispositivos ya son utilizados para trabajar en casi todas las compa\u00f1\u00edas de la lista Fortune 500.\n Tanto Apple como IBM est\u00e1n contando en su sociedad para impulsar sus propios ingresos.  Ambas compa\u00f1\u00edas han estado enfrentando preocupaciones en Wall Street sobre si ser\u00e1n capaces de acelerar su crecimiento de ingreso a un ritmo que empuje al alza sus acciones.\n La acci\u00f3n de Apple ha repuntado desde sus recientes niveles bajos registrados en 2013 y se est\u00e1 aproximando ahora al precio m\u00e1s alto de su historia.  Las acciones bajaron el martes 1,13 d\u00f3lares para cerrar a 95,32 d\u00f3lares, apenas 5% debajo de su cotizaci\u00f3n m\u00e1xima ajustada de 100,72 d\u00f3lares.\n La acci\u00f3n de IBM retrocedi\u00f3 el martes 1,37 d\u00f3lares, cerrando a 188,49, aproximadamente 13% debajo de su precio m\u00e1ximo de 215,90 d\u00f3lares.\n Ve tambi\u00e9n\nGoogle desarrollar\u00e1 lentes de contacto\nM\u00e1s personajes para Super Smash Bros.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15379324",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6576,
+                    "source": {
+                        "title": "Metro Mexico City",
+                        "uri": "www.publimetro.com.mx"
+                    },
+                    "time": "00:48:00",
+                    "title": "Apple e IBM se asocian para vender dispositivos",
+                    "uri": "197512336",
+                    "url": "http://www.publimetro.com.mx/tecno/apple-e-ibm-se-asocian-para-vender-dispositivos/mngp%21Pz2pV4BUEOukI/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple e IBM, que alguna vez fueron duros rivales en el mercado de las computadoras personales, han hecho una alianza para vender iphones y ipads a corporaciones m\u00e1s grandes.\n Seg\u00fan el acuerdo, IBM proveer\u00e1 servicios de nube, incluyendo la administraci\u00f3n de aparatos y la seguridad para los tel\u00e9fonos y tabletas de Apple, que vender\u00e1 a clientes corporativos, y aportar\u00e1 aplicaciones especializadas en industrias particulares.\n \"Por primera vez en la historia estamos poniendo la reconocida capacidad de an\u00e1lisis de datos de IBM en la punta de los dedos de los usuarios de iOS.  Esto abre una oportunidad de mercado enorme para Apple\", dijo Tim Cook, el director ejecutivo de Apple, en un comunicado conjunto.  \"Es un paso radical para la empresa y algo que s\u00f3lo Apple e IBM pueden lograr\".\n Aunque Apple dijo que el 98% de las compa\u00f1\u00edas de Fortuna 500 ya usaban sus aparatos, la alianza es un reconocimiento de que esta firma enfocada en el cliente no tiene la experticia y la fuerza de ventas necesarias para llegar a los grandes clientes corporativos.  Tambi\u00e9n llega en medio de cr\u00edticas continuas por el sistema nube de Apple y le dar\u00e1 un nuevo giro al iphone, que ha padecido de una desaceleraci\u00f3n en los ingresos durante los \u00faltimos trimestres.\n Ginni Rometty, directora ejecutiva de IBM, dijo que estaba \"encantada de aliarse con Apple, cuyas innovaciones han transformado nuestras vidas de formas que damos por hecho, pero que no logro imaginar de otra manera.  Nuestra alianza traer\u00e1 el mismo tipo de transformaci\u00f3n a la forma como la gente trabaja, a la manera como las industrias operan y a c\u00f3mo las compa\u00f1\u00edas se desempe\u00f1an\".\n Las acciones de Apple aumentaron 1,4% luego del d\u00eda comercial, habiendo cerrado el d\u00eda con una ca\u00edda de 1,2%, para llegar a US$95,32.  Las acciones de IBM, que hab\u00edan ca\u00eddo 0,7%, para llegar a US$188,49 durante el martes, aumentaron 1,6% luego del cierre.  Blackberry, la empresa enfocada en la fabricaci\u00f3n de tel\u00e9fonos m\u00f3viles, cay\u00f3 4% al cierre del mercado.\n Frank Gillet, analista de Forrester Research, alab\u00f3 el acuerdo como un negocio hist\u00f3rico.  \"Apple ha sido arrastrada a esta empresa por individuos que quieren la misma conveniencia m\u00f3vil en el trabajo que en sus vidas personales, pero se ha resistido a proveer a empresas por el temor de perder su famoso enfoque en una experiencia de usuario de la mejor calidad\".\n \"Dada la fuerza y el cubrimiento de IBM en el mercado, esta alianza le da a Apple capacidades empresariales y credibilidad de un solo tajo, y le da a IBM la ventaja de calidad en la carrera por el liderazgo en m\u00f3viles.  Es de esperar que Google y los proveedores m\u00e1s importantes de empresas comiencen a buscar alianzas que ofrezcan una alternativa cre\u00edble\", a\u00f1adi\u00f3 el analista.\n Hace treinta a\u00f1os, Apple intent\u00f3 competir con las computadoras personales de IBM a trav\u00e9s de su famosa publicidad \"1984\", presentando a Big Blue como un dictador malvado, mientras que Macintosh ofrec\u00eda la soluci\u00f3n.  En la d\u00e9cada de 1990, las dos compa\u00f1\u00edas se aliaron para crear el microprocesador PowerPC, que corr\u00eda en computadoras Macintosh, hasta que Apple empez\u00f3 a utilizar los chips Intel en 2006.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15519585",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6333,
+                    "source": {
+                        "title": "ElEspectador",
+                        "uri": "www.elespectador.com"
+                    },
+                    "time": "05:14:00",
+                    "title": "Apple e IBM se aliaron para atender mercado empresarial - ElEspectador.com",
+                    "uri": "197869930",
+                    "url": "http://www.elespectador.com/noticias/economia/apple-e-ibm-se-aliaron-atender-mercado-empresarial-articulo-504873",
+                    "wgt": 1
+                },
+                {
+                    "body": "WASHINGTON (Reuters) - International Business Machines Corp se asociar\u00e1 de manera exclusiva con Apple Inc para vender iPhones y tabletas iPads equipados con aplicaciones para clientes empresariales a partir del oto\u00f1o, anunci\u00f3 la compa\u00f1\u00eda el martes.\n El anuncio, que se produce dos d\u00edas antes de que IBM (IBM.N NY)reporte sus resultados del segundo trimestre, ocurre mientras la firma intenta enfocarse en software y servicios mientras su unidad de hardware contin\u00faa enfrentando problemas, y tras una serie de adquisiciones de software para dispositivos m\u00f3viles.\n La compa\u00f1\u00eda espera que sus ventas de software contribuyan con la mitad de sus ganancias totales en el 2015.\n IBM lanzar\u00e1 a partir del oto\u00f1o m\u00e1s de 100 aplicaciones estar\u00e1n orientadas a sectores espec\u00edficos como minoristas, salud, banca, viajes, transportes y telecomunicaciones.\n \"Queremos enfocarnos en crear un flujo de trabajo absolutamente irresistible, en los procesos, junto con dise\u00f1os de aplicaciones que puedan ser empleados por todos los usuarios de la organizaci\u00f3n\", dijo Bridget van Kralingen, vicepresidenta senior de IBM y jefa del negocio de servicios globales, a Reuters en la sede de Apple en California.\n \"Quer\u00edamos eliminar algunas de actuales barreras en cuanto a m\u00f3viles para las empresas\", sostuvo, y agreg\u00f3 que a los ejecutivos de la informaci\u00f3n les preocupa la seguridad, la utilizaci\u00f3n de la nube y la instalaci\u00f3n de aplicaciones en sus dispositivos m\u00f3viles.\n La asociaci\u00f3n, que estuvo frangu\u00e1ndose por seis meses, ofrecer\u00e1 servicios con altos est\u00e1ndares de seguridad, gesti\u00f3n de dispositivos m\u00f3viles y gran capacidad de an\u00e1lisis de datos.  La compa\u00f1\u00eda tambi\u00e9n planea desarrollar negocios en nube optimizados por el sistema operativo para m\u00f3viles de Apple, iOS.\n Los dispositivos funcionar\u00e1n a trav\u00e9s de operadores inal\u00e1mbricos elegidos por el cliente, indic\u00f3 van Kralingen.\n Las acciones de BlackBerry Ltd perd\u00edan 3 por ciento despu\u00e9s del anuncio.  La fabricante canadiense de tel\u00e9fonos m\u00f3viles se han estado enfocando en su negocio de software como parte de un esfuerzo por reactivar sus ventas tras perder terreno ante el iPhone de Apple y los nuevos modelos de tel\u00e9fonos de Samsung Electronics Co.\nLa asociaci\u00f3n con IBM podr\u00eda ayudar a Apple a abordar las preocupaciones constantes sobre la seguridad del software y la privacidad de datos en los tel\u00e9fonos m\u00f3viles, gracias al aporte de un socio con experiencia que se ha destacado en el sector por d\u00e9cadas.\n Las acciones de IBM sub\u00edan un 1,9 por ciento y los t\u00edtulos de Apple avanzaban 1,3 por ciento en las operaciones posteriores al cierre de los mercados.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15400366",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6176,
+                    "source": {
+                        "title": "El Economista",
+                        "uri": "www.eleconomista.es"
+                    },
+                    "time": "06:40:00",
+                    "title": "IBM ofrecer\u00e1 iPads e iPhones equipados para clientes empresariales",
+                    "uri": "197566812",
+                    "url": "http://www.eleconomista.es/telecomunicaciones-tecnologia/noticias/5944315/07/14/IBM-ofrecera-iPads-e-iPhones-equipados-para-clientes-empresariales.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La sociedad anunciada el martes requiere que las dos compa\u00f1\u00edas tecnol\u00f3gicas trabajen juntas en aproximadamente 100 diferentes aplicaciones m\u00f3viles dise\u00f1adas para un rango amplio de industrias.\n Las aplicaciones, que se espera salgan al mercado a fin de a\u00f1o, contendr\u00e1n algunas herramientas de compactaci\u00f3n de informaci\u00f3n que IBM Corp. vende a compa\u00f1\u00edas que tratan de obtener un mejor control de sus mercados principales, al tiempo que buscan nuevas oportunidades de ganar dinero.\n IBM tambi\u00e9n est\u00e1 prometiendo proporcionar mejor seguridad para tranquilizar a compa\u00f1\u00edas preocupadas por piratas cibern\u00e9ticos que roben informaci\u00f3n vital de dispositivos m\u00f3viles de empleados que realizan cada vez menos de su trabajo en computadoras de escritorio o port\u00e1tiles.\n Tim Cook, director ejecutivo de Apple Inc., dijo que su empresa est\u00e1 recurriendo a la ayuda de IBM porque no comprende las necesidades de clientes corporativos tan bien como conoce las de los consumidores.  Ginni Rometty, director ejecutivo de IBM, se\u00f1al\u00f3 que la alianza ayudar\u00e1 a su compa\u00f1\u00eda al ampliar la clientela para sus herramientas tecnol\u00f3gicas, proporcionando mayores ganancias sobre los aproximadamente 24.000 millones de d\u00f3lares que IBM ha invertido en an\u00e1lisis de datos.\n \"Es una sociedad parteaguas que re\u00fane lo mejor de Apple y lo mejor de IBM\", dijo Cook el martes durante una entrevista en la sede de Apple, en Cupertino, California.  En un hecho que enfatiza la importancia de la alianza, Rometty vol\u00f3 de la sede de IBM en Armonk, Nueva York, con el fin de reunirse con Cook para realizar el anuncio.\n \"Esto se trata de dos centrales el\u00e9ctricas desencadenando la energ\u00eda de movilidad (para los negocios)\", dijo Rometty.  \"Esto va a transformar profesiones e industrias\".\n Al unir fuerzas, Apple e IBM esperan construir aplicaciones m\u00f3viles que demuestren que iPhones y iPads pueden servir para otros muchos prop\u00f3sitos empresariales adem\u00e1s de revisar el correo electr\u00f3nico y estar al tanto de citas.  Cook dice que los dispositivos ya son utilizados para trabajar en casi todas las compa\u00f1\u00edas de la lista Fortune 500.\n Tanto Apple como IBM est\u00e1n contando en su sociedad para impulsar sus propios ingresos.  Ambas compa\u00f1\u00edas han estado enfrentando preocupaciones en Wall Street sobre si ser\u00e1n capaces de acelerar su crecimiento de ingreso a un ritmo que empuje al alza sus acciones.\n La acci\u00f3n de Apple ha repuntado desde sus recientes niveles bajos registrados en 2013 y se est\u00e1 aproximando ahora al precio m\u00e1s alto de su historia.  Las acciones bajaron el martes 1,13 d\u00f3lares para cerrar a 95,32 d\u00f3lares, apenas 5% debajo de su cotizaci\u00f3n m\u00e1xima ajustada de 100,72 d\u00f3lares.\n La acci\u00f3n de IBM retrocedi\u00f3 el martes 1,37 d\u00f3lares, cerrando a 188,49, aproximadamente 13% debajo de su precio m\u00e1ximo de 215,90 d\u00f3lares.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15385542",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6137,
+                    "source": {
+                        "title": "Peri\u00f3dico El Mexicano",
+                        "uri": "www.el-mexicano.com.mx"
+                    },
+                    "time": "02:25:00",
+                    "title": "Apple e IBM se asocian para vender dispositivos",
+                    "uri": "197527241",
+                    "url": "http://www.el-mexicano.com.mx//informacion/noticias/1/57/economia-y-finanzas/2014/07/15/770954/apple-e-ibm-se-asocian-para-vender-dispositivos",
+                    "wgt": 1
+                },
+                {
+                    "body": "International Business Machines Corp (IBM) se asociar\u00e1 de manera exclusiva con Apple Inc para vender iPhones y tabletas iPads equipados con aplicaciones para clientes empresariales a partir del oto\u00f1o boreal, anunci\u00f3 la compa\u00f1\u00eda el martes.\n El anuncio, que se produce dos d\u00edas antes de que IBM reporte sus resultados del segundo trimestre, ocurre mientras la firma intenta enfocarse en software y servicios mientras su unidad de hardware contin\u00faa enfrentando problemas, y luego de una serie de adquisiciones de software para dispositivos m\u00f3viles.\n La compa\u00f1\u00eda espera que sus ventas de software contribuyan con la mitad de sus ganancias totales en el 2015.\n IBM lanzar\u00e1 a partir del oto\u00f1o boreal m\u00e1s de 100 aplicaciones estar\u00e1n orientadas a sectores espec\u00edficos como minoristas, salud, banca, viajes, transportes y telecomunicaciones.\n \"Queremos enfocarnos en crear un flujo de trabajo absolutamente irresistible, en los procesos, junto con dise\u00f1os de aplicaciones que puedan ser empleados por todos los usuarios de la organizaci\u00f3n\", dijo Bridget van Kralingen, vicepresidenta senior de IBM y jefa del negocio de servicios globales, a Reuters en la sede de Apple en California.\n \"Quer\u00edamos remover algunas de actuales barreras en cuanto a m\u00f3viles para las empresas\", sostuvo, y agreg\u00f3 que a los ejecutivos de la informaci\u00f3n les preocupa la seguridad, la utilizaci\u00f3n de la nube y la instalaci\u00f3n de aplicaciones en sus dispositivos m\u00f3viles.\n La asociaci\u00f3n, que estuvo frangu\u00e1ndose por seis meses, ofrecer\u00e1 servicios con altos est\u00e1ndares de seguridad, gesti\u00f3n de dispositivos m\u00f3viles y gran capacidad de an\u00e1lisis de datos.  La compa\u00f1\u00eda tambi\u00e9n planea desarrollar negocios en nube optimizados por el sistema operativo para m\u00f3viles de Apple, iOS.\n Los dispositivos funcionar\u00e1n a trav\u00e9s de operadores inal\u00e1mbricos elegidos por el cliente, indic\u00f3 van Kralingen.\n Las acciones de BlackBerry Ltd perd\u00edan 3 por ciento despu\u00e9s del anuncio.  La fabricante canadiense de tel\u00e9fonos m\u00f3viles se han estado enfocando en su negocio de software como parte de un esfuerzo por repuntar sus ventas tras perder terreno ante el iPhone de Apple y los nuevos modelos de tel\u00e9fonos de Samsung Electronics Co.\nLa asociaci\u00f3n con IBM podr\u00eda ayudar a Apple a abordar las preocupaciones constantes sobre la seguridad del software y la privacidad de datos en los tel\u00e9fonos m\u00f3viles, gracias al aporte de un socio con experiencia que se ha destacado en el sector por d\u00e9cadas.\n Las acciones de IBM sub\u00edan un 1,9 por ciento y los t\u00edtulos de Apple avanzaban 1,3 por ciento en las operaciones posteriores al cierre de los mercados.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15405554",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5982,
+                    "source": {
+                        "title": "Telecinco",
+                        "uri": "www.telecinco.es"
+                    },
+                    "time": "07:56:00",
+                    "title": "IBM y Apple se al\u00edan para transformar la movilidad en la empresa",
+                    "uri": "197581332",
+                    "url": "http://www.telecinco.es/informativos/tecnologia/IBM-Apple-transformar-movilidad-empresa_0_1828575053.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La empresa creada por Bill Gates podr\u00eda perder el control del suministro de tel\u00e9fonos inteligentes a las empresas\nEl acuerdo de colaboraci\u00f3n exclusivo firmado el martes por IBM y Apple, en el que ambos unir\u00e1n sus fuerzas en el mercado de la telefon\u00eda inteligente, podr\u00eda suponer una amenaza directa para los intereses de otro gigante, Microsoft.\n Microsoft, que posee una gran fortaleza empresarial, compite contra dos de las grandes multinaciones del sector tecnol\u00f3gico en un mercado por el que hab\u00eda apostado muy fuerte tras el nombramiento de Satya Nadella como consejero delegado de la empresa: el control del mercado del m\u00f3vil en las empresas por medio de sus tabletas y del sistema operativo Windows Phone.\n Si la alianza entre ambas empresas da sus frutos y las aplicaciones que lancen para los sistemas operativos iOS resultan exitosas, Microsoft se ver\u00e1 obligada a desarrollar productos similares o mejorados para no quedarse atr\u00e1s y, adem\u00e1s, deber\u00e1 hacer frente a la cuesti\u00f3n sobre si desarrollarlos s\u00f3lo para Windows Phone o adaptarlos tambi\u00e9n para iOS y alcanzar as\u00ed a todo el mercado, informa Efe.\n La uni\u00f3n de ambas empresas, ins\u00f3lita puesto que IBM y Apple han sido durante tres d\u00e9cadas grandes y enconados rivales en el incipiente mercado inform\u00e1tico, permitir\u00e1 a IBM distribuir productos de Apple a sus clientes corporativos y reforzar el sistema operativo iOS de Apple proveyendo a la empresa de mecanismos de seguridad y de an\u00e1lisis.  A cambio, la empresa de la manzana ofrecer\u00e1 apoyo t\u00e9cnico a las empresas con sus nuevas aplicaciones a trav\u00e9s de AppleCare.\n Adem\u00e1s de Microsoft, el otro gran perjudicado por este acuerdo entre Blackberry, el fabricante canadiense de tel\u00e9fonos inteligentes, que tras un periodo ausente en el mercado, ha redirigido y focalizado su estrategia en el sector empresarial.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15515752",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5707,
+                    "source": {
+                        "title": "Revista Summa Magazine",
+                        "uri": "www.revistasumma.com"
+                    },
+                    "time": "06:26:00",
+                    "title": "Microsoft teme que la uni\u00f3n de Apple e IBM haga peligrar su plan de expansi\u00f3n",
+                    "uri": "197859757",
+                    "url": "http://www.revistasumma.com/tecnologia/50043-microsoft-teme-que-la-union-de-apple-e-ibm-haga-peligrar-su-plan-de-expansion.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Hay gestos que pasan a la historia.  Los cortes de manga tambi\u00e9n.  En el caso de la tecnolog\u00eda, probablemente, la peineta m\u00e1s recordada es la que le dedic\u00f3 Steve Jobs, el extinto fundador de Apple, a las letras que conforman IBM.  Hace tres d\u00e9cadas, ambos gigantes compet\u00edan por el mercado de los ordenadores dom\u00e9sticos.\n La imagen de Virginia Rommety junto a Tim Cook sentados en un plat\u00f3 de la NBC enterr\u00f3 el hist\u00f3rico gesto, que ha quedado enmarcado en el recuerdo como otra de las excentricidades del brillante curr\u00edculum del genio de Palo Alto.  Y es que los m\u00e1ximos responsables de ambas compa\u00f1\u00edas suscribieron este martes en una entrevista en un programa de televisi\u00f3n de Estados Unidos una alianza para crear aplicaciones y vender tel\u00e9fonos y tabletas en el \u00e1mbito laboral.\n La firma del acuerdo -el de mayor entidad suscrito por ambas firmas- permitir\u00e1 al fabricante de Cupertino abordar uno de los \u00e1mbitos donde hasta el momento se prodigaba m\u00e1s bien poco: el de las negocios.  Y es que a d\u00eda de hoy resulta m\u00e1s bien raro ver que alguna empresa haya hecho de los iPhone y los iPads sus dispositivos de cabecera a la hora de trabajar.\n Ese papel ven\u00eda correspondiendo tradicionalmente a Microsoft y, en la era de los m\u00f3viles, a Blackberry (sus acciones recibieron la noticia con un descenso de m\u00e1s del 4%) y, tras el declive del gigante canadiense, Samsung hab\u00eda puesto gran parte del foco de sus planes de futuro.  Otro de los interesados ha sido Google, quien ya ha empezado a trabajar en Android herramientas pensando en el 'Bring your own device' (Trae tu propio dispositivo), una filosof\u00eda al alza en el entreno empresarial.\n Este t\u00e1ndem tiene en su punto de mira a los de Redmond que, a pesar del impulso y los aires de cambio insuflados por su nuevo CEO, Sayda Nadella, a\u00fan buscan culminar la transici\u00f3n al mundo m\u00f3vil sin perder su liderato en el mercado empresarial.\n EL ACUERDO\nA partir de ahora, las tabletas y los terminales m\u00f3viles que facilite IBM a sus clientes de soluciones m\u00f3viles llevar\u00e1n instalada la plataforma 'MobileFirst', desarrollada por el que otrora fue l\u00edder mundial de la fabricaci\u00f3n de 'pec\u00e9s'.  En total, han desarrollado conjuntamente un centenar de aplicaciones y la empresa dirigida por Rommety trabajar\u00e1 soluciones en la nube adaptadas a iOS, sistema operativo de los dispositivos de Apple, que ofrecer\u00e1 asistencia t\u00e9cnica a las empresas.\n Otro de las grandes beneficios para IBM es que se asocia con una de las marcas m\u00e1s vanguardistas del mercado, refrescando as\u00ed su imagen de empresa.  Apple tendr\u00e1 acceso al registro de patentes de seguridad, as\u00ed como a la veintena larga de laboratorios de su nuevo socio para el desarrollo de proyectos conjuntos.  \"Por primera vez en la historia, estamos ofreciendo a los usuarios de iOS las herramientas de 'big data' y an\u00e1lisis de IBM\", destac\u00f3 sobre este asunto Tim Cook, quien no dud\u00f3 en reconocer la gran oportunidad de negocio que ahora se abre para su compa\u00f1\u00eda.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15508650",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5687,
+                    "source": {
+                        "title": "diariodenavarra.es",
+                        "uri": "www.diariodenavarra.es"
+                    },
+                    "time": "04:29:00",
+                    "title": "IBM hace un hueco en la oficina a su archienemigo Apple",
+                    "uri": "197839237",
+                    "url": "http://www.diariodenavarra.es/noticias/mas_actualidad/economia/2014/07/16/ibm_hace_hueco_oficina_archienemigo_apple_167784_1033.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La necesidad es a menudo la madre de la invenci\u00f3n, o en el caso de Apple e IBM un nuevo canal de distribuci\u00f3n.\n El movimiento de dos empresas que en otro tiempo fueron rivales para abordar conjuntamente el mercado de tecnolog\u00eda corporativa cogi\u00f3 por sorpresa.  Pero en cierto sentido no deber\u00eda hacerlo: ambas son compa\u00f1\u00edas enormes que afrontan retos para crecer.\n Apple ha adoptado un enfoque amplio frente a este problema, combinando varias t\u00e1cticas como el aumento de la penetraci\u00f3n del iPhone en regiones como China, la adquisici\u00f3n del negocio de auriculares y m\u00fasica por streaming Beats y el desarrollo, seg\u00fan las noticias, de un iPhone con pantalla grande y de un smartwatch.\n El acuerdo con Big Blue se suma a esos esfuerzos.  IBM desarrollar\u00e1 apps especializadas y servicios m\u00f3viles que sus comerciales vender\u00e1n a los clientes empresariales junto al iPhone y el iPad.  Esto ayudar\u00e1 en cierta medida a legitimar a Apple en este mercado.\n Hace tiempo que los productos de la compa\u00f1\u00eda de la manzana se utilizan en los negocios, aunque a menudo entran a trav\u00e9s de pol\u00edticas conocidas como \"trae tu propio dispositivo\".  Por otra parte, muchos responsables de tecnolog\u00eda corporativa siguen apoyando a plataformas como BlackBerry, que son m\u00e1s f\u00e1ciles de gestionar de forma centralizada.\n En el caso de IBM, el acuerdo le une a una marca popular que podr\u00eda contribuir a aumentar la demanda de servicios como MobileFirst.  \u00c9ste fue lanzado el a\u00f1o pasado y est\u00e1 dise\u00f1ado para ayudar a las compa\u00f1\u00edas a simplificar la gesti\u00f3n de los dispositivos m\u00f3viles.  La noticia supuso el mi\u00e9rcoles un rev\u00e9s para las acciones de BlackBerry y MobileIron, ya que ambas compa\u00f1\u00edas ofrecen servicios rivales.\n Resultar\u00e1 dif\u00edcil evaluar las ventajas del acuerdo para Apple e IBM, pero es probable que sus beneficios no dejen de aumentar.  BlackBerry vendi\u00f3 unos 6 millones de smartphones en los dos \u00faltimos trimestres frente a casi 95 millones de iPhones durante el mismo periodo.  Apple e IBM probablemente compartir\u00e1n los ingresos por el software y los servicios, aunque el anuncio no ofreci\u00f3 muchos detalles al respecto.\n Pero las compa\u00f1\u00edas buscar\u00e1n crecimiento all\u00ed donde puedan extraerlo.  As\u00ed, hasta un peque\u00f1o acuerdo puede llegar lejos.\n Lea el art\u00edculo original publicado en The Wall Street Journal Apple Takes Its Business Seriously",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15485250",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5615,
+                    "source": {
+                        "title": "Expansion",
+                        "uri": "www.expansion.com"
+                    },
+                    "time": "22:20:00",
+                    "title": "Apple se toma en serio su negocio",
+                    "uri": "197781565",
+                    "url": "http://www.expansion.com/2014/07/16/opinion/1405536256.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La era post-PC da un paso m\u00e1s.  IBM, el gigante del mundo empresarial, y Apple, la firma de electr\u00f3nica de consumo y software m\u00e1s relevante, acaban de cerrar un acuerdo para introducir sus m\u00f3viles y tabletas en el mundo de los negocios, la \u00faltima frontera que ten\u00edan que atravesar estos aparatos.\n Durante una entrevista en NBC, Tim Cook, consejero delegado de Apple, y Virginia Rometti, su hom\u00f3loga en la blue chip, antiguos enemigos en el mercado de los ordenadores personales para los hogares a finales de los 80 y comienzos de los 90, certificaron su acuerdo para llevar iPhones e iPads a las empresas.\n Los aparatos no llegar\u00e1n solos.  Los har\u00e1n con un centenar de aplicaciones desarrolladas de manera conjunta.  Apple se beneficia de la experiencia de IBM en el entorno corporativo.  Cook ha destacado su intenci\u00f3n de \"cumplir con la promesa de la telefon\u00eda m\u00f3vil a lo grande\".  Mientras que Rometti pone el foco en la seguridad, uno de los motivos de desconfianza hacia el hasta ahora informal mundo t\u00e1ctil.  Apple se compromete a dar soporte de hardware, el denominado Apple Care, mientras que IBM insiste en que dar\u00e1 soluciones pensadas en aumentar la productividad de los empleados.\n Cuando Steve Jobs present\u00f3 el iPad, hace cuatro a\u00f1os, su afirmaci\u00f3n son\u00f3 exagerada.  \"Los ordenadores existir\u00e1n, pero ya no ser\u00e1n para todos, sino para trabajos concretos\", dijo.  Y a\u00f1ad\u00eda una similitud.  En su visi\u00f3n de futuro los ordenadores eran el equivalente a los tractores, aptos para una tarea muy espec\u00edfica, pero no para desplazarse.  Los m\u00f3viles y tabletas ser\u00edan los nuevos coches.\n Desde entonces, el mercado de consumo ha pasado a estar liderado por Apple, pero nunca terminaron de verse como aparatos aptos para la productividad, sino enfocados para el consumo de contenidos, navegaci\u00f3n ...",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15463629",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5459,
+                    "source": {
+                        "title": "nuevo siglo tampa",
+                        "uri": "nuevosiglotampa.com"
+                    },
+                    "time": "18:22:00",
+                    "title": "Apple e IBM se al&#237;an para vender aplicaciones, m&#243;viles y tabletas",
+                    "uri": "197730463",
+                    "url": "http://nuevosiglotampa.com/noticia/6273/apple-e-ibm-se-al-amp-237-an-para-vender-aplicaciones",
+                    "wgt": 1
+                },
+                {
+                    "body": "TORONTO -- Las acciones de BlackBerry bajaron el mi\u00e9rcoles al conocerse detalles de la asociaci\u00f3n orientada a clientes empresariales entre Apple e IBM, dos de las compa\u00f1\u00edas tecnol\u00f3gicas m\u00e1s grandes del mundo.\n IBM Corp. crear\u00e1 m\u00e1s aplicaciones de negocios para los iPhones y las iPads.  IBM y Apple Inc. dijeron el martes por la noche que las aplicaciones saldr\u00edan al mercado a fin de a\u00f1o.\n Las m\u00e1s de 100 aplicaciones de IBM servir\u00e1n a sectores espec\u00edficos, como ventas minoristas y atenci\u00f3n m\u00e9dica.\n La asociaci\u00f3n entre ambas empresas tiene lugar en momentos en que BlackBerry intenta reafirmar su posici\u00f3n orientada a negocios y agencias del gobierno que necesitan comunicaciones m\u00f3viles seguras.\n La empresa canadiense podr\u00eda comenzar a sentir la presi\u00f3n a medida que sus competidores apuntan su atenci\u00f3n hacia el mercado empresarial, que es altamente lucrativo y generalmente leal.\n El analista Anil Doradla, de la firma William Blair, consider\u00f3 que la asociaci\u00f3n entre Apple e IBM ser\u00e1 \"negativa a largo plazo\" para BlackBerry.\n \"En el posible escenario de que Apple/IBM atiendan con eficacia las necesidades de los clientes empresariales, vemos pocos motivos para que las compa\u00f1\u00edas elijan la plataforma de BlackBerry sobre la de Apple\", escribi\u00f3 el experto en una nota.\n Sin embargo, la firma canadiense dijo en tono optimista en un correo electr\u00f3nico que ella \"s\u00f3lo hace hincapi\u00e9 en la actual necesidad de soluciones seguras integrales de movilidad empresarial como las que BlackBerry ha prove\u00eddo durante a\u00f1os\".\n BlackBerry Ltd., antes conocida como Research In Motion, fue alguna vez la compa\u00f1\u00eda m\u00e1s valiosa de Canad\u00e1, con un valor de mercado de 83.000 millones de d\u00f3lares en junio de 2008.\n Sin embargo, las acciones se desplomaron ante la competencia que representan los iPhone y los tel\u00e9fonos con sistema operativo Android.\n BlackBerry ha dedicado m\u00e1s recursos para construir su relaci\u00f3n con clientes empresariales desde que la administra el director general John Chen, quien se incorpor\u00f3 a la empresa en noviembre.\n Chen fue contratado para que reestructurara BlackBerry, redujera costos y reforzara a la empresa en el competitivo sector de la tecnolog\u00eda.\n Antes de que asumiera el cargo, contribuy\u00f3 a que la compa\u00f1\u00eda de programas inform\u00e1ticos Sybase se convirtiera en una firma lucrativa enfocada en la tecnolog\u00eda m\u00f3vil para negocios.\n Las acciones de BlackBerry perdieron 1,30 d\u00f3lares, 11,5%, y cerraron en 10 d\u00f3lares en la sesi\u00f3n vespertina del mi\u00e9rcoles en el Nasdaq.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15488820",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.537,
+                    "source": {
+                        "title": "elnuevoherald",
+                        "uri": "www.elnuevoherald.com"
+                    },
+                    "time": "22:58:00",
+                    "title": "BlackBerry baja en bolsa por acuerdo Apple-IBM - El Nuevo Herald",
+                    "uri": "197790208",
+                    "url": "http://www.elnuevoherald.com/2014/07/16/1800886/blackberry-baja-en-bolsa-por-acuerdo.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La alianza de IBM y Apple para el mercado empresarial podr\u00eda afectar directamente a Dell y BlackBerry, compa\u00f1\u00edas que dependen en gran medida de sus clientes profesionales. Sin embargo, responsables de ambas firmas han restado importancia al acuerdo entre IBM y Apple, considerando que su posici\u00f3n todav\u00eda no es preocupante.\n\nA mediados de julio IBM y Apple anunciaban un acuerdo para colaborar en el sector empresarial. Seg\u00fan dicha alianza, Apple introducir\u00eda software para profesionales dise\u00f1ado por IBM en iPhone y iPad para su venta a empresas. De esta forma, ambas compa\u00f1\u00edas se reforzar\u00edan y Apple conseguir\u00eda ganar competitividad en el \u00e1mbito empresarial.\n\nEl anuncio del acuerdo entre IBM y Apple afectar\u00eda directamente a Dell y BlackBerry, dos empresas con importantes intereses en el sector profesional. Dell es una de las compa\u00f1\u00edas l\u00edderes en ordenadores y equipamiento para empresas, mientras que BlackBerry ha sido tradicionalmente la plataforma m\u00f3vil preferida de las empresas. En un momento en el que el mercado de consumo est\u00e1 dominado por iOS y Android, BlackBerry depender\u00eda a\u00fan m\u00e1s de su \u00e9xito en el campo de las empresas, por lo que la alianza de IBM y Apple ser\u00eda especialmente da\u00f1ina para sus intereses.\n\nPese a la competencia potencial que supone la uni\u00f3n de IBM y Apple, desde Dell y BlackBerry han restado importancia al acuerdo. En concreto, el responsable de software de Dell, John Swainson, ha asegurado en declaraciones a Reuters que sus rivales han hecho \"un buen comunicado de prensa\", pero m\u00e1s all\u00e1 de eso en Dell no interpretan el acuerdo como algo \"terriblemente serio\".\n\nSwainson ha expresado su escepticismo ante el posible \u00e9xito del acuerdo de sus rivales y ha destacado que los productos de Apple no responden por el momento a las necesidades de los clientes profesionales. En concreto, el directivo de Dell ha se\u00f1alado que los equipos de Apple no ofrecen las opciones de seguridad que los clientes empresariales demandan.\n\nPor su parte, el presidente de BlackBerry, John Chen, tambi\u00e9n ha restado importancia a la amenaza de esta alianza entre IBM y Apple. En una entrevista a Financial Times, Chen se ha referido al acuerdo compar\u00e1ndolo con \"dos elefantes que comienzan a bailar\".\n\nEsta postura com\u00fan de Dell y BlackBerry a la hora de restar importancia a la estrategia de sus rivales ha disparado especulaciones sobre un posible acuerdo. En BlackBerry han reconocido que trabajan con otras compa\u00f1\u00edas para buscar acuerdos y Dell podr\u00eda ser una de ellas. Por el momento no ha habido ninguna confirmaci\u00f3n oficial, pero ambas compa\u00f1\u00edas podr\u00edan ver con buenos ojos una colaboraci\u00f3n para ser m\u00e1s competitivas a\u00fan contra sus rivales.",
+                    "date": "2014-07-27",
+                    "eventUri": "1031357",
+                    "id": "16231246",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4359,
+                    "source": {
+                        "title": "europapress.es",
+                        "uri": "www.europapress.es"
+                    },
+                    "time": "10:05:00",
+                    "title": "El acuerdo entre IBM y Apple no asusta ni a Dell ni a BlackBerry",
+                    "uri": "199946917",
+                    "url": "http://www.europapress.es/portaltic/empresas/noticia-acuerdo-ibm-apple-no-asusta-dell-blackberry-20140727120043.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "SoftLayer, la compa\u00f1\u00eda que ofrece productos y servicios en la nube, ha cumplido un a\u00f1o dentro de la multinacional de tecnolog\u00eda IBM, y lo ha hecho en medio de la expansi\u00f3n de la adopci\u00f3n de servicios h\u00edbridos en la nube entre las empresas.\n IBM compr\u00f3 SoftLayer por 2.000 millones de d\u00f3lares en julio de 2013 y ha seguido invirtiendo desde entonces en su infraestructura y oferta de soluciones, como ha explicado la multinacional en un comunicado.\n \"Clientes de todas partes del mundo est\u00e1n migrando hacia la plataforma de SoftLayer, 6.000 el a\u00f1o pasado.  En Espa\u00f1a, la Compa\u00f1\u00eda cuenta ya con cerca de 200 clientes en infraestructura SoftLayer\", seg\u00fan la informaci\u00f3n ofrecida por IBM.  En este tiempo, m\u00e1s de 1.000 socios de negocio han firmado con IBM para ofrecer sus servicios sobre la infraestructura de SoftLayer, m\u00e1s de 90 en Espa\u00f1a.\n A d\u00eda de hoy, IBM tiene 28 centros de datos incluidas las recientes inauguraciones de Lisboa, Hong Kong, Dallas y Londres.  En el tercer trimestre de 2014, IBM planea anunciar centros adicionales en Melbourne, Toronto y Washington D.C, que ofrecer\u00e1n los servicios completos de infraestructura de SoftLayer en la nube, es decir, servidores f\u00edsicos, servidores virtuales, almacenamiento y redes.\n \"Las empresas-clientes est\u00e1n transformando sus modelos de negocio para poder responder a los requisitos de la era digital gracias a la oferta de tecnolog\u00eda en nube h\u00edbrida\".  Esta oferta a\u00fana la tecnolog\u00eda tradicional y el cloud computing: puede mantener el control en las instalaciones de aplicaciones a la vez que desempe\u00f1a otras tareas, como poder acceder con mayor rapidez a los datos, para expandir los nuevos servicios y reducir costes.\n Casi la mitad de las grandes empresas tendr\u00e1n desarrollos en la nube h\u00edbrida a finales de 2017, seg\u00fan datos aportados en el comunicado.  Esto requerir\u00e1 integrar sus infraestructuras e inversiones tecnol\u00f3gicas existentes (systems of record, en ingl\u00e9s) con las nuevas cargas de trabajo cloud surgidas de las nuevas tendencias, como el incremento de los datos, la movilidad y las redes sociales (systems of engagement).\n SERVICIOS CLOUD PARA LA EMPRESA DE IBM\nSeg\u00fan han explicado en el comunicado, SoftLayer ha reforzado la oferta IaaS, PaaS y SaaS de IBM, ha ampliado su red de centros de datos y ha creado una nueva plataforma para desarrolladores, denominada Bluemix, y un mercado online cloud.  Adem\u00e1s, a partir de ahora, SoftLayer jugar\u00e1 un papel fundamental en el r\u00e1pido desarrollo de nuevas soluciones de anal\u00edtica de negocio a los clientes.\n Por otra parte, IBM tiene m\u00e1s de 100 soluciones SaaS en la nube y una red de 40 centros de datos en todo el mundo.  Desde 2007, IBM ha invertido m\u00e1s de 7.000 millones de d\u00f3lares en 17 adquisiciones para acelerar sus iniciativas cloud y construir su oferta de soluciones.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15411419",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4163,
+                    "source": {
+                        "title": "Telecinco",
+                        "uri": "www.telecinco.es"
+                    },
+                    "time": "09:17:00",
+                    "title": "IBM celebra el primer aniversario de la compra de SoftLayer",
+                    "uri": "197598846",
+                    "url": "http://www.telecinco.es/informativos/tecnologia/IBM-celebra-primer-aniversario-SoftLayer_0_1828575086.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Apple e IBM no son las \u00fanicas empresas del sector tecnol\u00f3gico que se han unido contra todo pron\u00f3stico.  La industria ha dado lugar a extra\u00f1os compa\u00f1eros de cama.\n La sorprendente alianza entre Apple e IBM por la que la segunda compa\u00f1\u00eda ofrecer\u00e1 los smartphones y tablets de la primera a sus clientes empresariales a partir de este oto\u00f1o cogi\u00f3 por sorpresa al sector.  Ambas empresas hab\u00edan sido rivales encarnizadas en el pasado, pero han decidido enterrar el hacha de guerra en busca de intereses comunes.  De todos modos, no deber\u00eda sorprender, ya que el sector tecnol\u00f3gico es propenso a este tipo de uniones estrat\u00e9gicas.\n Posiblemente la alianza m\u00e1s extra\u00f1a que ha vivido esta industria fue la que llevaron a cabo la propia Apple y nada menos que Microsoft, su eterna rival.  Fue en agosto de 1997, pocos meses despu\u00e9s de que Steve Jobs volviese a la empresa que hab\u00eda creado para hacerla renacer de sus cenizas.  Y para que haya cenizas tiene que haber un fuego, aunque en este caso fuese metaf\u00f3rico.\n La presencia del mism\u00edsimo Bill Gates en la Mac World Expo del 6 de agosto de 1997, por videoconferencia, a\u00fan es uno de los momentos clave de la historia de las dos compa\u00f1\u00edas.  Los de Redmond invirtieron 150 millones de d\u00f3lares en la firma de la manzana, una cantidad que no daba derecho a voto pero s\u00ed serv\u00eda para reflotar la empresa de Jobs.  Por su parte, Microsoft evitaba el hundimiento de su rival, pero tambi\u00e9n las posibles demandas antimonopolio que habr\u00eda causado su desaparici\u00f3n.\n Tanto Apple como Microsoft han sido protagonistas de otras alianzas peculiares.  La empresa de Cupertino se ha enfrentado a Samsung en m\u00faltiples juicios a lo largo de los \u00faltimos a\u00f1os, casi todos relacionados con patentes de sus dispositivos, tanto por hardware (dise\u00f1o, principalmente) como por software.  Sin embargo, los coreanos est\u00e1n presentes en muchos mercados y uno de ellos es el de la producci\u00f3n de pantallas como las que utilizan los productos de Apple.  As\u00ed, han tenido una relaci\u00f3n de amor/odio que, eso s\u00ed, poco a poco se ha ido deteriorando.\n Por su parte, Microsoft ha cuidado m\u00e1s sus relaciones.  Su acuerdo m\u00e1s sonado fue el que cerr\u00f3 con Nokia para que se centrase en su sistema operativo para smartphones, Windows Phone.  Gracias a la gama Lumia, la plataforma consigui\u00f3 hacerse con el tercer puesto por cuota de mercado (tras Android y iOS).  Finalmente, el pez grande se comi\u00f3 al chico y Microsoft compr\u00f3 el negocio de telefon\u00eda de Nokia.\n Google tambi\u00e9n ha protagonizado una alianza tan sorprendente como criticada.  El buscador y Verizon se unieron para proteger la neutralidad de la Red en agosto de 2010.  Eso s\u00ed, dejaron fuera de esta defensa las redes m\u00f3viles, algo que Facebook aprovech\u00f3 para criticar.\n A pesar de ello, los dos gigantes de Internet suelen coincidir a la hora de recordar la importancia de un Internet abierto, aunque esto no sea una alianza comercial.  Ambas empresas formaron parte del movimiento global contra SOPA, la ley antipirater\u00eda que caus\u00f3 el rechazo de m\u00faltiples compa\u00f1\u00edas y organizaciones como Wikipedia.  Sus acciones no fueron las m\u00e1s duras (la enciclopedia virtual, por ejemplo, cerr\u00f3 durante un d\u00eda para expresar su oposici\u00f3n), pero s\u00ed de las m\u00e1s visibles: Google le dedic\u00f3 un doodle y Mark Zuckerberg, una carta abierta en su perfil.  La ley nunca lleg\u00f3 a ver la luz.",
+                    "date": "2014-07-17",
+                    "eventUri": "1031357",
+                    "id": "15521920",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4117,
+                    "source": {
+                        "title": "Terra",
+                        "uri": "noticias.terra.com.pe"
+                    },
+                    "time": "05:01:00",
+                    "title": "Alianzas tecnol\u00f3gicas imposibles que se hicieron realidad - Terra Per\u00fa",
+                    "uri": "197876180",
+                    "url": "http://noticias.terra.com.pe/tecnologia/alianzas-tecnologicas-imposibles-que-se-hicieron-realidad%2C7fd190328ff37410VgnVCM10000098cceb0aRCRD.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La campa\u00f1a De-OIE, de China afecta a las grandes firmas de Silicon Valley.  Para aquellos no familiarizados con el t\u00e9rmino, se est\u00e1 utilizando para describir el impulso de las empresas estatales de Pek\u00edn para dejar de depender del software y los servicios las empresas estadounidenses, principalmente IBM, Oracle y EMC.\n China es el tercer mayor mercado de tecnolog\u00edas de la informaci\u00f3n del mundo -con un r\u00e1pido crecimiento-.  El gobierno chino, sin embargo, quiere dejar de depender de empresas masivas a favor de proveedores nacionales como Huawei y Lenovo en nombre del desarrollo econ\u00f3mico y la seguridad.\n China solo representa alrededor del 4% de las ventas de IBM y Cisco.  En Oracle y EMC es probable que la cifra sea a\u00fan menor.  Apple obtiene el 20% de sus ingresos all\u00ed.  Pero los grandes bancos, operadores de telecomunicaciones y empresas estatales son los objetivos naturales del espionaje estadounidense, y las decisiones de compra son m\u00e1s vulnerables a la presi\u00f3n de las autoridades.  Tales cuestiones no afectan realmente a los consumidores chinos, lo que puede explicar por qu\u00e9 las ventas de Apple en China subieron el \u00faltimo trimestre y las de Cisco cayeron en cifras de dos d\u00edgitos.\n Las grandes firmas de hardware se enfrentan al grueso del problema, por lo que estos vendedores ser\u00e1n los primeros en hacer frente a la ca\u00edda de las ventas.  IBM est\u00e1 particularmente expuesta.  Alrededor de la mitad de sus ventas en China provienen del hardware.  Las mayores cifras de la compa\u00f1\u00eda en China cayeron un 20% en el \u00faltimo trimestre.  Quedan por delante m\u00e1s ca\u00eddas.  Microsoft, por su parte, ver\u00e1 ralentizarse o incluso reducirse lo que hab\u00eda sido un mercado de r\u00e1pido crecimiento, despu\u00e9s de que China prohibiera instalar Windows 8 en los equipos del gobierno.\n Los inversores no parecen esperar mucho crecimiento de estos gigantes de la tecnolog\u00eda.  IBM, Oracle y EMC -los principales objetivos en China- o de, Cisco y Microsoft .  Los resultados trimestrales, que comienzan a salir esta semana, pueden poner un poco m\u00e1s de manifiesto el problema.",
+                    "date": "2014-07-16",
+                    "eventUri": "1031357",
+                    "id": "15468877",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.3854,
+                    "source": {
+                        "title": "Cinco D\u00edas",
+                        "uri": "cincodias.com"
+                    },
+                    "time": "19:16:00",
+                    "title": "Golpe a las tecnol\u00f3gicas",
+                    "uri": "197743235",
+                    "url": "http://cincodias.com/cincodias/2014/07/16/empresas/1405533137_765566.html",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 31,
+            "averageDate": "2014-07-16",
+            "avgCos": 0.6595,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1031357",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1031357",
+            "lang": "spa",
+            "location": {
+                "country": {
+                    "labelEng": "United States",
+                    "lat": 39.76,
+                    "long": -98.5,
+                    "wikiUri": "http://en.wikipedia.org/wiki/United_States"
+                },
+                "labelEng": "New York City",
+                "lat": 40.71427,
+                "long": -74.00597,
+                "wikiUri": "http://en.wikipedia.org/wiki/New_York_City"
+            },
+            "storyDate": "2014-07-16",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-221280",
+            "variance": 0.5489
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 49,
+        "CCAArticleMatchRatio": 0.3888888888888889,
+        "CCAAvgCosSim": 0.7135142857142858,
+        "CCAAvgMatchWgt": 57.6530612244898,
+        "_articleUri1": "198113769",
+        "_articleUri2": "197597319",
+        "_datetime": "2015-02-19 21:13:14",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "850f305d-14db-4c75-b547-79470a557ea3-576336",
+        "_storyUri2": "e7e700df-6a06-44ea-a4f3-f736278fc36b-221280",
+        "_username": "Evgenia Belyaeva",
+        "artCount1": 10,
+        "artCount2": 31,
+        "avgCosSimStory1": 0.4315,
+        "avgCosSimStory2": 0.6595,
+        "categorySim": 0,
+        "conceptCosSim": 0.5248456653080735,
+        "conceptJaccardSim": 0.1739130434782609,
+        "coreTime1": 127490.7166666667,
+        "coreTime2": 127442.4166666667,
+        "coreTimeStDev1": 40.09885738665589,
+        "coreTimeStDev2": 9.38297853680861,
+        "entityCosSim": 0.7639085299504801,
+        "entityJaccardSim": 0.2,
+        "extractedDateJaccardSim": 0,
+        "extractedDatesStory1": 0,
+        "extractedDatesStory2": 1,
+        "hasSameLocation": -1,
+        "keywordCosSim": 0.3981946764545102,
+        "keywordJaccardSim": 0.1538461538461539,
+        "lang1": "eng",
+        "lang2": "spa",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 8,
+        "storyQuality2": 21,
+        "timeAvg1": 127537.235,
+        "timeAvg2": 127463.1532258065,
+        "timeStDev1": 53.04271625041768,
+        "timeStDev2": 47.01205450907219,
+        "varianceStory1": 0.3138,
+        "varianceStory2": 0.5489
+    }
+}

@@ -1,0 +1,379 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-804069": {
+        "articles": {
+            "resultCount": 10,
+            "results": [
+                {
+                    "body": "ASUNCION, Paraguay (AP) -- At least three people were dead and 13 were missing after a tourist boat capsized in the Paraguay River during a storm at the town of Carmelo Peralta in northern Paraguay, authorities said Wednesday night.\n\nAldo Saldivar, operations manager at the state National Emergency Secretariat, said the boat was carrying 11 Paraguayan crew members and 16 Brazilian tourists.\n\nSaldivar said the tourists were on a fishing expedition to the Pantanal, a wetlands region straddling the border with Brazil about 370 miles (600 kilometers) north of Paraguay's capital, Asuncion.\n\nHe said the boat capsized in the harbor of Carmelo Peralta. \"Apparently the accident occurred during a strong storm,\" he said.\n\nSaldivar said 11 of the 27 people on the boat had been able to swim to shore after the vessel turned over. Navy divers were called in to look for the missing and three bodies had been recovered before the search was suspended at nightfall, he said.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20408274",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.9401,
+                    "source": {
+                        "title": "San Francisco Gate",
+                        "uri": "www.sfgate.com"
+                    },
+                    "time": "03:21:00",
+                    "title": "Paraguay: 13 missing after tourist boat capsizes",
+                    "uri": "213333472",
+                    "url": "http://www.sfgate.com/news/world/article/Paraguay-15-missing-after-tourist-boat-capsizes-5778936.php",
+                    "wgt": 1
+                },
+                {
+                    "body": "At least three people were dead and 13 were missing after a tourist boat capsized in the Paraguay River during a storm at the town of Carmelo Peralta in northern Paraguay, authorities said Wednesday night.\n\nAldo Saldivar, operations manager at the state National Emergency Secretariat, said the boat was carrying 11 Paraguayan crew members and 16 Brazilian tourists.\n\nSaldivar said the tourists were on a fishing expedition to the Pantanal, a wetlands region straddling the border with Brazil about 370 miles (600 kilometers) north of Paraguay's capital, Asuncion.\n\nHe said the boat capsized in the harbor of Carmelo Peralta. \"Apparently the accident occurred during a strong storm,\" he said.\n\nSaldivar said 11 of the 27 people on the boat had been able to swim to shore after the vessel turned over. Navy divers were called in to look for the missing and three bodies had been recovered before the search was suspended at nightfall, he said.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20412306",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.927,
+                    "source": {
+                        "title": "ABC News",
+                        "uri": "abcnews.go.com"
+                    },
+                    "time": "04:22:00",
+                    "title": "Paraguay: 13 Missing After Tourist Boat Capsizes",
+                    "uri": "213342663",
+                    "url": "http://abcnews.go.com/International/wireStory/paraguay-15-missing-tourist-boat-capsizes-25743070",
+                    "wgt": 1
+                },
+                {
+                    "body": "Bishkek (AKIpress) - At least three people were dead and 13 were missing after a tourist boat capsized in the Paraguay River during a storm at the town of Carmelo Peralta in northern Paraguay, authorities said Wednesday night, report AP.\n\nAldo Saldivar, operations manager at the state National Emergency Secretariat, said the boat was carrying 11 Paraguayan crew members and 16 Brazilian tourists.\n\nSaldivar said the tourists were on a fishing expedition to the Pantanal, a wetlands region straddling the border with Brazil about 370 miles (600 kilometers) north of Paraguay's capital, Asuncion.\n\nHe said the boat capsized in the harbor of Carmelo Peralta. \"Apparently the accident occurred during a strong storm,\" he said.\n\nSaldivar said 11 of the 27 people on the boat had been able to swim to shore after the vessel turned over. Navy divers were called in to look for the missing and three bodies had been recovered before the search was suspended at nightfall, he said.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20421910",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.9203,
+                    "source": {
+                        "title": "www.akipress.com",
+                        "uri": "www.akipress.com"
+                    },
+                    "time": "06:48:00",
+                    "title": "13 missing after tourist boat capsizes in Paraguay",
+                    "uri": "213365512",
+                    "url": "http://www.akipress.com/news%3A548362",
+                    "wgt": 1
+                },
+                {
+                    "body": "At least three people were dead and 13 were missing after a tourist boat capsized in the Paraguay River during a storm at the town of Carmelo Peralta in northern Paraguay, authorities said Wednesday night.\n\nAldo Saldivar, operations manager at the state National Emergency Secretariat, said the boat was carrying 11 Paraguayan crew members and 16 Brazilian tourists.\n\nSaldivar said the tourists were on a fishing expedition to the Pantanal, a wetlands region straddling the border with Brazil about 370 miles (600 kilometers) north of Paraguay's capital, Asuncion.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20408240",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.9125,
+                    "source": {
+                        "title": "Sify",
+                        "uri": "www.sify.com"
+                    },
+                    "time": "03:20:00",
+                    "title": "Paraguay: 13 missing after tourist boat capsizes",
+                    "uri": "213333393",
+                    "url": "http://www.sify.com/news/paraguay-13-missing-after-tourist-boat-capsizes-news-others-ojzgJsegieecb.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "ASUNCION, Paraguay (AP) Authorities in Paraguay say at least 15 people are missing after a tourist boat apparently capsized Wednesday in the Paraguay River during a storm at the town of Carmelo Peralta.\n\nEmergency agency operating manager Aldo Saldivar says the boat was carrying Brazilian tourists who had come for a fishing expedition in the Pantanal region, about 370 miles (600 kilometers) north of the capital of Asuncion. He says witnesses reported that five tourists were rescued.\n\nSaldivar says navy divers are looking for the missing.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20405825",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8418,
+                    "source": {
+                        "title": "The New Zealand Herald",
+                        "uri": "www.nzherald.co.nz"
+                    },
+                    "time": "02:23:00",
+                    "title": "Paraguay: 15 missing after tourist boat capsizes",
+                    "uri": "213326493",
+                    "url": "http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11331374&ref=rss",
+                    "wgt": 1
+                },
+                {
+                    "body": "At least three people were dead and 13 were missing after a tourist boat capsized in the Paraguay River during a storm, authorities said Wednesday night. The boat was carrying 11 Paraguayan crew members and 16 Brazilian tourists as the incident happened at the town of Carmelo Peralta in northern Paraguay, AP said. They were on a fishing expedition to the Pantanal, a wetlands region straddling the border with Brazil about 600km north of Paraguay's capital, Asuncion. Eleven of the 27 people on the boat had been able to swim to shore after the vessel turned over.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20424283",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8324,
+                    "source": {
+                        "title": "RT (Russia Today)",
+                        "uri": "rt.com"
+                    },
+                    "time": "07:22:00",
+                    "title": "3 dead, 13 missing as tourist boat capsizes in Paraguay",
+                    "uri": "213372021",
+                    "url": "http://rt.com/news/line/2014-09-25/#71424",
+                    "wgt": 1
+                },
+                {
+                    "body": "Police in Paraguay say three people were killed when a tourist boat capsized on the River Paraguay.\n\nThey said 14 passengers managed to swim ashore, but 10 were still missing.\n\nThe boat, Dream of the Pantanal, sank during a heavy storm near the town of Carmelo Peralta in northern Paraguay, about 600km (370 miles) north of the capital, Asuncion.\n\nOfficials said it was carrying 11 Paraguayan crew and 16 Brazilian tourists.\n\nNavy divers have been called in to help with the search.\n\nAldo Saldivar of Paraguay's National Emergency Secretariat said the tourists were on a fishing expedition to the Pantanal, one of the world's largest freshwater wetlands, which stretches across areas of Brazil, Paraguay and Bolivia.",
+                    "date": "2014-09-25",
+                    "eventUri": "1385345",
+                    "id": "20434651",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8265,
+                    "source": {
+                        "title": "BBC",
+                        "uri": "www.bbc.co.uk"
+                    },
+                    "time": "09:40:00",
+                    "title": "Tourist boat capsizes in Paraguay",
+                    "uri": "213399264",
+                    "url": "http://www.bbc.co.uk/news/world-latin-america-29359009#sa-ns_mchannel%3Drss%26ns_source%3DPublicRSS20-sa",
+                    "wgt": 1
+                },
+                {
+                    "body": "JEFFERSONVILLE, IN (WAVE) - Leaders in Jeffersonville are dropping plans for permanent boat docking spots at a new Ohio River Marina.\n\nThe revised plans for the marina call for 15 spots for temporary boat docking and eliminates plans for 22 permanent slips. The change comes after new construction bids came in higher than expected.\n\n[PREVIOUS STORY: NEWS & TRIBUNE: Jeffersonville marina estimates much higher than expected]\n\nSince the new marina is meant to entice boaters to the city, Mayor Mike Moore said the spots for temporary docking are the economic engine of the project.\n\nMoore said he would also like to see a fishing pier in the plans. The city council hopes to review preliminary sketches next month.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20389064",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.2258,
+                    "source": {
+                        "title": "WAVE TV 3",
+                        "uri": "www.wave3.com"
+                    },
+                    "time": "22:06:00",
+                    "title": "Permanent bock slips dropped form Jeffersonville marina plan",
+                    "uri": "213284856",
+                    "url": "http://www.wave3.com/story/26619771/permanent-bock-slips-dropped-form-jeffersonville-marina-plan",
+                    "wgt": 1
+                },
+                {
+                    "body": "All the details including links to the Spectator Guide and Traffic Guide are on the Chattanooga DOT special events page:\n\nhttp://www.chattanooga.gov/transportation/traffic-engineering-a-operations/special-events-a-street-closures\n\nThe Tennessee River will be closed to pleasure crafts between Ross's Landing and the Chickamauga Dam from midnight, Saturday September 27th until noon on Sunday, September 28th. This includes the Rivermont Park and Tennessee Riverpark boat ramps",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20385196",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.2101,
+                    "source": {
+                        "title": "WDEF TV 12",
+                        "uri": "www.wdef.com"
+                    },
+                    "time": "21:29:00",
+                    "title": "2014 Little Debbie IRONMAN preparations and road closures",
+                    "uri": "213277337",
+                    "url": "http://www.wdef.com/news/story/2014-Little-Debbie-IRONMAN-preparations-and-road/lNINCL3UBUuJJOP49qwPyQ.cspx?rss=3457",
+                    "wgt": 1
+                },
+                {
+                    "body": "We live in a world of vehicles and machinery made up of a million different moving parts and hyper-specialized tech guts. Using nothing more than a modified moped motor, Gaspard Tin\u00e9-Ber\u00e8s and Tristan Kopp of Re-Do Studio imagined a future where a single modular Engine Block can be used to power everything from a small boat to a cement mixer.\n\nThey put together the project as part of Ljubljana's 50th Biennial of Industrial Design, and started with a (very) creative vision: In an \"apocalyptic\" future ravaged by economic turmoil, these mix-and-match generators will be the key to a new kind of hands-on maker movement, where people (re)learn what it takes to make their goods go. In other words: \"A guy fixes old tools by using a unique engine to run all of them,\" as Tin\u00e9-Ber\u00e8s told We Make Money Not Art.\n\nIt's conceptual, sure, but they also made it work with a prototype proof of concept (shot in a ultra-dramatic, sci-fi style vid). The duo partnered with Tomos, a Slovenian scooter manufacturer, to source the engine, then adapted it to work with a boat, a saw, a cement mixer, and -- of course -- a moped.\n\nThe reality of a one-size-fits-all engine is not necessarily practical, but the idea does speak to a kind of industrious tinkering that most folks wouldn't bother to consider in their day to day lives -- which falls in line with their Re-Done home appliance and bike projects from a few years back which saw cheap, bound-for-the-trash miscellany being fixed up rather than tossed out. Apocalyptic futures aside, their commitment to encouraging resourcefulness rather than waste is one we should definitely be paying attention to now. [We Make Money Not Art]",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20387137",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.1977,
+                    "source": {
+                        "title": "Gizmodo",
+                        "uri": "gizmodo.com"
+                    },
+                    "time": "21:51:00",
+                    "title": "This Modified Moped Engine Powers a Boat, Concrete Mixer, and Woodsaw",
+                    "uri": "213281244",
+                    "url": "http://gizmodo.com/this-modified-moped-engine-powers-a-boat-a-concrete-mi-1638749474",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 10,
+            "averageDate": "2014-09-25",
+            "avgCos": 0.4833,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1385345",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1385345",
+            "lang": "eng",
+            "storyDate": "2014-09-25",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-804069",
+            "variance": 0.2665
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-269960": {
+        "articles": {
+            "resultCount": 5,
+            "results": [
+                {
+                    "body": "Al menos 15 personas desaparecieron el mi\u00e9rcoles en aguas del r\u00edo Paraguay al zozobrar una embarcaci\u00f3n enfrente del puerto Carmelo Peralta, al norte de la capital paraguaya.\n\nAldo Sald\u00edvar, gerente operativo de la estatal Secretar\u00eda de Emergencia Nacional, dijo a los periodistas que la embarcaci\u00f3n con bandera paraguaya transportaba a turistas brasile\u00f1os que llegaban a Carmelo Peralta de una jornada de pesca en las cercan\u00edas del pantanal brasile\u00f1o, a unos 600 kil\u00f3metros al norte de Asunci\u00f3n.\n\n\"No tenemos a\u00fan la identidad de los desaparecidos. Los buzos de la Armada est\u00e1n trabajando. Aparentemente, el accidente ocurri\u00f3 debido a un fuerte temporal\", explic\u00f3.\n\nEn tanto, el periodista Nicol\u00e1s Feltes de la radioemisora Olimpo, ubicada en la zona del percance, inform\u00f3 que \"la embarcaci\u00f3n zozobr\u00f3 a tan s\u00f3lo 30 metros del precario puerto de la localidad Carmelo Peralta\".\n\n\"Testigos que estaban en tierra divisaron el accidente del barquito Sue\u00f1os del Pantanal, propiedad del paraguayo Silvio Penayo, e informaron que unos 12 turistas supuestamente brasile\u00f1os no fueron encontrados a\u00fan, cinco pasajeros sobrevivieron y los tres tripulantes, incluyendo el due\u00f1o, son buscados en medio de la noche\", relat\u00f3.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20412707",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7965,
+                    "source": {
+                        "title": "elnuevoherald",
+                        "uri": "www.elnuevoherald.com"
+                    },
+                    "time": "22:15:00",
+                    "title": "Paraguay: 15 desaparecidos en naufragio en r\u00edo",
+                    "uri": "213343512",
+                    "url": "http://www.elnuevoherald.com/noticias/mundo/america-latina/article2235673.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Un fuerte temporal caus\u0443 el vuelco del barco \"Sue\u0441o de Paran\u0431\". Gentileza.\n\nLa causa del vuelco de la embarcaci\u00f3n habr\u00eda sido el temporal con vientos fuertes en la zona de Carmelo Pertalta, seg\u00fan la Polic\u00eda. Los pasajeros y v\u00edctimas del desastres ser\u00edan todos brasile\u00f1os.\n\nMarinos brasile\u00f1os y paraguayos de la zona, as\u00ed como la Polic\u00eda Nacional y pobladores de Isla Margarita, trabajan para rescatar a las v\u00edctimas. Incluso, algunas v\u00edctimas ya fueron rescatadas de las aguas.\n\nLa embarcaci\u00f3n, que posee el nombre \"Sue\u00f1o de Pantanal\", transportaba a varios turistas en el momento del accidente. El motivo que ocasion\u00f3 el hundimiento habr\u00eda sido por una intensa tormenta que se registr\u00f3 en el lugar.\n\nEl periodista Nicol\u00e1s Feltes, de la Radio \"Olimpo FM\", inform\u00f3 a radio 1000 AM que \"es seguro que fallecieron 15 personas. Los accidentados no tuvieron el tiempo suficiente para ponerse los chalecos salvavidas al momento en que volcaba la embarcaci\u00f3n, dijo el trabajador a la emisora capitalina.\n\nLos cuerpos de dos hombres mayores de edad que formaban parte de la embarcaci\u0443nl, que naufrag\u0443 en la tarde de este mi\u0439rcoles en el r\u043do Paraguay, fueron encontrados por el equipo de b\u044asqueda. Ma\u0441ana continuar\u0431n la b\u044asqueda de los desaparecidos, inform\u0443 la Polic\u043da de Carmelo Peralta.\n\nLa informaci\u00f3n refiere que alrededor de las 17:30 horas del mi\u00e9rcoles, el barco \"Sue\u00f1o de Pantanal\" se encontraba en la zona de Carmelo Peralta volc\u00f3 a consecuencia de un temporal, se desconoce la cantidad de personas a bordo.\n\nLos tripulantes, en su mayor\u00eda turistas, se encontraban en un recorrido que cubre el trayecto Carmelo Peralta-Olimpo. Cuando se desato una tormenta con r\u00e1fagas de vientos fuertes, lo que habr\u00eda ocasionado el vuelco, con el barco en su capacidad m\u00e1xima.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20412714",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7776,
+                    "source": {
+                        "title": "La Nacion de Paraguay",
+                        "uri": "www.lanacion.com.py"
+                    },
+                    "time": "22:15:00",
+                    "title": "Temporal vuelca una embarcaci\u00f3n en Carmelo Peralta",
+                    "uri": "213343504",
+                    "url": "http://www.lanacion.com.py/articulo/178169-temporal-vuelca-una-embarcacion-en-carmelo-peralta.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Una embarcaci\u00f3n volc\u00f3 esta tarde en la zona de Carmelo Peralta, Alto Paraguay, cuando transportaba a turistas. La Polic\u00eda Nacional presume que 20 personas est\u00e1n desaparecidas, mientras que se argumenta que unas 15 ya fallecieron.\n\nEn la tarde de este mi\u00e9rcoles, una embarcaci\u00f3n volc\u00f3 en la zona de Carmelo Peralta, del departamento de Alto Paraguay.\n\nLa embarcaci\u00f3n, que posee el nombre \"Sue\u00f1o de Pantanal\", transportaba a varios turistas en el momento del accidente. Hasta el momento unas 20 personas contin\u00faan desaparecidas.\n\nEl motivo que ocasion\u00f3 el hundimiento habr\u00eda sido por una intensa tormenta que se registr\u00f3 en el lugar.\n\nPor su parte, el periodista Nicol\u00e1s Feltes, de la Radio \"Olimpo FM\", dijo a radio 1000 AM que \"es seguro que fallecieron 15 personas\". \"Los accidentados no tuvieron el tiempo suficiente para ponerse los chalecos salvavidas\", agreg\u00f3.\n\nComent\u00f3 que ma\u00f1ana se intensificar\u00e1n las b\u00fasquedas correspondientes, atendiendo que a la noche se dificulta el trabajo de los oficiales.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20412712",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7328,
+                    "source": {
+                        "title": "www.hoy.com.py",
+                        "uri": "www.hoy.com.py"
+                    },
+                    "time": "21:15:00",
+                    "title": "Vuelco de embarcaci\u00f3n deja 20 desaparecidos",
+                    "uri": "213343517",
+                    "url": "http://www.hoy.com.py/nacionales/vuelco-de-embarcacin-deja-20-desaparecidos-ya-hablan-de-15-fallecidos",
+                    "wgt": 1
+                },
+                {
+                    "body": "Una embarcaci\u00f3n que transportaba turistas en la zona de Carmelo Peralta volc\u00f3 en el r\u00edo Paraguay a consecuencia de los vientos fuertes de un breve temporal. La Polic\u00eda reporta 20 personas desaparecidas hasta el momento.\n\nUna embarcaci\u00f3n con capacidad para aproximadamente 20 personas que cubre el trayecto Carmelo Peralta-Olimpo, volc\u00f3 esta tarde, aproximadamente a las 17:30 en el r\u00edo Paraguay, en la zona de Carmelo Peralta, cuando transportaba pasajeros. La causa del vuelco habr\u00eda sido el temporal con vientos fuertes.\n\nGeneralmente estas embarcaciones son utilizadas en su mayor\u00eda por brasile\u00f1os, inform\u00f3 el corresponsal de ABC Color, Carlos Almir\u00f3n. La embarcaci\u00f3n que volc\u00f3 aparentemente estaba llena de pasajeros. La Polic\u00eda de la zona habla de 20 desaparecidos hasta el momento.\n\nPersonal de la Marina brasile\u00f1a y paraguaya de la zona, as\u00ed como la Polic\u00eda Nacional y pobladores de Isla Margarita, trabajan para rescatar a las v\u00edctimas. La mayor\u00eda de los pasajeros ser\u00edan brasile\u00f1os de la zona de Paran\u00e1.\n\nEl temporal, adem\u00e1s de tumbar la embarcaci\u00f3n, caus\u00f3 destrozos en la zona poblada. Hay muchas casas destechadas, \u00e1rboles ca\u00eddos y antenas que cayeron en la zona. La comunicaci\u00f3n se dificulta, report\u00f3 Juan Gamarra, de la radio Nativa de Isla Margarita.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20412711",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7309,
+                    "source": {
+                        "title": "ABC Color",
+                        "uri": "www.abc.com.py"
+                    },
+                    "time": "20:15:00",
+                    "title": "Vuelca barco con turistas",
+                    "uri": "213343516",
+                    "url": "http://www.abc.com.py/nacionales/vuelca-barco-con-turistas-1289197.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "ASUNCION, Paraguay.(AP) Al menos 15 personas desaparecieron el mi\u00c3\u00a9rcoles en aguas del r\u00c3\u00ado Paraguay al zozobrar una embarcaci\u00c3\u00b3n enfrente del puerto Carmelo Peralta, al norte de la capital paraguaya.\n\nAldo Sald\u00c3\u00advar, gerente operativo de la estatal Secretar\u00c3\u00ada de Emergencia Nacional, dijo a los periodistas que la embarcaci\u00c3\u00b3n con bandera paraguaya transportaba a turistas brasile\u00c3\u00b1os que llegaban a Carmelo Peralta de una jornada de pesca en las cercan\u00c3\u00adas del pantanal brasile\u00c3\u00b1o, a unos 600 kil\u00c3\u00b3metros al norte de Asunci\u00c3\u00b3n.\n\n\"No tenemos a\u00c3\u00ban la identidad de los desaparecidos. Los buzos de la Armada est\u00c3\u00a1n trabajando. Aparentemente, el accidente ocurri\u00c3\u00b3 debido a un fuerte temporal\", explic\u00c3\u00b3.\n\nEn tanto, el periodista Nicol\u00c3\u00a1s Feltes de la radioemisora Olimpo, ubicada en la zona del percance, inform\u00c3\u00b3 que \"la embarcaci\u00c3\u00b3n zozobr\u00c3\u00b3 a tan s\u00c3\u00b3lo 30 metros del precario puerto de la localidad Carmelo Peralta\".\n\n\"Testigos que estaban en tierra divisaron el accidente del barquito Sue\u00c3\u00b1os del Pantanal, propiedad del paraguayo Silvio Penayo, e informaron que unos 12 turistas supuestamente brasile\u00c3\u00b1os no fueron encontrados a\u00c3\u00ban, cinco pasajeros sobrevivieron y los tres tripulantes, incluyendo el due\u00c3\u00b1o, son buscados en medio de la noche\", relat\u00c3\u00b3.",
+                    "date": "2014-09-24",
+                    "eventUri": "1385345",
+                    "id": "20412710",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6686,
+                    "source": {
+                        "title": "ElImparcial.com",
+                        "uri": "www.elimparcial.com"
+                    },
+                    "time": "22:15:00",
+                    "title": "Van 15 desaparecidos en naufragio en r\u00edo: Paraguay",
+                    "uri": "213343514",
+                    "url": "http://www.elimparcial.com/EdicionEnLinea/Notas/Internacional/24092014/890007-Van-15-desaparecidos-en-naufragio-en-rio-Paraguay.html",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 5,
+            "averageDate": "2014-09-24",
+            "avgCos": 0.5242,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1385345",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1366231",
+            "lang": "spa",
+            "location": {
+                "country": {
+                    "labelEng": "Venezuela",
+                    "lat": 8,
+                    "long": -66,
+                    "wikiUri": "http://en.wikipedia.org/wiki/Venezuela"
+                },
+                "labelEng": "Isla Margarita",
+                "lat": 10.98705,
+                "long": -63.93568,
+                "wikiUri": "http://en.wikipedia.org/wiki/Isla_Margarita"
+            },
+            "storyDate": "2014-09-24",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-269960",
+            "variance": 0.2253
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 18,
+        "CCAArticleMatchRatio": 0.108433734939759,
+        "CCAAvgCosSim": 0.811163888888889,
+        "CCAAvgMatchWgt": 60.38888888888889,
+        "_articleUri1": "213333472",
+        "_articleUri2": "213343512",
+        "_datetime": "2015-02-23 12:44:13",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "850f305d-14db-4c75-b547-79470a557ea3-804069",
+        "_storyUri2": "e7e700df-6a06-44ea-a4f3-f736278fc36b-269960",
+        "_username": "admin",
+        "artCount1": 10,
+        "artCount2": 5,
+        "avgCosSimStory1": 0.4833,
+        "avgCosSimStory2": 0.5242,
+        "categorySim": 0,
+        "conceptCosSim": 0.6259537581689877,
+        "conceptJaccardSim": 0.1714285714285714,
+        "coreTime1": 129141.85,
+        "coreTime2": 129142.25,
+        "coreTimeStDev1": 3.288172591736499,
+        "coreTimeStDev2": 0.8,
+        "entityCosSim": 0.7038148038920301,
+        "entityJaccardSim": 0.2857142857142857,
+        "extractedDateJaccardSim": -1,
+        "extractedDatesStory1": 0,
+        "extractedDatesStory2": 0,
+        "hasSameLocation": 0,
+        "keywordCosSim": 0.6070479500897479,
+        "keywordJaccardSim": 0.1428571428571429,
+        "lang1": "eng",
+        "lang2": "spa",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 10,
+        "storyQuality2": 9,
+        "timeAvg1": 129147.07,
+        "timeAvg2": 129141.65,
+        "timeStDev1": 4.016852001256068,
+        "timeStDev2": 0.8,
+        "varianceStory1": 0.2665,
+        "varianceStory2": 0.2253
+    }
+}

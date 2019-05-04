@@ -1,0 +1,487 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-827425": {
+        "articles": {
+            "resultCount": 15,
+            "results": [
+                {
+                    "body": "Accessing two previously untapped streams of satellite data, scientists at Scripps Institution of Oceanography at UC San Diego and their colleagues have created a new map of the world's seafloor, creating a much more vivid picture of the structures that make up the deepest, least-explored parts of the ocean. Thousands of previously uncharted mountains rising from the seafloor and new clues about the formation of the continents have emerged through the new map, which is twice as accurate as the previous version produced nearly 20 years ago.\n\nDeveloped using a scientific model that captures gravity measurements of the ocean seafloor, the new map extracts data from the European Space Agency's (ESA) CryoSat-2 satellite, which primarily captures polar ice data but also operates continuously over the oceans, and Jason-1, NASA's satellite that was redirected to map the gravity field during the last year of its 12-year mission.\n\nCombined with existing data and drastically improved remote sensing instruments, the new map, described in the journal Science, has revealed details of thousands of undersea mountains, or seamounts, extending a kilometer or more from the ocean bottom. The new map also gives geophysicists new tools to investigate ocean spreading centers and little-studied remote ocean basins.\n\n\"The kinds of things you can see very clearly now are abyssal hills, which are the most common land form on the planet,\" said David Sandwell, lead scientist of the paper and a geophysics professor in the Cecil H. and Ida M. Green Institute of Geophysics and Planetary Physics (IGPP) at Scripps.\n\nThe authors of the study say the map provides a new window into the tectonics of the deep oceans. Previously unseen features in the map include newly exposed continental connections across South America and Africa, and new evidence for seafloor spreading ridges at the Gulf of Mexico that were active 150 million years ago and are now buried by mile-thick layers of sediment.\n\n\"One of the most important uses of this new marine gravity field will be to improve the estimates of seafloor depth in the 80 percent of the oceans that remains uncharted or is buried beneath thick sediment,\" the authors say in the report.\n\n\"Although CryoSat-2's primary mission is in the cryosphere, we knew as soon as we selected its orbit that it would be invaluable for marine geodesy, and this work proves the point,\" said Richard Francis, a coauthor of the paper and project manager for the development of CryoSat-2 at the European Space Agency, and honorary professor in the Department of Earth Sciences at University College London. The new map also provides the foundation for the upcoming new version of Google's ocean maps to fill large voids between shipboard depth profiles.\n\n\"The team has developed and proved a powerful new tool for high-resolution exploration of regional seafloor structure and geophysical processes,\" says Don Rice, program director in the National Science Foundation's (NSF) Division of Ocean Sciences. \"This capability will allow us to revisit unsolved questions and to pinpoint where to focus future exploratory work.\"\n\n\"The use of satellite altimeter data and Sandwell's improved data processing technique provides improved estimates of marine gravity and bathymetry world-wide, including in remote areas,\" said Joan Cleveland, Office of Naval Research (ONR) deputy director, Ocean Sensing and Systems Division. \"Accurate bathymetry and identifying the location of seamounts are important to safe navigation for the U.S. Navy.\"",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20961800",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8024,
+                    "source": {
+                        "title": "phys.org",
+                        "uri": "phys.org"
+                    },
+                    "time": "19:22:00",
+                    "title": "New map exposes previously unseen details of seafloor",
+                    "uri": "214960110",
+                    "url": "http://phys.org/news/2014-10-exposes-previously-unseen-seafloor.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Accessing two previously untapped streams of satellite data, scientists at Scripps Institution of Oceanography at UC San Diego and their colleagues have created a new map of the world's seafloor, creating a much more vivid picture of the structures that make up the deepest, least-explored parts of the ocean. Thousands of previously uncharted mountains rising from the seafloor and new clues about the formation of the continents have emerged through the new map, which is twice as accurate as the previous version produced nearly 20 years ago.\n\nDeveloped using a scientific model that captures gravity measurements of the ocean seafloor, the new map extracts data from the European Space Agency's (ESA) CryoSat-2 satellite, which primarily captures polar ice data but also operates continuously over the oceans, and Jason-1, NASA's satellite that was redirected to map the gravity field during the last year of its 12-year mission.\n\nCombined with existing data and drastically improved remote sensing instruments, the new map, described in the journal Science, has revealed details of thousands of undersea mountains, or seamounts, extending a kilometer or more from the ocean bottom. The new map also gives geophysicists new tools to investigate ocean spreading centers and little-studied remote ocean basins.\n\n\"The kinds of things you can see very clearly now are abyssal hills, which are the most common land form on the planet,\" said David Sandwell, lead scientist of the paper and a geophysics professor in the Cecil H. and Ida M. Green Institute of Geophysics and Planetary Physics (IGPP) at Scripps.\n\nThe authors of the study say the map provides a new window into the tectonics of the deep oceans. Previously unseen features in the map include newly exposed continental connections across South America and Africa, and new evidence for seafloor spreading ridges at the Gulf of Mexico that were active 150 million years ago and are now buried by mile-thick layers of sediment.\n\n\"One of the most important uses of this new marine gravity field will be to improve the estimates of seafloor depth in the 80 percent of the oceans that remains uncharted or is buried beneath thick sediment,\" the authors say in the report.\n\n\"Although CryoSat-2's primary mission is in the cryosphere, we knew as soon as we selected its orbit that it would be invaluable for marine geodesy, and this work proves the point,\" said Richard Francis, a coauthor of the paper and project manager for the development of CryoSat-2 at the European Space Agency, and honorary professor in the Department of Earth Sciences at University College London.\n\nThe new map also provides the foundation for the upcoming new version of Google's ocean maps to fill large voids between shipboard depth profiles.\n\n\"The team has developed and proved a powerful new tool for high-resolution exploration of regional seafloor structure and geophysical processes,\" says Don Rice, program director in the National Science Foundation's (NSF) Division of Ocean Sciences. \"This capability will allow us to revisit unsolved questions and to pinpoint where to focus future exploratory work.\"\n\n\"The use of satellite altimeter data and Sandwell's improved data processing technique provides improved estimates of marine gravity and bathymetry world-wide, including in remote areas,\" said Joan Cleveland, Office of Naval Research (ONR) deputy director, Ocean Sensing and Systems Division. \"Accurate bathymetry and identifying the location of seamounts are important to safe navigation for the U.S. Navy.\"",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "20985917",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8024,
+                    "source": {
+                        "title": "ScienceDaily",
+                        "uri": "www.sciencedaily.com"
+                    },
+                    "time": "06:46:00",
+                    "title": "Previously unseen details of seafloor exposed in new map",
+                    "uri": "215054971",
+                    "url": "http://www.sciencedaily.com/releases/2014/10/141002141801.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bsciencedaily%2B%2528Latest%2BScience%2BNews%2B--%2BScienceDaily%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "October 2, 2014\n\nEarth, Energy & Environment, Technology\n\nAccessing two previously untapped streams of satellite data, scientists at Scripps Institution of Oceanography at UC San Diego and their colleagues have created a new map of the world's seafloor, creating a much more vivid picture of the structures that make up the deepest, least-explored parts of the ocean. Thousands of previously uncharted mountains rising from the seafloor and new clues about the formation of the continents have emerged through the new map, which is twice as accurate as the previous version produced nearly 20 years ago.\n\nDeveloped using a scientific model that captures gravity measurements of the ocean seafloor, the new map extracts data from the European Space Agency's (ESA) CryoSat-2 satellite, which primarily captures polar ice data but also operates continuously over the oceans, and Jason-1, NASA's satellite that was redirected to map the gravity field during the last year of its 12-year mission.\n\nCombined with existing data and drastically improved remote sensing instruments, the new map, described in the journal Science, has revealed details of thousands of undersea mountains, or seamounts, extending a kilometer or more from the ocean bottom. The new map also gives geophysicists new tools to investigate ocean spreading centers and little-studied remote ocean basins.\n\n\"The kinds of things you can see very clearly now are abyssal hills, which are the most common land form on the planet,\" said David Sandwell, lead scientist of the paper and a geophysics professor in the Cecil H. and Ida M. Green Institute of Geophysics and Planetary Physics (IGPP) at Scripps.\n\nThe authors of the study say the map provides a new window into the tectonics of the deep oceans. Previously unseen features in the map include newly exposed continental connections across South America and Africa, and new evidence for seafloor spreading ridges at the Gulf of Mexico that were active 150 million years ago and are now buried by mile-thick layers of sediment.\n\n\"One of the most important uses of this new marine gravity field will be to improve the estimates of seafloor depth in the 80 percent of the oceans that remains uncharted or is buried beneath thick sediment,\" the authors say in the report.\n\n\"Although CryoSat-2's primary mission is in the cryosphere, we knew as soon as we selected its orbit that it would be invaluable for marine geodesy, and this work proves the point,\" said Richard Francis, a coauthor of the paper and project manager for the development of CryoSat-2 at the European Space Agency, and honorary professor in the Department of Earth Sciences at University College London.\n\nThe new map also provides the foundation for the upcoming new version of Google's ocean maps to fill large voids between shipboard depth profiles.\n\n\"The team has developed and proved a powerful new tool for high-resolution exploration of regional seafloor structure and geophysical processes,\" says Don Rice, program director in the National Science Foundation's (NSF) Division of Ocean Sciences. \"This capability will allow us to revisit unsolved questions and to pinpoint where to focus future exploratory work.\"\n\n\"The use of satellite altimeter data and Sandwell's improved data processing technique provides improved estimates of marine gravity and bathymetry world-wide, including in remote areas,\" said Joan Cleveland, Office of Naval Research (ONR) deputy director, Ocean Sensing and Systems Division. \"Accurate bathymetry and identifying the location of seamounts are important to safe navigation for the U.S. Navy.\"",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20971804",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8009,
+                    "source": {
+                        "title": "ScienceBlog.com",
+                        "uri": "scienceblog.com"
+                    },
+                    "time": "23:01:00",
+                    "title": "New Map Exposes Previously Unseen Details of Seafloor - ScienceBlog.com (blog)",
+                    "uri": "214994468",
+                    "url": "http://scienceblog.com/74652/new-map-exposes-previously-unseen-details-seafloor/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Sharpest pictures yet of the ocean basins reveal uncharted volcanoes and other geological wonders.\n\nAs though someone had pulled a plug in the oceans and drained them away, a sea-floor map has exposed thousands of never-before-seen underwater mountains and ridges. The map -- generated by the highest-resolution gravity model ever made for the oceans -- will guide deep-sea research for years to come.\n\nAn international team of researchers led by David Sandwell, an oceanographer at the Scripps Institution of Oceanography in La Jolla, California, publishes the map in the 3 October issue of Science. The team created it using data mostly from two satellites: CryoSat-2, from the European Space Agency, and Jason-1, from NASA and the French space agency CNES.\n\nBoth satellites sought to chart the planet, but with different goals. The ongoing CryoSat-2 mission studies the polar ice caps, whereas Jason-1 studied changes in sea level before it was turned off last year. Both probes carried radar altimeters, instruments that measure the precise distance between the satellite and the surface of the land or ocean below.\n\nBy measuring tiny changes in the surface level of the ocean, then subtracting the effect of temporary phenomena such as waves, the satellites mapped how the ocean responds to the gravitational pull of underwater features such as mountain ranges. In essence, the probes map the sea surface as a proxy for the sea floor below.\n\n\"Over many years we've only had about two opportunities to get this kind of data,\" says Sandwell. The first was in 1995, when the data from the US Navy's GEOSAT satellite were declassified and Europe's ERS-1 satellite finished working in an orbit that was suitable for gravity mapping. That combination of data resulted in a 1997 Science paper from Sandwell and his team -- at the time the sharpest global sea-floor map.\n\nThe latest data have now made the map at least twice as good. \"Everything is getting sharper and popping into focus,\" says Sandwell.\n\nIn the old map, scientists could detect the underwater volcanoes known as seamounts if the features rose more than about 2 kilometres from the seafloor. In the latest map, as many as 20,000 previously unknown seamounts, between 1.5 and 2 kilometres high, pop into view scattered along relatively young sections of the sea floor, says Sandwell.\n\nThe map can also peer more clearly beneath sediments blanketing the sea floor. In the northern Indian Ocean, it reveals an underwater ridge running all the way through the Bengal Fan, a blanket of sediments more than 8 kilometres thick made up of the remains of rocks washed down from the high Himalayas. Similarly, the map revealed ridges in the Gulf of Mexico where fresh magma once rose to the surface to form new ocean crust. These ridges are now extinct and buried by sediment, but geologists can use their traces to reconstruct how the Yucatan and North American crustal plates moved in this region over time.\n\nGeologists around the world can use the map to reconstruct how oceanic crustal plates shifted, says Joanne Whittaker, a marine geoscientist at the University of Tasmania in Hobart, Australia. She studies the poorly mapped parts of the Indian and Southern Oceans between Antarctica and Australia, and relies on gravity maps to help plan her research voyages. Whittaker has an upcoming cruise aboard Australia's new research vessel, Investigator, to study the underwater Gulden Draak Knoll, which may be a fragment of an ancient continent. Thanks to the gravity data, she says, \"we will be able to plan our voyage with more confidence, and we may even try to adjust the voyage somewhat based on all the new information.\"\n\nOil and gas companies are also likely to make use of the map, says Sandwell. Among other things, it has revealed an extinct spreading ridge off the coast of Brazil, in an area of intense petroleum exploration. US energy company ConocoPhillips, based in Houston, Texas, was one of the early funders of Sandwell's research; other than such companies, he says, \"almost nobody cares about the deep ocean any more\".\n\nBut there is only so much that the gravity map can do. It can resolve sea-floor features to about 5 kilometres, which is enough to discover a seamount but not enough to pinpoint smaller features, says Sandwell. Getting down to a resolution of about 100 metres will still require research ships pinging sonar to the seafloor. Even sharper detail -- such as in the ongoing search for the Malaysia Airlines flight MH370 -- requires the time-consuming process of towing sonar apparatus behind a ship.\n\nFor now, CryoSat-2 has funding to operate for at least three more years. Sandwell thinks that he can improve his gravity maps even further with more of the satellite's data.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20961571",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7132,
+                    "source": {
+                        "title": "www.nature.com",
+                        "uri": "www.nature.com"
+                    },
+                    "time": "00:00:00",
+                    "title": "Gravity map uncovers sea-floor surprises",
+                    "uri": "214959193",
+                    "url": "http://www.nature.com/news/gravity-map-uncovers-sea-floor-surprises-1.16048",
+                    "wgt": 1
+                },
+                {
+                    "body": "Oceanographers have a saying: Scientists know more about the surface of Mars than they do about the landscape at the bottom of our oceans. But that may soon change. Using data from satellites that measure variations in Earth's gravitational field, researchers have found a new and more accurate way to map the sea floor. The improved resolution has already allowed them to identify previously hidden features -- including thousands of extinct volcanoes more than 1000 meters tall -- as well as piece together some lingering uncertainties in Earth's ancient history.\n\nRoughly 90% of the deep-ocean sea floor remains unmapped, a fact that's been thrown into sharp relief by searchers' inability to locate Malaysia Airlines Flight 370, which is thought to have crashed somewhere in the southern Indian Ocean in March. What maps do exist have been largely generated by instruments such as ship-based multibeam sonar systems, which take soundings of the depth to the sea floor as they crisscross select areas of ocean. That leaves \"big holes hundreds of kilometers across with no data,\" says David Sandwell, a geophysicist at the Scripps Institution of Oceanography in San Diego, California.\n\nSatellite-based radar altimeters can help fill in those gaps. These instruments bounce signals off the surface of the ocean as they pass over it multiple times a day. When corrected for wave heights and tides, the repeated pinging of the ocean surface builds up a picture of its overall topography, its bumps and valleys. Those bumps at the surface of the ocean, Sandwell says, reflect features -- such as seamounts or extinct volcanoes -- on the sea floor below. \"A seamount, for example, exerts a gravitational pull, and warps the sea surface outward,\" he says. \"So we can map the bottom of the ocean indirectly, using sea-surface topography.\"\n\nRight now, four satellites have high-resolution radar altimeter data sets available to scientists: the U.S. Navy's aging Geosat and Geosat Follow-On missions; the European Space Agency's (ESA's) ERS-1; Jason-1, a joint mission between NASA and CNES, the French national space research center; and CryoSat-2, the youngest of the four, an ESA satellite launched in 2010 to study the polar ice caps. Until recently, seafloor gravity maps relied on declassified data from the Geosat missions (launched in 1985 and 1998, respectively) and on ERS-1 data. But those instruments were unable to resolve some features of tectonic plate boundaries, particularly if they were covered by sediment layers. \"We could see ridges and transform [faults] that weren't buried by sediment\" -- but anything under sediments was basically blurry.\n\nBut now, new data from Jason-1 and CryoSat-2 are sharpening the focus. The difference, Sandwell says, is like the difference between ordinary and high-definition television. In particular, CryoSat-2's high-range precision altimeter -- as well as its 4 years of amassed data (each of the other missions collected data for only a couple of years) -- makes it the star of the show. Using those data -- as well as significantly improved analysis techniques -- Sandwell and his colleagues built a new marine gravity model that is at least twice as accurate as existing models, they report online today in Science.\n\nAmong the new features they're now able to detect, Sandwell says, are thousands of previously unknown seamounts between 1000 and 2000 meters tall dotting the ocean floor. They also discovered an 800-kilometer-long now-extinct (i.e., no longer actively spreading) ridge in the South Atlantic Ocean that formed after Africa and North America rifted apart. The team also reports the exact location of a now-extinct seafloor spreading ridge, a zone where two tectonic plates began pulling apart 180 million years ago to form the deep basin that became the Gulf of Mexico. \"That was a surprise to me -- you'd think everyone would know everything about the Gulf because it's so well-studied,\" he says. \"Of course, people knew it opened from seafloor spreading, but they didn't know exactly where the ridge and transform faults were.\" Those features were so deeply buried by sediment that the gravity signals were extremely faint.\n\nThe authors \"have dramatically improved the signal-to-noise ratio in their marine gravity grid, allowing very subtle features to be resolved,\" says geophysicist Paul Wessel, a geophysicist at the University of Hawaii, M\u00adanoa, who was not involved in the study. \"This work brings home the importance of collecting new data, as well as applying expert processing to older data -- squeezing out more information than was thought possible.\"\n\nOil companies -- and, Sandwell notes, the Chinese government, which is exploring the South China Sea -- are keenly interested in the new gravity maps as a reconnaissance tool. Oil and gas exploration focuses along continental margins where the sea floor is relatively flat under thick layers of accumulated sediment, and the new gravity maps make it possible to \"see\" the sediment basins that are possible reservoirs.\n\nOne thing the new maps won't do, Sandwell notes, is locate the missing Malaysia Airlines jet. Satellite-based instruments -- even the high-range precision radar altimeter aboard CryoSat-2 -- just don't have high enough resolution to spot a plane-sized object in the vast, 60,000-square-kilometer swath of southern Indian Ocean now identified as the priority search area. \"If you want to find an airplane, you've got to resolve to maybe 10 meters,\" he says. \"Even the best a ship's multibeam sonar can do is about 100 meters [resolution].\" The Australian Transport Safety Bureau, which is leading the search for the lost plane, last week released new data from its bathymetric survey of the priority search area, which used shipboard multibeam sonar; when the survey is complete, searchers will use towed deep-sea submersibles to continue the search, scanning the sea floor at even greater resolutions.\n\nBut there are more than enough new seafloor data from Jason-1 and CryoSat-2 to keep the marine science community busy for the next 5 years, Sandwell says. \"It's a lot of new information, and it's all very detailed\" -- and buried in there, somewhere, are probably hundreds of new discoveries waiting to be uncovered.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20961813",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7082,
+                    "source": {
+                        "title": "news.sciencemag.org",
+                        "uri": "news.sciencemag.org"
+                    },
+                    "time": "19:22:00",
+                    "title": "Satellites reveal hidden features at the bottom of Earth's seas",
+                    "uri": "214960098",
+                    "url": "http://news.sciencemag.org/earth/2014/10/satellites-reveal-hidden-features-bottom-earths-seas",
+                    "wgt": 1
+                },
+                {
+                    "body": "Scientists have created some of the most vivid maps yet of the deepest and most mysterious spots beneath the ocean. Their effort, detailed in the Oct. 3, 2014, issue of the journal Science, has uncovered thousands of undersea mountains called seamounts that rise up from the seafloor. To create the seafloor map, which covers the world's oceans, the scientists relied on measurements taken from high-resolution altimeters onboard the European Space Agency's (ESA) CryoSat-2 satellite and NASA's Jason-1 satellite, along with information resulting from new data-processing methods. The results also shed light on seafloor tectonics, or the movements of massive oceanic plates that can shape the rifts, ridges and trenches decorating the ocean bottom. Here's a look at what the researchers uncovered.\n\nThe satellite altimeters worked by bouncing a radar signal or laser off the surface of the ocean being targeted and measuring how long it took the signal to return. That time can reveal the dips and peaks, or topography, of the ocean surface to within centimeters, scientists say. The sea-surface topography roughly mirrors changes in Earth's gravity. For instance, if an underwater volcano or mountain were hidden along the seafloor, the structure would push up against the sea surface and cause it to bulge. A trench, on the other hand, would cause the surface to sag.\n\nHere, the result of a gravity model in the North Atlantic Ocean, with the red dots showing locations of magnitude-5.5 or greater earthquakes. The image also reveals seafloor spreading ridges and transform faults.\n\nA gravity-field image centered on the Indian Ocean, particularly at the Indian Ocean Triple Junction, where three major tectonic plates meet up: the African, Australian and Antarctic plates. This region of the ocean, the location of the crash site for the Malaysian Airlines aircraft lost on March 8, 2014, is poorly charted, the researchers noted.\n\nThe gravity changes with depth in the North Atlantic were modeled to create this graphic that also shows seafloor-spreading ridges and faults. The gravity measurements reveal fracture zones on the ocean bottom that are currently veiled by sediment.\n\nA model of the changes in gravity with depth of the Southwest Indian ridge reveals fracture zones along the world's slowest spreading ridge. The fractures record rifting and spreading between Africa and Antarctica.\n\nA model of the changes in gravity with depth of the Mid-Atlantic Ridge, which is a boundary in Earth's surface where the Eurasian and North American tectonic plates scoot apart under the North Atlantic Ocean. The green dots indicate the locations of earthquakes of magnitude-5.5 and greater.\n\nDepths over seamounts and atolls of the South China Sea, derived from satellite altimeter gravity. The depths in shallow waters are improved by satellite images.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20971647",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6857,
+                    "source": {
+                        "title": "LiveScience.com",
+                        "uri": "www.livescience.com"
+                    },
+                    "time": "22:57:00",
+                    "title": "Hidden Undersea Mountains Uncovered with Satellites (Photos) - LiveScience.com",
+                    "uri": "214993767",
+                    "url": "http://www.livescience.com/48116-hidden-seamounts-photos.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "A new topographic map of Earth's mysterious ocean floor reveals thousands of towering volcanoes, hidden gashes where supercontinents ripped apart and other never-before-seen features once veiled by miles of water and thick sediment.\n\nThe topography of Earth's seafloor is as corrugated and bumpy as a book set in Braille. By reading these peaks and ridges, scientists can chronicle the birth of new ocean crust and the past wanderings of Earth's continents.\n\nHowever, even though the seafloor carries the pivotal clues to plate tectonics, the dry surface of Mars has been detailed more clearly than the ocean's watery depths.\n\nThe new map, released today (Oct. 2) in the journal Science, promises to fill in some of the blanks. Compared with the previous map, from 1997, the resolution is twice as accurate overall and four times as better in coastal areas and the Arctic, said lead study author David Sandwell, a marine geophysicist at the Scripps Institution of Oceanography in La Jolla, California. [Hidden Undersea Mountains Uncovered With Satellites (Photos)]\n\nEyes in the sky\n\nAs with the earlier 1997 map, scientists expect to improve their knowledge of Earth's geologic history based on new features revealed by the map's finer scale.\n\n\"I think these data are pretty important in terms of the details that are going to come out,\" Sandwell told Live Science.\n\nThe seafloor topography comes from a gravity model of the ocean, which is in turn based on altimetry from the Jason-1 and Cryosat-2 satellites.\n\nAltimetry measures sea surface height from space by timing how long it takes a radar signal to reflect off the ocean and return. The ocean surface has subtle highs and lows that mimic both seafloor topography and Earth's gravity field.\n\n\"[These] results are a breakthrough in space-based marine gravity observation,\" Cheinway Hwang, who was not involved in the study, wrote in a commentary accompanying the report. Hwang is a professor at National Chiao Tung University in Hsinchu, Taiwan.\n\nThousands of volcanoes\n\nThe world's volcano count jumped tremendously thanks to the new map. The number of seamounts soared from around 5,000 to about 20,000, Sandwell said. Seamounts are small, conical volcanoes that are usually inactive or extinct. In the deep ocean, tall seamounts attract a riot of marine life. The map captures all seamounts more than 0.9 miles (1.5 kilometers) tall.\n\nSome of the new seamounts appear in linear chains, but many do not. That suggests the volcanoes did not erupt above a mantle plume, a blob of hot rock that rises from the deep mantle (the layer under the crust). Some scientists think mantle plumes don't exist, but, as with climate change, the majority of researchers agree on the concept but argue about the details.\n\nFinding patterns in the newly identified seamounts may help resolve the debate. \"There's a notion that many linear volcanic chains aren't formed by mantle plumes, and I agree with that,\" Sandwell said. \"If we can map out their complete distribution, then we can understand how they grow and evolve and so on.\"\n\nThe motion of Earth's tectonic plates created some of the most distinct features visible on the seafloor. These include spreading ridges and fracture zones, where the massive plates pull apart and lava oozes to the surface. Plates are created at spreading ridges and recycled at deep ocean trenches. The ocean trenches appear as deep blue troughs in the gravity map. [Infographic: Tallest Mountain to Deepest Ocean Trench]\n\n\"Even now, I'm just amazed by how simple seafloor spreading patterns are,\" Sandwell told Live Science. \"They're just like in the textbooks. It's just perfect plate tectonics.\"\n\nBehold, Earth's wrinkles\n\nFor the first time, the global seafloor topography captures the abyssal hills, the most common surface feature on Earth, the study reports. While the secrets of the origin are still debated, scientists think a combination of faulting and volcanism at spreading ridges creates the hills. The corrugated ridges and valleys cover up to 30 percent of Earth's surface, by some estimates. \"They're the most common landform on the planet, and I'm always amazed that people have never heard of them,\" Sandwell said.\n\nAlong coastlines, the data uncovered faults and fractures buried under thick piles of mud and sand pouring off the continents.\n\nSandwell and his colleagues highlighted the new details seen in fracture zones that extend from South America to Africa. \"We can see these transform faults or fracture zones all the way up to the continental margins that are currently buried by sediments, and you couldn't before,\" Sandwell said. Though the two continents seem to fit together like puzzle pieces, \"squiggles\" in the fractures tell of tectonic complexity during their breakup, he added. \"These are a new thing,\" Sandwell said. Analyzing such details around each continent will improve reconstructions of past plate motions.\n\nIn the Gulf of Mexico, the researchers identified a defunct spreading ridge now entombed under miles of sediment. The spreading ridge opened the gulf about 150 million years, when the Yucatan Peninsula pivoted counterclockwise from North America. [In Images: How North America Grew as a Continent]\n\n\"Because of a major improvement in accuracy, this new gravity field will lead to more discoveries of tectonic features, especially in regions with thick sediments,\" Hwang wrote.\n\nMost of the new ridges, faults and volcanoes were undiscovered because 80 percent of the ocean floor has never been charted by ships. The new topography will improve depth estimates in much of the ocean, the researchers said.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "20975225",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6855,
+                    "source": {
+                        "title": "LiveScience.com",
+                        "uri": "www.livescience.com"
+                    },
+                    "time": "00:40:00",
+                    "title": "Geological Wonderland: Thousands of Seamounts Discovered in New Seafloor Map",
+                    "uri": "215008336",
+                    "url": "http://www.livescience.com/48124-new-seafloor-map-reveals-wonderland.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2BLivesciencecom%2B%2528LiveScience.com%2BScience%2BHeadline%2BFeed%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "Ancient rifts hide under seafloor sediments along with thousands of uncharted underwater mountains, satellite images revealed on Thursday.\n\nMost of the world's deep ocean remains poorly charted, as the fruitless search for the missing Malaysia Airlines Flight 370 in the Indian Ocean earlier this year showed. The new satellite images released by the journal Science map undersea features as small as three miles across (five kilometers) for the first time.\n\nThe satellites mapped much of the world's oceans, including the Gulf of Mexico, South China Sea, and South Atlantic.\n\n\"The only way to see ocean floor topography quickly and comprehensively is from space,\" says study lead author David Sandwell of the Scripps Institution of Oceanography in La Jolla, California. \"Ships would take another 200 years to do this mapping, at present rates.\" (Read \"Mountains in the Sea\" in National Geographic magazine.)\n\nInstead, the study found the hidden geography using two spacecraft, the European Space Agency's CryoSat-2 and NASA's Jason-1, both oceanography satellites that were designed to track sea-level changes.\n\nDeep Gravity\n\nTo map the seafloor, the satellites detect ripples and dips in the ocean's surface. Ridges and seamounts, or undersea mountains, are massive enough to exert a gravitational pull that makes sea levels drop by as much as 3.9 inches (10 centimeters) above the feature.\n\nFractures and rifts in the seafloor, in contrast, elevate sea surface levels due to a reduced gravitational attraction above their depths.\n\nStitching together the pattern of these sea-level deviations, the study authors detected geological features that were hiding underneath the soft layers of sand and sediment coating the seafloor. The finds include:\n\n-- Several thousand seamounts roughly 0.6 to 1.2 miles (1 to 2 kilometers) high, previously unknown.\n\n-- Subsea ridges jutting at a southward angle from South America and Africa -- the latter some 500 miles (800 kilometers) long and 62 miles (100 kilometers) wide -- once joined but severed more than 83 million years ago by a spreading South Atlantic.\n\n-- An \"extinct\" ocean ridge stretching under the Gulf of Mexico where ocean crust once spread apart when it was tectonically active.\n\nThe maps are \"a breakthrough in space-based marine gravity observation,\" say oceanography experts Cheinway Hwang of National Chiao Tung University in Taiwan and Emmy Chang of National Taiwan University, in a commentary accompanying the study.\n\nMap Quest\n\nAbout 80 percent of the world's ocean area has not been mapped using depth soundings from ships, the study notes. The seafloor features, and depths, revealed by the study serve as a starting point for remedying the problem, Sandwell says.\n\nThe results should aid geologists looking for undersea mineral resources and help to explain how deep-sea currents flow across the seafloor.\n\nThe CryoSat-2 satellite will continue to take sea surface readings from its 250-mile-high orbit (400 kilometers) for the next few years. With more data, the gravity maps could be refined to reveal hundreds of thousands of previously unknown seamounts less than 3,300 feet (1 kilometer) high dotting the ocean floor.\n\nThe one thing the maps won't do is reveal the location of missing airplanes, Sandwell says. \"Of course we looked when the [Malaysia Airlines] plane crashed,\" he adds. But given the resolution of the gravity maps, \"we think the gravity model will be very helpful for reconnaissance maps on future searches.\"",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20961640",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6845,
+                    "source": {
+                        "title": "news.nationalgeographic.com",
+                        "uri": "news.nationalgeographic.com"
+                    },
+                    "time": "19:19:00",
+                    "title": "Undersea Mysteries Mapped by Satellite Gravity Sensors - National Geographic",
+                    "uri": "214959588",
+                    "url": "http://news.nationalgeographic.com/news/2014/10/141002-ocean-map-satellite-gravity-science/",
+                    "wgt": 1
+                },
+                {
+                    "body": "A new satellite gravity map of the ocean floor has revealed many of the hidden secrets of the Earth's tectonic history (Source: David Sandwell/Scripps Institution of Oceanography)\n\nExploring the abyss An ancient sea floor rift and an extinct mid-ocean ridge hot spot have been discovered using new satellite technology that maps the sea floor in unprecedented detail.\n\nThe high-resolution digital global marine gravity map is twice as accurate as previous models, says one of the study's authors, Professor Dietmar Muller of the University of Sydney.\n\nThe research, reported in the journal Science, will help researchers explore the 80 per cent of Earth's ocean floor that is still unmapped.\n\n\"The disappearance in the Indian Ocean of Malaysia Airlines flight MH370 earlier this year, heightened global awareness of the poor knowledge of our ocean depths,\" says Muller.\n\n\"We know much more about the topography of Mars than we know about Earth's sea floor.\"\n\nA more detailed understanding of the topography of the sea floor will also help scientists better understand ocean water mixing and circulation patterns, which affect Earth's climate.\n\nExploring the ocean floor is normally done by ships using depth soundings, which is expensive and time consuming.\n\n\"It would take about 200 years if you were to map the entire sea floor by research vessel, and it would cost billions of dollars,\" says Muller.\n\nThe new technology combines three decades of existing satellite data, with new radar altimeter measurements from the European Space Agency's CryoSat-2 satellite, and the joint United States and French Jason-1 spacecraft.\n\n\"The satellites use radar to precisely measure their altitude above the sea surface.\"\n\nDifferences in the Earth's local gravitational field cause tiny bumps and dips on the ocean's surface.\n\nThe mass of a seamount on the ocean floor generates additional gravity attracting extra water towards it and causing a little bump in the ocean surface, while a deep ocean trench means less local gravity, resulting in a slight dip on the sea surface.\n\nThese can't be seen by the unaided eye, but are detectable by satellite radar altimeters.\n\nThe newly developed maps provide a glimpse of thousands of previously uncharted seamounts on the ocean basement, as well as ancient rifts, scars, ridges and fracture zones shaped by the movement of previously unknown tectonic plates in the Pacific Ocean.\n\nThe new map has also revealed an extinct mid-ocean ridge in the Gulf of Mexico and a huge rift scar in the South Atlantic Ocean formed by an ancient hotspot which cracked the planet's crust.\n\n\"There had been speculation for a long time that a spreading ridge existed in the Gulf of Mexico, but nobody knew where it was because it was buried under deep sediment,\" says Muller.\n\n\"But we can see it for the first time with our new gravity map. This gives us some important clues as to how the Gulf of Mexico actually opened up tectonically during the Jurassic period.\"\n\nThe authors also discovered a large crack hidden away on the abyssal plain on the eastern flank of the South Atlantic Ocean, where a hotspot forced the mid-ocean ridge to propagate.\n\n\"This is the ancient paleo-position of the mid-ocean ridge which has migrated to one side as the seafloor continued to spread,\" says Muller.\n\n\"This tells us something about the connection between mid-ocean ridges and hot spots which are caused by mantle plumes bringing material up from the core-mantle boundary to the surface to create new ocean crust.\"\n\nAs well as a better understanding of Earth's tectonic history and ocean bed, the new gravity map will also help pin point potential new reserves of resources such as natural gas in Australia's ocean territories.\n\n\"Our new gravity map highlights the very fine scale buried structure of these submerged terrains,\" says Muller.\n\n\"Places like the North West Shelf, Timor Sea, and Bass Strait, are already very well explored, but there are other areas thought to hold significant natural gas potential such as the Great Australian Bight, and the Lord Howe Rise in the Tasman Sea which can now be examined.\"",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "20976146",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6777,
+                    "source": {
+                        "title": "ABC Rural",
+                        "uri": "www.abc.net.au"
+                    },
+                    "time": "01:07:00",
+                    "title": "Satellite map reveals secrets of the sea floor",
+                    "uri": "215012057",
+                    "url": "http://www.abc.net.au/science/articles/2014/10/03/4099260.htm?source=rss",
+                    "wgt": 1
+                },
+                {
+                    "body": "Researchers created a new map of the seafloor at the bottom of some of the deepest parts of the ocean, revealing thousands of previously unknown seamounts. The findings could help researchers gain insight into how the continents were formed.\n\nThe scientists looked at two untapped streams of satellite data and combined it with existing information to create a highly detailed map, the National Science Foundation reported. The researchers also mapped out earthquakes, and found they were closely linked to seamounts, which were mostly volcanoes at some point in their lives.\n\n\"The team has developed and proved a powerful new tool for high-resolution exploration of regional seafloor structure and geophysical processes,\" said Don Rice, program director in the National Science Foundation's Division of Ocean Sciences, which funded the research. \"This capability will allow us to revisit unsolved questions and to pinpoint where to focus future exploratory work.\"\n\nThe data was taken from the European Space Agency's (ESA) CryoSat-2 satellite, which is used primarily to capture polar ice. Information was also taken from NASA's Jason-1 satellite, which has been mapping gravity fields for the past 12 years.\n\n\"The kinds of things you can see very clearly are the abyssal hills, the most common landform on the planet,\" said David Sandwell, lead author of the paper and a geophysicist at SIO.\n\nThe new map will contribute to Google's Ocean Maps, and revealed new features such as continental connections across South America and Africa as well as ridges in the gulf of Mexico.\n\n\"One of the most important uses will be to improve the estimates of seafloor depth in the 80 percent of the oceans that remain uncharted or [where the sea floor] is buried beneath thick sediment,\" the authors wrote.\n\nThe study was was supported by the U.S. Office of Naval Research, the National Geospatial-Intelligence Agency and ConocoPhillips.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20966951",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6734,
+                    "source": {
+                        "title": "Headlines & Global News",
+                        "uri": "www.hngn.com"
+                    },
+                    "time": "21:14:00",
+                    "title": "Map Of Ocean Floor Reveals Thousands Of Previously Unknown Seamounts ... - Headlines & Global News",
+                    "uri": "214977267",
+                    "url": "http://www.hngn.com/articles/44527/20141002/map-of-ocean-floor-reveals-thousands-of-previously-unknown-seamounts-continental-connections.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "The bottom of the ocean is dark, mysterious, and vast -- nearly all of it unmapped. Today, however, scientists reveal the clearest map of the ocean floor ever. They didn't explore the ocean floor. They didn't even send instruments into the water. Instead, they used gravity measurements from two satellites orbiting in space.\n\nThe map shows thousands of previously unknown underwater mountains, called seamounts, between 3000 and 6500 feet high. It also identified inactive ridges where continents once pulled apart millions of years ago. This detailed look at underwater geology comes from a pair of satellites that were put into space for completely unrelated reasons.\n\nThe two satellites are CryoSat-2, of the European Space Agency, originally designed to monitor the polar ice caps, and Jason-1, of NASA and the French space agency CNES, originally designed to monitor sea levels. In both cases, the satellites are equipped with radar altimeters that measure the distance from the surface of the Earth to the satellite. The thicker the ice or the higher the seas, the smaller that distance.\n\nAs the satellites passed over empty oceans, they also gathered reams of data about changes on the ocean surface. The shape of the sea surface is subject to gravity from the huge mountains and canyons below. Subtract out the motion of waves and tides, and you can \"see\" under the water by just looking at the surface.\n\nThe study published today in Science uses a sophisticated new gravity model to construct an underwater map from the sea-surface satellite data. With a maximum resolution of five kilometers, their map is the sharpest we've ever made. But even this massive achievement puts into perspective how vast and unknown the oceans still are. Five kilometer-resolution reveals more than we've ever seen, but it's still a blurry, approximate map. There would be no hope, for example, of locating a missing airliner this way.\n\nFor now, we may still know more about the surface of Mars than the bottom of the ocean. [Science via Science News]",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20967463",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.593,
+                    "source": {
+                        "title": "Gizmodo",
+                        "uri": "gizmodo.com"
+                    },
+                    "time": "21:24:00",
+                    "title": "The Most Detailed Map of the Ocean Floor Ever Was Made From Space",
+                    "uri": "214979054",
+                    "url": "http://gizmodo.com/the-most-detailed-map-of-the-ocean-floor-ever-was-made-1641780487",
+                    "wgt": 1
+                },
+                {
+                    "body": "Did you ever see the ocean floor? Well, you are not very far from it. A new satellite map of the ocean floor has now revealed the inside world. The map shows the deepest trenches and other unseen parts of the ocean.\n\nThousands of mountains or shall we call them seamounts have been shown in the map that, perhaps, carry clues and keys to mysteries involved in the formation of continents and the Earth that was formed early on. Seamounts are often linked to the earthquakes. It will help scientists to determine the earthquakes triggered by these seamounts that were volcanoes, if seen apparently, when the Earth had an early formation.\n\nThe National Science Foundation states that researchers and scientists consolidated latest satellite data and linked it to previous information in order to produce new and elaborate map.\n\nDon Rice Program Director of Division of Ocean Sciences a program initiated by the National Science Foundation says that this method led to discover uncharted regions like sea-mounts at the ocean floor providing high resolution details about the ocean floor as well as system and also about its geothermal processes.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "20990006",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.5387,
+                    "source": {
+                        "title": "www.istreetresearch.com",
+                        "uri": "www.istreetresearch.com"
+                    },
+                    "time": "06:39:00",
+                    "title": "Satellite Map Unveils Huge Sea-Mounts At the Ocean Floor. - iStreet Research",
+                    "uri": "215072799",
+                    "url": "http://www.istreetresearch.com/satellite-map-unveils-huge-sea-mounts-at-the-ocean-floor/2512924/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Seafloor secrets revealed Cheinway Hwang1, Emmy T. Y. Chang2 1Department of Civil Engineering, National Chiao Tung University, Hsinchu, Taiwan. 2Institute of Oceanography, National Taiwan University, Taipei, Taiwan. E-mail: cheinway{at}mail.nctu.edu.tw; etychang{at}ntu.edu.tw Summary\n\nThe trenches and ridges on Earth's seafloor are shaped by tectonic processes such as seafloor spreading and plate subduction. Detailed knowledge of seafloor tectonics is lacking in many areas. The most comprehensive data come from satellite altimeters, which use the strength and waveform of the radar signal returned from the sea surface to determine the tectonic properties of the underlying seafloor. On page 65 of this issue, Sandwell et al. (1) present the latest global marine gravity and depth data from altimeter missions CryoSat-2 and Jason-1. The data reveal buried tectonic structures, for example, in the Gulf of Mexico and the South Atlantic Ocean, that help to elucidate past tectonic processes.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20965984",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.479,
+                    "source": {
+                        "title": "Science magazine",
+                        "uri": "www.sciencemag.org"
+                    },
+                    "time": "20:57:00",
+                    "title": "[Perspective] Seafloor secrets revealed",
+                    "uri": "214974365",
+                    "url": "http://www.sciencemag.org/content/346/6205/32.short",
+                    "wgt": 1
+                },
+                {
+                    "body": "sciencehabit writes Oceanographers have a saying: Scientists know more about the surface of Mars than they do about the landscape at the bottom of our oceans. But that may soon change. Using data from satellites that measure variations in Earth's gravitational field, researchers have found a new and more accurate way to map the sea floor. The improved resolution has already allowed them to identify previously hidden features -- including thousands of extinct volcanoes more than 1000 meters tall -- as well as piece together some lingering uncertainties in Earth's ancient history.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "20975658",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.3792,
+                    "source": {
+                        "title": "news.slashdot.org",
+                        "uri": "news.slashdot.org"
+                    },
+                    "time": "00:15:00",
+                    "title": "Satellites Reveal Hidden Features At the Bottom of Earth's Seas",
+                    "uri": "215009869",
+                    "url": "http://news.slashdot.org/story/14/10/02/2216243/satellites-reveal-hidden-features-at-the-bottom-of-earths-seas?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+                    "wgt": 1
+                },
+                {
+                    "body": "The effects of climate change are now so profound that gravity itself is changing. The European Space Agency (ESA) announced Friday that Antarctica has lost enough ice in only three years to cause a shift in the Earth's gravitational pull. The effects of climate change are now so profound that gravity itself is changing. The European Space Agency (ESA) announced Friday that Antarctica has lost enough ice in only three years to cause a shift in the Earth's gravitational pull. \"The loss of ice from West Antarctica between 2009 and 2012 caused a dip in the gravity field over the region,\" writes the ESA. \"And, between 2011 and 2014, Antarctica as a whole has been shrinking in volume by 125 cubic kilometers a year.\" The ESA's Gravity field and steady-state Ocean Circulation Explorer Satellite (GOCE), launched in 2009, measured these changes. You can see a video that visualizes them here. While in some senses this doesn't seem like a major impact, it is highly significant as part of the overall havoc being wreaked by climate change. Earlier this year a completely different team of researchers from NASA and the University of California, Irvine (UC Irvine) announced that multiple major glaciers in West Antarctica have begun an \"unstoppable collapse\" and have \"passed the point of no return\": \"This sector will be a major contributor to sea level rise in the decades and centuries to come,\" writes glaciologist and lead author Eric Rignot of UC Irvine and NASA's Jet Propulsion Laboratory (JPL). \"A conservative estimate is it could take several centuries for all of the ice to flow into the sea.\" So these are events that are too far gone to stop, and the best case scenario is that as a result global sea levels will rise by several meters over the next few hundred years -- not a long time. And what about the gravity issue? Most of us learned about Newtonian physics in basic high school courses. These courses told us that gravity is a constant, but this isn't completely accurate; it actually varies slightly based on your location on the planet and the density of whatever is underneath you, rock, groundwater, ocean currents, or ice. Other factors impact gravity too, and ESA launched GOCE to measure variations in gravity and observe what causes them. In the time GOCE has been operating ESA has reported that gravity changes over time. For example, gravity \"scars\" left by earthquakes such as the 2011 Japanese earthquake vary slightly over time. This is how ESA got the results about Antarctica's melting ice and gravity dipping. The GOCE satellite takes high-resolution measurements of the gravitational field and scientists combine those with results from Grace, another satellite mission. Grace, operated by the U.S. and Germany, provides lower resolution gravity analysis. The combined results allow ESA experts to see the clearest gravitational changes, and other satellites provide melt maps. CryoSat, for example, shows an increase in ice loss from West Antarctica of at least three times since only 2009. Greenland and Antarctica together now lose approximately 500 cubic kilometers of ice annually; that's a Manhattan-sized iceberg three-and-a-half miles thick.",
+                    "date": "2014-10-02",
+                    "eventUri": "1423839",
+                    "id": "20968450",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.3665,
+                    "source": {
+                        "title": "Business Insider",
+                        "uri": "www.digitaljournal.com"
+                    },
+                    "time": "21:42:00",
+                    "title": "Antarctic ice melts causing shift in Earth's gravity",
+                    "uri": "214982259",
+                    "url": "http://www.digitaljournal.com/science/antarctic-ice-melts-causing-shift-in-earth-s-gravity/article/406558",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 15,
+            "averageDate": "2014-10-02",
+            "avgCos": 0.4521,
+            "categories": [
+                {
+                    "label": "Science/Earth_Sciences/Oceanography",
+                    "uri": "http://www.dmoz.org/Science/Earth_Sciences/Oceanography",
+                    "wgt": 35
+                }
+            ],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1423839",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1423364",
+            "lang": "eng",
+            "location": {
+                "country": {
+                    "labelEng": "United Kingdom",
+                    "lat": 54.75844,
+                    "long": -2.69531,
+                    "wikiUri": "http://en.wikipedia.org/wiki/United_Kingdom"
+                },
+                "labelEng": "Sandwell",
+                "lat": 52.5,
+                "long": -2,
+                "wikiUri": "http://en.wikipedia.org/wiki/Sandwell"
+            },
+            "storyDate": "2014-10-02",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-827425",
+            "variance": 0.2956
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-298658": {
+        "articles": {
+            "resultCount": 5,
+            "results": [
+                {
+                    "body": "Cient\u00edficos han editado un nuevo mapa del fondo marino con datos de sat\u00e9lite, que revela miles de monta\u00f1as inexploradas en los confines de los oc\u00e9anos.\n\nLos investigadores utilizaron mediciones de la gravedad del fondo marino del equipo de radar a bordo del sat\u00e9lite CryoSat-2 de la Agencia Espacial Europea y del Jason-1 de la NASA para capturar caracter\u00edsticas geol\u00f3gicas submarinas en un detalle sin precedentes.\n\n\"La fuerza de la gravedad refleja la topograf\u00eda y la tect\u00f3nica del fondo del mar\", dijo David Sandwell, un geof\u00edsico de la Instituci\u00f3n Scripps de Oceanograf\u00eda en la Universidad de California, San Diego, quien dirigi\u00f3 el estudio.\n\nEl geof\u00edsico de la Universidad de Sydney Dietmar M\u00fcller, otro de los investigadores, dijo que alrededor del 71 por ciento de la superficie terrestre est\u00e1 cubierta por agua y aproximadamente el 90 por ciento del fondo marino est\u00e1 inexplorado por los barcos de investigaci\u00f3n que emplean haces ac\u00fasticos para mapear las profundidades.\n\n\"Sabemos mucho m\u00e1s acerca de la topograf\u00eda de Marte de lo que sabemos acerca del fondo marino de la Tierra\", dijo M\u00fcller. \"La desaparici\u00f3n del vuelo MH370 de Malaysia Airlines a principios de este a\u00f1o ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades del oc\u00e9ano\".\n\nEl mapa revela las principales estructuras del fondo y subfondo marino. Incluyen una cordillera en medio del oc\u00e9ano bajo el Golfo de M\u00e9xico con una longitud aproximadamente igual a la anchura de Texas, as\u00ed como otra cresta en el Atl\u00e1ntico Sur al oeste de Angola de unos 800 kil\u00f3metros de largo que se form\u00f3 justo despu\u00e9s de que el continente Am\u00e9rica del Sur se separase de \u00c1frica.\n\nTales \"cordilleras en expansi\u00f3n\" se forman donde las placas tect\u00f3nicas del planeta se separaron y el material fundido llamado magma las rellen\u00f3. \"Saber d\u00f3nde y cu\u00e1ndo existieron dichas crestas es esencial para descifrar el pasado geol\u00f3gico del planeta Tierra\", dijo M\u00fcller.\n\nEl nuevo mapa tambi\u00e9n proporciona detalles sobre miles de monta\u00f1as submarinas, o montes submarinos, de m\u00e1s de 1.600 metros de altura desde el fondo del mar, dijeron los investigadores. Algunos est\u00e1n cubiertos por muchos kil\u00f3metros de sedimentos, dijeron.\n\nAdem\u00e1s del valor cient\u00edfico puro, el nuevo mapa podr\u00eda tener aplicaciones para los militares y para la exploraci\u00f3n de petr\u00f3leo, dijo Sandwell.\n\nM\u00fcller dijo que las conclusiones con datos de sat\u00e9lite sobre la topograf\u00eda del fondo marino pueden ser menos precisas que los m\u00e9todos de haces ac\u00fasticos utilizados por los buques. \"Sin embargo, la cobertura global es mucho mejor y nuestro m\u00e9todo es mucho m\u00e1s barato, sobre todo porque estamos en su mayor\u00eda usando datos de sat\u00e9lite que se recogieron para otro prop\u00f3sito\", a\u00f1adi\u00f3 M\u00fcller, quien estim\u00f3 que un estudio completo de las profundidades del oc\u00e9ano usando barcos costar\u00eda unos 4.000 millones de euros y llevar\u00eda muchos a\u00f1os.\n\nCryoSat-2 fue dedicado a la vigilancia de los cambios en el espesor del hielo marino que flota en los oc\u00e9anos polares y las variaciones en el espesor de las grandes capas de hielo que recubren Groenlandia y la Ant\u00e1rtida. Jason-1 fue dedicado a mapear el cambio en la topograf\u00eda de los oc\u00e9anos debido a las corrientes oce\u00e1nicas.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "21039694",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9708,
+                    "source": {
+                        "title": "El Economista (EcoDiario)",
+                        "uri": "ecodiario.eleconomista.es"
+                    },
+                    "time": "16:27:00",
+                    "title": "Un mapa del fondo marino revela miles de monta\u00f1as inexploradas - elEconomista.es",
+                    "uri": "215265603",
+                    "url": "http://ecodiario.eleconomista.es/ciencia/noticias/6128956/10/14/Un-mapa-del-fondo-marino-revela-miles-de-montanas-inexploradas.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Washington. (Reuters/EP).- Cient\u00edficos han editado un nuevo mapa del fondo marino con datos de sat\u00e9lite, que revela miles de monta\u00f1as inexploradas en los confines de los oc\u00e9anos. Los investigadores utilizaron mediciones de la gravedad del fondo marino del equipo de radar a bordo del sat\u00e9lite CryoSat-2 de la Agencia Espacial Europea y del Jason-1 de la NASA para capturar caracter\u00edsticas geol\u00f3gicas submarinas en un detalle sin precedentes.\n\n\"La fuerza de la gravedad refleja la topograf\u00eda y la tect\u00f3nica del fondo del mar\", dijo David Sandwell, un geof\u00edsico de la Instituci\u00f3n Scripps de Oceanograf\u00eda en la Universidad de California, San Diego, quien dirigi\u00f3 el estudio.\n\nEl geof\u00edsico de la Universidad de Sydney Dietmar M\u00fcller, otro de los investigadores, dijo que alrededor del 71 por ciento de la superficie terrestre est\u00e1 cubierta por agua y aproximadamente el 90 por ciento del fondo marino est\u00e1 inexplorado por los barcos de investigaci\u00f3n que emplean haces ac\u00fasticos para mapear las profundidades.\n\nSabemos m\u00e1s de Marte que del fondo del mar\n\n\"Sabemos mucho m\u00e1s acerca de la topograf\u00eda de Marte de lo que sabemos acerca del fondo marino de la Tierra\", dijo M\u00fcller. \"La desaparici\u00f3n del vuelo MH370 de Malaysia Airlines a principios de este a\u00f1o ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades del oc\u00e9ano\".\n\nEl mapa revela las principales estructuras del fondo y subfondo marino. Incluyen una cordillera en medio del oc\u00e9ano bajo el Golfo de M\u00e9xico con una longitud aproximadamente igual a la anchura de Texas, as\u00ed como otra cresta en el Atl\u00e1ntico Sur al oeste de Angola de unos 800 kil\u00f3metros de largo que se form\u00f3 justo despu\u00e9s de que el continente Am\u00e9rica del Sur se separase de \u00c1frica.\n\nTales \"cordilleras en expansi\u00f3n\" se forman donde las placas tect\u00f3nicas del planeta se separaron y el material fundido llamado magma las rellen\u00f3. \"Saber d\u00f3nde y cu\u00e1ndo existieron dichas crestas es esencial para descifrar el pasado geol\u00f3gico del planeta Tierra\", dijo M\u00fcller.\n\nEl nuevo mapa tambi\u00e9n proporciona detalles sobre miles de monta\u00f1as submarinas, o montes submarinos, de m\u00e1s de 1.600 metros de altura desde el fondo del mar, dijeron los investigadores. Algunos est\u00e1n cubiertos por muchos kil\u00f3metros de sedimentos, dijeron.\n\nAdem\u00e1s del valor cient\u00edfico puro, el nuevo mapa podr\u00eda tener aplicaciones para los militares y para la exploraci\u00f3n de petr\u00f3leo, dijo Sandwell. M\u00fcller dijo que las conclusiones con datos de sat\u00e9lite sobre la topograf\u00eda del fondo marino pueden ser menos precisas que los m\u00e9todos de haces ac\u00fasticos utilizados por los buques.\n\n\"Sin embargo, la cobertura global es mucho mejor y nuestro m\u00e9todo es mucho m\u00e1s barato, sobre todo porque estamos en su mayor\u00eda usando datos de sat\u00e9lite que se recogieron para otro prop\u00f3sito\", a\u00f1adi\u00f3 M\u00fcller, quien estim\u00f3 que un estudio completo de las profundidades del oc\u00e9ano usando barcos costar\u00eda unos 4.000 millones de euros y llevar\u00eda muchos a\u00f1os.\n\nCryoSat-2 fue dedicado a la vigilancia de los cambios en el espesor del hielo marino que flota en los oc\u00e9anos polares y las variaciones en el espesor de las grandes capas de hielo que recubren Groenlandia y la Ant\u00e1rtida. Jason-1 fue dedicado a mapear el cambio en la topograf\u00eda de los oc\u00e9anos debido a las corrientes oce\u00e1nicas. El estudio ha sido publicado en la revista Science.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "21027414",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9689,
+                    "source": {
+                        "title": "LaVanguardia",
+                        "uri": "www.lavanguardia.com"
+                    },
+                    "time": "10:39:00",
+                    "title": "El mejor mapa del fondo marino revela miles de monta\u00f1as marinas inexploradas",
+                    "uri": "215211600",
+                    "url": "http://www.lavanguardia.com/natural/20141003/54416705233/mejor-mapa-fondo-marino-revela-miles-montanas-marinas-inexploradas.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La desaparici\u00f3n del vuelo de Malaysia Airlines ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades.\n\nCient\u00edficos han editado un nuevo mapa del fondo marino con datos de sat\u00e9lite, que revela miles de monta\u00f1as inexploradas en los confines de los oc\u00e9anos.\n\nLos investigadores utilizaron mediciones de la gravedad del fondo marino del equipo de radar a bordo del sat\u00e9lite CryoSat-2 de la Agencia Espacial Europea y del Jason-1 de la NASA para capturar caracter\u00edsticas geol\u00f3gicas submarinas en un detalle sin precedentes.\n\n\"La fuerza de la gravedad refleja la topograf\u00eda y la tect\u00f3nica del fondo del mar\", dijo David Sandwell, un geof\u00edsico de la Instituci\u00f3n Scripps de Oceanograf\u00eda en la Universidad de California, San Diego, quien dirigi\u00f3 el estudio.\n\nEl geof\u00edsico de la Universidad de Sydney Dietmar M\u00fcller, otro de los investigadores, dijo que alrededor del 71% de la superficie terrestre est\u00e1 cubierta por agua y aproximadamente el 90% del fondo marino est\u00e1 inexplorado por los barcos de investigaci\u00f3n.\n\n\"Sabemos mucho m\u00e1s acerca de la topograf\u00eda de Marte de lo que sabemos acerca del fondo marino de la Tierra\", dijo M\u00fcller. \"La desaparici\u00f3n del vuelo MH370 de Malaysia Airlines a principios de este a\u00f1o ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades del oc\u00e9ano\".\n\nEl nuevo mapa tendr\u00eda usos militares y para la exploraci\u00f3n de petr\u00f3leoEl mapa revela las principales estructuras del fondo y subfondo marino. Incluyen una cordillera en medio del oc\u00e9ano bajo el Golfo de M\u00e9xico con una longitud aproximadamente igual a la anchura de Texas, as\u00ed como otra cresta en el Atl\u00e1ntico Sur al oeste de Angola de unos 800 kil\u00f3metros de largo que se form\u00f3 justo despu\u00e9s de que el continente Am\u00e9rica del Sur se separase de \u00c1frica.\n\nTales \"cordilleras en expansi\u00f3n\" se forman donde las placas tect\u00f3nicas del planeta se separaron y el material fundido llamado magma las rellen\u00f3. \"Saber d\u00f3nde y cu\u00e1ndo existieron dichas crestas es esencial para descifrar el pasado geol\u00f3gico del planeta Tierra\", dijo M\u00fcller.\n\nEl nuevo mapa tambi\u00e9n proporciona detalles sobre miles de monta\u00f1as submarinas, o montes submarinos, de m\u00e1s de 1.600 metros de altura desde el fondo del mar, dijeron los investigadores. Algunos est\u00e1n cubiertos por muchos kil\u00f3metros de sedimentos, dijeron. Adem\u00e1s del valor cient\u00edfico puro, el nuevo mapa podr\u00eda tener aplicaciones para los militares y para la exploraci\u00f3n de petr\u00f3leo, dijo Sandwell.\n\nM\u00fcller dijo que las conclusiones con datos de sat\u00e9lite sobre la topograf\u00eda del fondo marino pueden ser menos precisas que los m\u00e9todos de haces ac\u00fasticos utilizados por los buques. \"Sin embargo, la cobertura global es mucho mejor y nuestro m\u00e9todo es mucho m\u00e1s barato, sobre todo porque estamos en su mayor\u00eda usando datos de sat\u00e9lite que se recogieron para otro prop\u00f3sito\", a\u00f1adi\u00f3 M\u00fcller, quien estim\u00f3 que un estudio completo de las profundidades del oc\u00e9ano usando barcos costar\u00eda unos 4.000 millones de euros y llevar\u00eda muchos a\u00f1os.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "21050598",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9364,
+                    "source": {
+                        "title": "20minutos.es - \u00daltimas Noticias",
+                        "uri": "www.20minutos.es"
+                    },
+                    "time": "12:06:00",
+                    "title": "Un mapa \u00fanico del fondo marino revela que hay miles de monta\u00f1as ... - 20minutos.es",
+                    "uri": "215283323",
+                    "url": "http://www.20minutos.es/noticia/2255909/0/mapa/fondo-marino/cordilleras-submarinas/",
+                    "wgt": 1
+                },
+                {
+                    "body": "El sat\u00e9lite de la ESA Sentinel-1A vigila el salar boliviano de Uyuni, el mayor del mundo\n\nLas mediciones de la gravedad del fondo marino provistas por los radares CryoSat-2 de la Agencia Espacial Europea y del Jason-1 de la NASA, han permitido a un equipo cient\u00edfico descubrir que el fondo marino alberga miles de monta\u00f1as inexploradas en los confines de los oc\u00e9anos.\n\nLos datos de los sat\u00e9lites han permitido capturar caracter\u00edsticas geol\u00f3gicas submarinas con un detalle sin precedentes, seg\u00fan publica Scripps, la instituci\u00f3n de Oceanograf\u00eda en la Universidad de California (Estados Unidos).\n\n\"La fuerza de la gravedad refleja la topograf\u00eda y la tect\u00f3nica del fondo del mar\", ha comentado David Sandwell, un geof\u00edsico de Scripps que ha dirigido el estudio publicado en la revista Science.\n\nAs\u00ed, el nuevo mapa, obtenido a partir de la combinaci\u00f3n de los datos existentes y los proporcionados por los nuevos instrumentos de teledetecci\u00f3n, ha mostrado los detalles de miles de monta\u00f1as o montes submarinos.\n\nSe elevan un kil\u00f3metro y hasta m\u00e1s de 1.600 metros de altura y algunos est\u00e1n cubiertos por muchos kil\u00f3metros de sedimentos, seg\u00fan han revelado los investigadores.\n\nMapa mundi con las monta\u00f1as del fondo marino en rojo. Imagen: Scripps\n\nEl mapa incluye una cordillera en medio del oc\u00e9ano bajo el Golfo de M\u00e9xico con una longitud aproximadamente igual a la anchura del estado norteamericano de Texas.\n\nTambi\u00e9n otra cresta en el Atl\u00e1ntico Sur al oeste de Angola de unos 800 kil\u00f3metros de largo que se form\u00f3 justo despu\u00e9s de que el continente Am\u00e9rica del Sur se separase de Africa.\n\n\"Sabemos mucho m\u00e1s acerca de la topograf\u00eda de Marte de lo que sabemos acerca del fondo marino de la Tierra\", ha se\u00f1alado el geof\u00edsico de la Universidad de Sydney, Dietmar M\u00fcller.\n\n\"La desaparici\u00f3n del vuelo MH370 de Malaysia Airlines a principios de este a\u00f1o ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades del oc\u00e9ano\", ha apuntado.\n\nM\u00fcller ha indicado que alrededor del 71% de la superficie terrestre est\u00e1 cubierta por agua y aproximadamente el 90% del fondo marino est\u00e1 inexplorado por los barcos de investigaci\u00f3n que emplean haces ac\u00fasticos para mapear las profundidades.\n\nAdem\u00e1s del valor cient\u00edfico puro, el nuevo mapa podr\u00eda tener aplicaciones para los militares y para la exploraci\u00f3n de petr\u00f3leo, dijo Sandwell.\n\nM\u00fcller dijo que las conclusiones con datos de sat\u00e9lite sobre la topograf\u00eda del fondo marino pueden ser menos precisas que los m\u00e9todos de haces ac\u00fasticos utilizados por los buques.\n\n\"Sin embargo, la cobertura global es mucho mejor y nuestro m\u00e9todo es mucho m\u00e1s barato, sobre todo porque estamos en su mayor\u00eda usando datos de sat\u00e9lite que se recogieron para otro prop\u00f3sito\", a\u00f1adi\u00f3 M\u00fcller, quien estim\u00f3 que un estudio completo de las profundidades del oc\u00e9ano usando barcos costar\u00eda unos 4.000 millones de euros y llevar\u00eda muchos a\u00f1os.\n\nCryoSat-2 vigila los cambios en el espesor del hielo marino que flota en los oc\u00e9anos polares y las variaciones en el espesor de las grandes capas de hielo que recubren Groenlandia y la Ant\u00e1rtida. Jason-1 mapea el cambio en la topograf\u00eda de los oc\u00e9anos debido a las corrientes oce\u00e1nicas.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "21004838",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9208,
+                    "source": {
+                        "title": "RTVE.es",
+                        "uri": "www.rtve.es"
+                    },
+                    "time": "14:16:00",
+                    "title": "Un nuevo mapa del fondo marino muestra miles de monta\u00f1as inexploradas",
+                    "uri": "215129896",
+                    "url": "http://www.rtve.es/noticias/20141003/nuevo-mapa-del-fondo-marino-muestra-miles-montanas-inexploradas/1021942.shtml",
+                    "wgt": 1
+                },
+                {
+                    "body": "An\u00e1lisis de datos de distintos sat\u00e9lites han permitido a los expertos descubrir monta\u00f1as submarinas inexploradas y pistas sobre la formaci\u00f3n de los continentes.\n\nCombinando los datos de diversos sat\u00e9lites, un grupo de cient\u00edficos ha logrado crear el m\u00e1s detallado mapa del fondo marino de la Tierra, dos veces m\u00e1s preciso que la versi\u00f3n anterior producida hace casi dos d\u00e9cadas.\n\nEn el proceso de creaci\u00f3n de este mapa, los expertos del Instituto Scripps de Oceanograf\u00eda de la Universidad de California en San Diego, descubrieron miles de monta\u00f1as inexploradas hasta el momento, que se elevan desde el suelo marino, pero que no alcanzan a llegar a la superficie del agua.\n\nSeg\u00fan explican desde el Instituto de Oceanograf\u00eda, el nivel de detalle logrado de las estructuras que conforman el fondo marino es tan incre\u00edble, que es como si hubieran drenado los r\u00edos y mares de todo el mundo.\n\n\"Las fosas, rugosidades y zanjas en el suelo del oc\u00e9ano son formadas por el desliz de placas tect\u00f3nicas masivas. En varias partes del oc\u00e9ano, sin embargo, incluyendo la regi\u00f3n del Oc\u00e9ano Indico en donde el avi\u00f3n malasio se perdi\u00f3 este a\u00f1o, los cient\u00edficos no saben mucho sobre la tect\u00f3nica del piso marino\", aseguran en el reporte de la revista cient\u00edfica Science.\n\nTal como indica el geof\u00edsico Dietmar M\u00fcller, \"la desaparici\u00f3n del vuelo MH370 de Malaysia Airlines a principios de este a\u00f1o ha aumentado la conciencia global sobre el escaso conocimiento de nuestras profundidades del oc\u00e9ano\".\n\nAtl\u00e1ntico Norte. Los puntos rojos muestran la ubicaci\u00f3n de los terremotos con magnitud superior a 5,5.\n\nEl mapa tambi\u00e9n revela pistas sobre la formaci\u00f3n de los oc\u00e9anos. Por ejemplo, se ha logrado observar una estructura submarina en el Atl\u00e1ntico Sur de unos 800 kil\u00f3metros de largo, que se form\u00f3 despu\u00e9s de que Am\u00e9rica del Sur se separara de \u00c1frica. Y una cordillera en medio del oc\u00e9ano bajo el Golfo de M\u00e9xico, ahora enterradas por espesas capas de sedimentos.\n\nDe hecho, \"uno de los usos m\u00e1s importantes (del mapa) ser\u00e1 la de mejorar las estimaciones de la profundidad del fondo marino en el 80 por ciento de los oc\u00e9anos, algo que hasta ahora no era posible de realizar\" dicen los autores en el informe.\n\nPara la conformaci\u00f3n del mapa se utilizaron datos del sat\u00e9lite CryoSat-2 de la Agencia Espacial Europea (ESA), que recoge datos del hielo polar y los oc\u00e9anos, y del Jason-1 de la Nasa, encargado de mapear el campo de gravedad del lecho marino durante el \u00fatlimo a\u00f1o. Estos equipos tienen aparatos llamados alt\u00edmetros que permiten imitar la topograf\u00eda del suelo del oc\u00e9ano, revelando las estructuras enterradas. Estos datos, luego fueron combinados con los ya existentes, dando paso a este mapa.",
+                    "date": "2014-10-03",
+                    "eventUri": "1423839",
+                    "id": "21006615",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7505,
+                    "source": {
+                        "title": "www.latercera.com",
+                        "uri": "www.latercera.com"
+                    },
+                    "time": "13:33:00",
+                    "title": "Nuevo mapa revela detalles nunca antes vistos del fondo marino - Latercera",
+                    "uri": "215136169",
+                    "url": "http://www.latercera.com/noticia/tendencias/2014/10/659-598529-9-nuevo-mapa-revela-detalles-nunca-antes-vistos-del-fondo-marino.shtml",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 5,
+            "averageDate": "2014-10-03",
+            "avgCos": 0.6431,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1423839",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1516824",
+            "lang": "spa",
+            "location": {
+                "country": {
+                    "labelEng": "United States",
+                    "lat": 39.76,
+                    "long": -98.5,
+                    "wikiUri": "http://en.wikipedia.org/wiki/United_States"
+                },
+                "labelEng": "Texas",
+                "lat": 31.25044,
+                "long": -99.25061,
+                "wikiUri": "http://en.wikipedia.org/wiki/Texas"
+            },
+            "storyDate": "2014-10-03",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-298658",
+            "variance": 0.0864
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 17,
+        "CCAArticleMatchRatio": 0.07488986784140969,
+        "CCAAvgCosSim": 0.7847411764705882,
+        "CCAAvgMatchWgt": 42,
+        "_articleUri1": "215054971",
+        "_articleUri2": "215265603",
+        "_datetime": "2015-02-21 23:57:25",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "850f305d-14db-4c75-b547-79470a557ea3-827425",
+        "_storyUri2": "e7e700df-6a06-44ea-a4f3-f736278fc36b-298658",
+        "_username": "admin",
+        "artCount1": 15,
+        "artCount2": 5,
+        "avgCosSimStory1": 0.4521,
+        "avgCosSimStory2": 0.6431,
+        "categorySim": 0,
+        "conceptCosSim": 0.4395215197388782,
+        "conceptJaccardSim": 0.2272727272727273,
+        "coreTime1": 129331.3166666667,
+        "coreTime2": 129350.2666666667,
+        "coreTimeStDev1": 3.023501525171159,
+        "coreTimeStDev2": 1.966141172731442,
+        "entityCosSim": 0.4579022347851962,
+        "entityJaccardSim": 0.2307692307692308,
+        "extractedDateJaccardSim": 0,
+        "extractedDatesStory1": 1,
+        "extractedDatesStory2": 0,
+        "hasSameLocation": 0,
+        "keywordCosSim": 0.4371526849012655,
+        "keywordJaccardSim": 0.2244897959183674,
+        "lang1": "eng",
+        "lang2": "spa",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 11,
+        "storyQuality2": 16,
+        "timeAvg1": 129333.65,
+        "timeAvg2": 129349.4033333334,
+        "timeStDev1": 6.737320051880479,
+        "timeStDev2": 1.966141172731442,
+        "varianceStory1": 0.2956,
+        "varianceStory2": 0.0864
+    }
+}

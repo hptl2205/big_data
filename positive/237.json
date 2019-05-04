@@ -1,0 +1,637 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-607011": {
+        "articles": {
+            "resultCount": 26,
+            "results": [
+                {
+                    "body": "The shape of the moon deviates from a simple sphere in ways that scientists have struggled to explain. A new study by researchers at UC Santa Cruz shows that most of the moon's overall shape can be explained by taking into account tidal effects acting early in the moon's history.\n\nThe results, published July 30 in Nature, provide insights into the moon's early history, its orbital evolution, and its current orientation in the sky, according to lead author Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz.\n\nAs the moon cooled and solidified more than 4 billion years ago, the sculpting effects of tidal and rotational forces became frozen in place. The idea of a frozen tidal-rotational bulge, known as the \"fossil bulge\" hypothesis, was first described in 1898. \"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" Garrick-Bethell explained. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nBut this fossil bulge process cannot fully account for the current shape of the moon. In the new paper, Garrick-Bethell and his coauthors incorporated other tidal effects into their analysis. They also took into account the large impact basins that have shaped the moon's topography, and they considered the moon's gravity field together with its topography.\n\nEfforts to analyze the moon's overall shape are complicated by the large basins and craters created by powerful impacts that deformed the lunar crust and ejected large amounts of material. \"When we try to analyze the global shape of the moon using spherical harmonics, the craters are like gaps in the data,\" Garrick-Bethell said. \"We did a lot of work to estimate the uncertainties in the analysis that result from those gaps.\"\n\nTheir results indicate that variations in the thickness of the moon's crust caused by tidal heating during its formation can account for most of the moon's large-scale topography, while the remainder is consistent with a frozen tidal-rotational bulge that formed later.\n\nA previous paper by Garrick-Bethell and some of the same coauthors described the effects of tidal stretching and heating of the moon's crust at a time 4.4 billion years ago when the solid outer crust still floated on an ocean of molten rock. Tidal heating would have caused the crust to be thinner at the poles, while the thickest crust would have formed in the regions in line with the Earth. Published in Science in 2010, the earlier study found that the shape of one area of unusual topography on the moon, the lunar farside highlands, was consistent with the effects of tidal heating during the formation of the crust.\n\n\"In 2010, we found one area that fits the tidal heating effect, but that study left open the rest of the moon and didn't include the tidal-rotational deformation. In this paper we tried to bring all those considerations together,\" Garrick-Bethell said.\n\nTidal heating and tidal-rotational deformation had similar effects on the moon's overall shape, giving it a slight lemon shape with a bulge on the side facing the Earth and another bulge on the opposite side. The two processes left distinct signatures, however, in the moon's gravity field. Because the crust is lighter than the underlying mantle, gravity signals reveal variations in the thickness of the crust that were caused by tidal heating.\n\nInterestingly, the researchers found that the moon's overall gravity field is no longer aligned with the topography, as it would have been when the tidal bulges were frozen into the moon's shape. The principal axis of the moon's overall shape (the long axis of the lemon) is now separated from the gravity principal axis by about 34 degrees. (Excluding the large basins from the data, the difference is still about 30 degrees.)\n\n\"The moon that faced us a long time ago has shifted, so we're no longer looking at the primordial face of the moon,\" Garrick-Bethell said. \"Changes in the mass distribution shifted the orientation of the moon. The craters removed some mass, and there were also internal changes, probably related to when the moon became volcanically active.\"\n\nThe details and timing of these processes are still uncertain. But Garrick-Bethell said the new analysis should help efforts to work out the details of the moon's early history. While the new study shows that tidal effects can account for the overall shape of the moon, tidal processes don't explain the topographical differences between the near side and the far side.",
+                    "date": "2014-07-30",
+                    "eventUri": "1081159",
+                    "id": "16482354",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.872,
+                    "source": {
+                        "title": "phys.org",
+                        "uri": "phys.org"
+                    },
+                    "time": "15:51:00",
+                    "title": "Tidal forces gave moon its shape, according to new analysis",
+                    "uri": "200660568",
+                    "url": "http://phys.org/news/2014-07-tidal-gave-moon-analysis.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "The results, published July 30 in Nature, provide insights into the moon's early history, its orbital evolution, and its current orientation in the sky, according to lead author Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz.\n\nAs the moon cooled and solidified more than 4 billion years ago, the sculpting effects of tidal and rotational forces became frozen in place. The idea of a frozen tidal-rotational bulge, known as the \"fossil bulge\" hypothesis, was first described in 1898. \"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" Garrick-Bethell explained. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nBut this fossil bulge process cannot fully account for the current shape of the moon. In the new paper, Garrick-Bethell and his coauthors incorporated other tidal effects into their analysis. They also took into account the large impact basins that have shaped the moon's topography, and they considered the moon's gravity field together with its topography.\n\nImpact craters\n\nEfforts to analyze the moon's overall shape are complicated by the large basins and craters created by powerful impacts that deformed the lunar crust and ejected large amounts of material. \"When we try to analyze the global shape of the moon using spherical harmonics, the craters are like gaps in the data,\" Garrick-Bethell said. \"We did a lot of work to estimate the uncertainties in the analysis that result from those gaps.\"\n\nTheir results indicate that variations in the thickness of the moon's crust caused by tidal heating during its formation can account for most of the moon's large-scale topography, while the remainder is consistent with a frozen tidal-rotational bulge that formed later.\n\nA previous paper by Garrick-Bethell and some of the same coauthors described the effects of tidal stretching and heating of the moon's crust at a time 4.4 billion years ago when the solid outer crust still floated on an ocean of molten rock. Tidal heating would have caused the crust to be thinner at the poles, while the thickest crust would have formed in the regions in line with the Earth. Published in Science in 2010, the earlier study found that the shape of one area of unusual topography on the moon, the lunar farside highlands, was consistent with the effects of tidal heating during the formation of the crust.\n\n\"In 2010, we found one area that fits the tidal heating effect, but that study left open the rest of the moon and didn't include the tidal-rotational deformation. In this paper we tried to bring all those considerations together,\" Garrick-Bethell said.\n\nTidal heating and tidal-rotational deformation had similar effects on the moon's overall shape, giving it a slight lemon shape with a bulge on the side facing the Earth and another bulge on the opposite side. The two processes left distinct signatures, however, in the moon's gravity field. Because the crust is lighter than the underlying mantle, gravity signals reveal variations in the thickness of the crust that were caused by tidal heating.\n\nGravity field\n\nInterestingly, the researchers found that the moon's overall gravity field is no longer aligned with the topography, as it would have been when the tidal bulges were frozen into the moon's shape. The principal axis of the moon's overall shape (the long axis of the lemon) is now separated from the gravity principal axis by about 34 degrees. (Excluding the large basins from the data, the difference is still about 30 degrees.)\n\n\"The moon that faced us a long time ago has shifted, so we're no longer looking at the primordial face of the moon,\" Garrick-Bethell said. \"Changes in the mass distribution shifted the orientation of the moon. The craters removed some mass, and there were also internal changes, probably related to when the moon became volcanically active.\"\n\nThe details and timing of these processes are still uncertain. But Garrick-Bethell said the new analysis should help efforts to work out the details of the moon's early history. While the new study shows that tidal effects can account for the overall shape of the moon, tidal processes don't explain the topographical differences between the near side and the far side.\n\nIn addition to Garrick-Bethell, the coauthors of the paper include Viranga Perera, who worked on the study as a UCSC graduate student and is now at Arizona State University; Francis Nimmo, professor of Earth and planetary sciences at UCSC; and Maria Zuber, a planetary scientist at the Massachusetts Institute of Technology. This work was funded by the Ministry of Education of Korea through the National Research Foundation.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16503991",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8593,
+                    "source": {
+                        "title": "ScienceDaily",
+                        "uri": "www.sciencedaily.com"
+                    },
+                    "time": "08:03:00",
+                    "title": "Tidal forces gave moon its shape early in its history, new analysis finds",
+                    "uri": "200729395",
+                    "url": "http://www.sciencedaily.com/releases/2014/07/140730133129.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bsciencedaily%2B%2528Latest%2BScience%2BNews%2B--%2BScienceDaily%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "Tidal forces affected the shape of the moon, according to University of California ...\n\nTidal forces acting upon the moon early in its history gave it the shape it holds now, according to new research.\n\nThe shape of the moon deviates from a simple sphere in ways that scientists have struggled to explain.\n\nYet according to scientists from the University of California Santa Cruz, most of the moon's overall shape can be explained by taking into account tidal effects acting early in the moon's history.\n\nThe results provide insights into the moon's early history, its orbital evolution, and its current orientation in the sky, according to lead author Ian Garrick-Bethell, an assistant professor of Earth and planetary sciences.\n\nAs the moon cooled and solidified more than 4 billion years ago, the sculpting effects of tidal and rotational forces became frozen in place. The idea of a frozen tidal-rotational bulge, known as the \"fossil bulge\" hypothesis, was first described in 1898.\n\n\"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" Garrick-Bethell explained. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nFor the new study, the researchers incorporated other tidal effects into their analysis, such as the large impact basins that have shaped the moon's topography and gravity field.\n\nEfforts to analyse the moon's overall shape are complicated by the large basins and craters created by powerful impacts that deformed the lunar crust and ejected large amounts of material.\n\n\"When we try to analyse the global shape of the moon using spherical harmonics, the craters are like gaps in the data,\" Garrick-Bethell said. \"We did a lot of work to estimate the uncertainties in the analysis that result from those gaps.\"\n\nTheir results indicate that variations in the thickness of the moon's crust caused by tidal heating during its formation can account for most of the moon's large-scale topography, while the remainder is consistent with a frozen tidal-rotational bulge that formed later.\n\nA previous study by Garrick-Bethell found that the shape of one area of unusual topography on the moon, the lunar farside highlands, was consistent with the effects of tidal heating during the formation of the crust.\n\n\"In 2010, we found one area that fits the tidal heating effect, but that study left open the rest of the moon and didn't include the tidal-rotational deformation,\" Garrick-Bethell said.\n\nTidal heating and tidal-rotational deformation had similar effects on the moon's overall shape, giving it a slight lemon shape with a bulge on the side facing the Earth and another bulge on the opposite side.\n\nThe two processes left distinct signatures in the moon's gravity field. Because the crust is lighter than the underlying mantle, gravity signals reveal variations in the thickness of the crust that were caused by tidal heating.\n\nThe results were published in the journal Nature.",
+                    "date": "2014-07-30",
+                    "eventUri": "1081159",
+                    "id": "16482355",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8439,
+                    "source": {
+                        "title": "uk.news.yahoo.com",
+                        "uri": "uk.news.yahoo.com"
+                    },
+                    "time": "16:51:00",
+                    "title": "Tidal Forces Acting Billions of Years Ago Gave Moon its 'Bulging' Shape",
+                    "uri": "200660574",
+                    "url": "https://uk.news.yahoo.com/tidal-forces-acting-billions-years-ago-gave-moon-170000474.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "The full moon rises above the castle of Somoskoujfalu, northeast of Budapest, Hungary, earlier this month. (AP)\n\nWhat shape is the moon? When it's full, we'd all agree that it looks perfectly round. But careful measurements by a team of scientists have shown that's not the case.\n\nLike many an Earth-bound observer, it turns out that our nearest neighbor in space is hiding a slight bulge around the waist. It's less like a ball and more like a squashed sphere, with a lump on one side.\n\nThat's according to Ian Garrick-Bethell, a planetary scientist at University of California, Santa Cruz, who is the lead author in the newly published findings in Nature.\n\n\"If you can imagine a water balloon flattening out as you spin it,\" Garrick-Bethell says, describing the slight \"lemon-shape\" of the moon.\n\nHow did it get that way? It all goes back to a time when the moon was formed after a collision between a very young Earth and an ancient body known as Theia. The crust solidified, but the moon's center was still largely molten.\n\nAccording to The New York Times: \"Efforts to pinpoint the moon's exact shape have long been stymied by the presence of large craters on its surface that formed after the crust solidified. There have also been inconsistencies between its measurements and what we know about its past.\"\n\n\"To overcome the crater problem, [Garrick-Bethell] and his colleagues used highly accurate maps of the moon's topography, made with a laser altimeter, then ran calculations to see what the surface could have looked like before the craters formed.\n\n\"The measurements that emerged help explain how the moon acquired its shape, the researchers say. Its squashed appearance is probably a result of the gravitational process called tidal heating or acceleration, which stretched the moon's crust as it was being formed. The equatorial bulge probably dates to a later period, when the moon was still spinning but was slowing down and moving away from earth, freezing a tidal surge in place.\"\n\nThe BBC says Garrick-Bethell and his team were inspired by similar research in a 2013 study by researchers from the University of Texas at Austin. They calculated how tidal heating caused by Jupiter's massive tug was causing warmer water under the ice crust on Europa.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539970",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8208,
+                    "source": {
+                        "title": "wbur",
+                        "uri": "www.wbur.org"
+                    },
+                    "time": "14:34:00",
+                    "title": "Scientists Say The Moon Is Hiding A Lumpy Middle",
+                    "uri": "200830502",
+                    "url": "http://www.wbur.org/npr/336836465/scientists-say-the-moon-is-hiding-a-lumpy-middle",
+                    "wgt": 1
+                },
+                {
+                    "body": "Forget what your eye may tell you about a perfect full moon hanging in the night sky, researchers say; it's not a perfect circle, but in fact slightly flattened, and it's even got bulges on its sides.\n\nIt's squashed and even a bit elongated, with the bulges -- the thickest parts of moon's crust -- on the sides farthest from and nearest to the Earth, they say.\n\n\"Like a lemon with an equatorial bulge,\" described planetary scientist Ian Garrick-Bethell of the University of California, Santa Cruz.\n\n\"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" he explained. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nAnd yet the moon hardly spins, always keeping the same face to the Earth, so why does it have an equatorial bulge?\n\n\"There's no plate tectonics like on the earth,\" Garrick-Bethell notes. \"Why is it so deformed?\"\n\nFor 200 million years after the formation of the moon it possessed only a thin, weak crust while the interior remained molten, scientists say.\n\nA gravitational process known as tidal heating stretched that crust while it slowly cooled atop the molten interior, giving it its present squashed appearance.\n\nThe bulge at the equator likely came later as the moon, still spinning around but slowing down, moved away from the Earth, freezing tidal surges in place as the moon's spin slowly ground to a halt.\n\nGarrick-Bethell and his colleagues studied highly accurate topographical maps of the moon created using a laser altimeter, then ran computer calculations to recreate the processes that could have affected it shape.\n\nThe math proved out, they reported in the journal Nature.\n\n\"There is an expected ratio you get for each of those two tidal processes,\" Garrick-Bethell says. \"We found the exact ratios you would expect for each process.\"\n\nAn off-center distribution of the moon's mass was likely created by subsequent episodes of volcanism on a large scale starting around 4 billion years ago and lasting almost 2 billion years.\n\nLike the tidal events before, they changed the moon's appearance, the researchers say.\n\n\"The moon that faced us a long time ago has shifted, so we're no longer looking at the primordial face of the moon,\" Garrick-Bethell says. \"Changes in the mass distribution shifted the orientation of the moon.\"",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571390",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8202,
+                    "source": {
+                        "title": "Tech Times",
+                        "uri": "www.techtimes.com"
+                    },
+                    "time": "16:58:00",
+                    "title": "More of a lemon, less of a sphere: Our moon's odd shape explained",
+                    "uri": "200921279",
+                    "url": "http://www.techtimes.com/articles/11700/20140731/more-of-a-lemon-less-of-a-sphere-our-moon-s-odd-shape-explained.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "What shape is the moon? When it's full, we'd all agree that it looks perfectly round. But careful measurements by a team of scientists have shown that's not the case.\n\nLike many an Earth-bound observer, it turns out that our nearest neighbor in space is hiding a slight bulge around the waist. It's less like a ball and more like a squashed sphere, with a lump on one side.\n\nThat's according to Ian Garrick-Bethell, a planetary scientist at the University of California, Santa Cruz, who is the lead author of the newly published findings in Nature.\n\n\"If you can imagine a water balloon flattening out as you spin it,\" Garrick-Bethell says, describing the slight \"lemon shape\" of the moon.\n\nHow did it get that way? It all goes back to a time when the moon was formed after a collision between a very young Earth and an ancient body known as Theia. The crust solidified, but the moon's center was still largely molten.\n\nAccording to The New York Times: \"Efforts to pinpoint the moon's exact shape have long been stymied by the presence of large craters on its surface that formed after the crust solidified. There have also been inconsistencies between its measurements and what we know about its past.\"\n\nThe Times says:\n\n\"To overcome the crater problem, [Garrick-Bethell] and his colleagues used highly accurate maps of the moon's topography, made with a laser altimeter, then ran calculations to see what the surface could have looked like before the craters formed.\n\n\"The measurements that emerged help explain how the moon acquired its shape, the researchers say. Its squashed appearance is probably a result of the gravitational process called tidal heating or acceleration, which stretched the moon's crust as it was being formed. The equatorial bulge probably dates to a later period, when the moon was still spinning but was slowing down and moving away from earth, freezing a tidal surge in place.\"\n\nThe BBC says Garrick-Bethell and his team were inspired by similar research in a 2013 study by researchers from the University of Texas at Austin. They calculated how tidal heating caused by Jupiter's massive tug was causing warmer water under the ice crust on Europa.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571396",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8188,
+                    "source": {
+                        "title": "KPLU FM 88.5",
+                        "uri": "www.kplu.org"
+                    },
+                    "time": "16:58:00",
+                    "title": "Scientists Say The Moon Is Hiding A Lumpy Middle",
+                    "uri": "200921275",
+                    "url": "http://www.kplu.org/post/scientists-say-moon-hiding-lumpy-middle",
+                    "wgt": 1
+                },
+                {
+                    "body": "What shape is the moon? When it's full, we'd all agree that it looks perfectly round. But careful measurements by a team of scientists have shown that's not the case.\n\nLike many an Earth-bound observer, it turns out that our nearest neighbor in space is hiding a slight bulge around the waist. It's less like a ball and more like a squashed sphere, with a lump on one side.\n\nThat's according to Ian Garrick-Bethell, a planetary scientist at University of California, Santa Cruz, who is the lead author in the newly published findings in Nature.\n\n\"If you can imagine a water balloon flattening out as you spin it,\" Garrick-Bethell says, describing the slight \"lemon-shape\" of the moon.\n\nHow did it get that way? It all goes back to a time when the moon was formed after a collision between a very young Earth and an ancient body known as Theia. The crust solidified, but the moon's center was still largely molten.\n\nAccording to The New York Times: \"Efforts to pinpoint the moon's exact shape have long been stymied by the presence of large craters on its surface that formed after the crust solidified. There have also been inconsistencies between its measurements and what we know about its past.\"\n\nThe Times says:\n\n\"To overcome the crater problem, [Garrick-Bethell] and his colleagues used highly accurate maps of the moon's topography, made with a laser altimeter, then ran calculations to see what the surface could have looked like before the craters formed.\n\n\"The measurements that emerged help explain how the moon acquired its shape, the researchers say. Its squashed appearance is probably a result of the gravitational process called tidal heating or acceleration, which stretched the moon's crust as it was being formed. The equatorial bulge probably dates to a later period, when the moon was still spinning but was slowing down and moving away from earth, freezing a tidal surge in place.\"\n\nThe BBC says Garrick-Bethell and his team were inspired by similar research in a 2013 study by researchers from the University of Texas at Austin. They calculated how tidal heating caused by Jupiter's massive tug was causing warmer water under the ice crust on Europa.\n\nCopyright 2014 NPR.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16533124",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8166,
+                    "source": {
+                        "title": "www.mprnews.org",
+                        "uri": "www.mprnews.org"
+                    },
+                    "time": "15:55:00",
+                    "title": "Scientists say the moon is hiding a lumpy middle",
+                    "uri": "200812086",
+                    "url": "http://www.mprnews.org/story/2014/07/31/scientists-say-the-moon-is-hiding-a-lumpy-middle?refid=0&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2BMPR_science%2B%2528Science%2Bfrom%2BMinnesota%2BPublic%2BRadio%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "Researchers from UC Santa Cruz have finally solved the mystery behind the moon's changing shapes. Findings of the study provided significant insight into the moon's early history and orbital evolution.\n\nStudy leader Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz, worked with colleagues to revisit the theory of \"fossil bulge\" and integrated tidal effects to see how the combination would affect the moon's overall shape. The team also factored in their analysis large impact basins known to alter the moon's topography.\n\n\"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" Garrick-Bethell explained. \"On top of that, you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nScientists have struggled to study the moon's overall shape due to various impact basins on the moon. These craters have deformed the lunar crust and ejected large amounts of material resulting in variant pieces of research data.\n\nAfter careful analysis, researchers concluded that the changes in the moon's shape are caused by tidal heating on its poles and frozen tidal-rotational bulges on the remainder of the surface. Due to tidal heating, the poles of the moon become thinner, while the regions facing the Earth have become thicker.\n\nIn addition, the researchers observed a misalignment in the moon's overall gravity field and topography by 34 degrees.\n\n\"The moon that faced us a long time ago has shifted, so we're no longer looking at the primordial face of the moon,\" Garrick-Bethell said. \"Changes in the mass distribution shifted the orientation of the moon. The craters removed some mass, and there were also internal changes, probably related to when the moon became volcanically active.\"\n\nAuthors of the study admitted that further research is needed to outline the moon's early history and explain the topographical differences between the near and far sides of the moon.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571393",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8156,
+                    "source": {
+                        "title": "Headlines & Global News",
+                        "uri": "www.hngn.com"
+                    },
+                    "time": "17:58:00",
+                    "title": "Here's Why the Moon Has Different Shapes",
+                    "uri": "200921268",
+                    "url": "http://www.hngn.com/articles/37665/20140731/heres-why-the-moon-has-different-shapes.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "Earth's powerful gravity tugged the moon into its oddball shape long ago, shortly after both bodies formed, a new study suggests.\n\nTidal forces exerted during the early days of the solar system can explain most of the moon's large-scale topography, including its slight lemon shape, reports the study, which was published online today (July 30) in the journal Nature.\n\nThe new findings could help scientists tackle longstanding lunar mysteries, such as why the moon's near side is dominated by dark volcanic deposits, while the far side is not, researchers said. [How the Moon Formed: A Timeline (Gallery)]\n\n\"What is the origin of that asymmetry?\" study lead author Ian Garrick-Bethell, of the University of California, Santa Cruz, said. \"Chipping away at this problem of the shape of the moon can give us insight into those types of fundamental geology problems,\" he told Space.com.\n\nA young, molten moon\n\nScientists think the moon formedfrom debris blasted into space when a mysterious planet-size body slammed into the young Earth about 4.5 billion years ago. The moon was born hot, and it came into existence quite close to our home planet. (The moon has been slowly spiraling away ever since.)\n\nThe newborn moon was thus primed to be sculpted by Earth's gravity, and that's exactly what happened, researchers say.\n\nIndeed, scientists have posited for more than a century that tidal forces helped shape the molten moon, causing bulges that froze into place when Earth's natural satellite cooled down and solidified. But the new study provides a much more detailed understanding of how this likely happened.\n\nGarrick-Bethell and his team studied topographic data gathered by NASA's Lunar Reconnaissance Orbiter and information about the moon's gravity field collected by the agency's twin GRAIL (Gravity Recovery and Interior Laboratory) spacecraft. Though the researchers took a global view of the moon, they focused on areas outside of the body's biggest impact craters, which can complicate such analyses.\n\nThe data strongly implicate tidal effects as a key shaper of the moon, researchers said. For example, tidal forces pulled on the lunar crust, stretching it out and heating it up in places. This process thinned out the crust at the lunar poles and thickened it in the regions that lined up with Earth, helping sculpt the moon into a lemon with two small bulges (one on the side facing our planet, and one on the side directly opposite).\n\nSuch tidal heating could have occurred only when the moon's crust was floating on a sea of molten rock, largely decoupled from the rest of the body, Garrick-Bethell said.\n\n\"This happened a long time ago, when the moon was not completely solid,\" he said. \"This was in the first 100 to 200 million years of lunar thermal evolution.\"\n\nAlso contributing to the moon's overall shape were more straightforward tidal deformations, which Garrick-Bethell likened to squeezing the lemon with your hands, and rotational forces, which cause spinning bodies such as the moon to flatten at the poles and bulge out near the equator.\n\nWhen the moon cooled, the changes wrought by all of these processes were frozen in place.\n\nInterestingly, the long axis of the moon doesn't point directly toward Earth as it likely did long ago; instead, it's offset by about 30 degrees. This probably happened when volcanic activity, impact cratering and other events made the moon's interior a much less homogeneous place, researchers said.\n\n\"Internal density anomalies have formed, and they've kind of canted the moon,\" Garrick-Bethell said. \"At some point in lunar history, you have these events that took place that caused these density anomalies and shifted the density axis away from the shape axis.\"\n\nUnderstanding other moons and planets\n\nThe new results could have applications beyond the moon, potentially helping researchers better understand any celestial body strongly affected by tidal forces, Garrick-Bethell said.\n\n\"This idea was inspired by Europa,\" he said, referring to the huge moon of Jupiter. Europa is similar today to Earth's moon long ago, he added, in that it harbors a solid shell (of ice in Europa's case rather than rock) sitting atop an ocean layer (which consists of liquid water rather than magma).\n\nThe study could even yield insights about the evolution of faraway alien planets, Garrick-Bethell said.\n\n\"Tides are so ubiquitous; they're everywhere across the galaxy,\" he said. \"So understanding tidal processes is always important.\"\n\nFollow Mike Wall on Twitter @michaeldwall and Google+. Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.com.\n\nHow the Moon Was Made: Lunar Evolution Explained (Infographic) The Moon: 10 Surprising Lunar Facts Moon Master: An Easy Quiz for Lunatics Copyright 2014 SPACE.com, a TechMediaNetwork company. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.",
+                    "date": "2014-07-30",
+                    "eventUri": "1081159",
+                    "id": "16482333",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8009,
+                    "source": {
+                        "title": "uk.news.yahoo.com",
+                        "uri": "uk.news.yahoo.com"
+                    },
+                    "time": "15:51:00",
+                    "title": "How the Moon Got Its Lemon Shape",
+                    "uri": "200660571",
+                    "url": "https://uk.news.yahoo.com/moon-got-lemon-shape-170828039.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "When we look up at the night sky and see the moon, we see what we believe is a perfectly round object. However, scientists recently discovered that the moon is not spherical, but shaped more like a lemon.\n\nA new study suggests that this shape is due to the moon's spinning when it was younger, along with the tidal pull of the Earth, creating a specific gravitational effect that stretched out its core.\n\nIn their study, researchers used a laser altimeter to map out the surface of the moon with extraordinary detail. This allowed them to figure out the moon's topography, which then led them to the discovery that the Moon is lemon-shaped. Getting accurate measurements was problematic in previous studies because of the moon's rocky exterior.\n\nOnce researchers discovered the moon's shape, they were then tasked with discovering why it wasn't spherical like Earth and the other planets. This stumped the team, because from what we know, a celestial body's shape comes from its rotation. The moon's lemon shape suggests that it's rotating quickly, but that isn't the case.\n\n\"For the Earth and Mars and other bodies, we know that the dominant shape of the planet is due to its spin,\" said Garrick-Bethell, the lead researcher of the study. But the moon spins very slowly and is far from the Earth so it is not possible that current tidal pulls could be causing the moon's current shape.\n\nHowever, when the moon was forming after being flung from Earth after a large impact, it was spinning faster and was closer to Earth. This meant that the Earth's tidal pull on it was stronger than it is now. The moon started out as liquid rock, but after its surface cooled, a hard crust formed on its surface. The liquid, however, remained beneath that. Earth's strong tidal forces tugged at the liquid underneath the surface, creating a bulge. As the moon moved away from Earth and cooled, the bulge froze in place, creating the moon's existing shape.\n\n\"If you take a water balloon and start spinning it, it will bulge out at the equator, and on the Earth, we have something very similar to that,\" said Garrick-Bethell, the lead researcher of the study.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539973",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7788,
+                    "source": {
+                        "title": "Tech Times",
+                        "uri": "www.techtimes.com"
+                    },
+                    "time": "14:11:00",
+                    "title": "Why our moon is shaped like a lemon",
+                    "uri": "200830508",
+                    "url": "http://www.techtimes.com/articles/11741/20140731/why-our-moon-is-shaped-like-a-lemon.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "Forty-five years after astronauts landed on the moon, scientists say they have finally discovered its true shape: slightly flattened, with a bulge on one side.\n\n\"Like a lemon with an equatorial bulge,\" said Ian Garrick-Bethell, a planetary scientist at University of California, Santa Cruz, and an author of the study, being published in the journal Nature. \"If you can imagine a water balloon flattening out as you spin it.\"\n\nEfforts to pinpoint the moon's exact shape have long been stymied by the presence of large craters on its surface that formed after the crust solidified. There have also been inconsistencies between its measurements and what we know about its past.\n\nFor example, the moon barely spins, yet it appears to have the sort of equatorial bulge caused by rotation. And why would a giant ball of cooled liquid be anything but spherical?\n\n\"There's no plate tectonics like on the earth,\" Dr. Garrick-Bethell said. \"Why is it so deformed?\"\n\nTo overcome the crater problem, he and his colleagues used highly accurate maps of the moon's topography, made with a laser altimeter, then ran calculations to see what the surface could have looked like before the craters formed.\n\nThe measurements that emerged help explain how the moon acquired its shape, the researchers say. Its squashed appearance is probably a result of the gravitational process called tidal heating or acceleration, which stretched the moon's crust as it was being formed. The equatorial bulge probably dates to a later period, when the moon was still spinning but was slowing down and moving away from earth, freezing a tidal surge in place.\n\nThe clues, Dr. Garrick-Bethell said, are all in the math.\n\n\"There is an expected ratio you get for each of those two tidal processes,\" he said. \"We found the exact ratios you would expect for each process.\"",
+                    "date": "2014-07-30",
+                    "eventUri": "1081159",
+                    "id": "16468868",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7781,
+                    "source": {
+                        "title": "First Draft",
+                        "uri": "www.nytimes.com"
+                    },
+                    "time": "19:12:00",
+                    "title": "Observatory: The Moon Is (Slightly) Flat, Scientists Say",
+                    "uri": "200625508",
+                    "url": "http://www.nytimes.com/2014/07/31/science/space/the-moon-is-slightly-flat-scientists-say.html?partner=rss&emc=rss&_r=0",
+                    "wgt": 1
+                },
+                {
+                    "body": "The moon may look like a beautiful circle in the night sky, but scientists have long known that it's actually shaped more like a lemon, with a bit of a bulge around its middle. Now, new research has solved the mystery of the bulge, finding that it formed from tidal effects early in the moon's development.\n\nUsually, this sort of bulge is an effect of rotation -- like \"a water balloon flattening out as you spin it,\" Ian Garrick-Bethell, an author of the new study, told The New York Times. The Earth itself has just such a bulge. But the moon barely spins, certainly not enough to fully account for its shape. And at a distance of 238,000 miles, the gravitational pull of the Earth isn't strong enough to explain it either.\n\nThe new research incorporated both of these effects, and looked at more subtle factors, including the moon's gravity field and the huge craters leftover from meteor impacts, according to a release. But the big culprit is a phenomenon called tidal heating.\n\nWhen the moon first formed more than 4 billion years ago, it started as a ball of molten rock with a thin crust floating on top. Tidal heating would have caused the crust at the poles to be thinner than the crust in regions aligned with the Earth, over time settling into the bulge shape we see now.\n\n\"Tides start to flex and pull on it,\" Garrick-Bethell told the BBC. \"And that's easy to do because the crust is just floating there. It's not attached to the rest of the moon.\"\n\nAlthough the lemon shape of the moon has been known for a long time -- the \"fossil bulge hypothesis\" explaining its shape was first posited in 1898, according to the release -- the moon's history of being slammed with meteors and other objects have complicated efforts to map its topography, making the answer elusive until now.\n\n\"The craters are like gaps in the data,\" Garrick-Bethell said in the release. \"We did a lot of work to estimate the uncertainties in the analysis that result from those gaps.\"\n\nThe research is published in the journal Nature.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539977",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7615,
+                    "source": {
+                        "title": "The Weather Channel",
+                        "uri": "www.weather.com"
+                    },
+                    "time": "13:59:00",
+                    "title": "Scientists Explain Mystery of Moon's Lemon Shape",
+                    "uri": "200830505",
+                    "url": "http://www.weather.com/news/science/scientists-explain-mystery-moons-lemon-shape-20140731",
+                    "wgt": 1
+                },
+                {
+                    "body": "Scientists have been finally able to discover the true shape of the moon, saying it resembles \"a lemon with an equatorial bulge.\"\n\nFor the recent study, Dr Ian Garrick-Bethell, a planetary scientist at University of California, Santa Cruz, and his colleagues, used highly accurate maps of the moon's topography, made with a laser altimeter. The topographic data they studied was collected by NASA's Lunar Reconnaissance Orbiter, while information about the moon's gravity field was gathered by the agency's twin GRAIL (Gravity Recovery and Interior Laboratory) spacecraft.\n\nThe team also conducted a series of calculations to see what the surface could have looked like before the moon's craters formed.\n\nScientists think the moon formed from debris that blasted into space as a result of a mysterious planet-size body hitting the Earth about 4.5 billion years ago. The moon was born hot, and it formed quite close to the Earth.\n\nThe researchers say that the moon's shape was probably effected by the gravitational process called tidal heating or acceleration, taking place across its crust. The equatorial bulge probably was formed later, when the moon was still spinning but was already slowing down and moving away from earth, and the resulting bulges froze.\n\nDr Garrick-Bethell gives to a purely mathematical explanation of this process.\n\n\"There is an expected ratio you get for each of those two tidal processes,\" he said. \"We found the exact ratios you would expect for each process.\"",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571389",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.758,
+                    "source": {
+                        "title": "www.dumb-out.net",
+                        "uri": "www.dumb-out.net"
+                    },
+                    "time": "16:58:00",
+                    "title": "The moon is actually lemon-shaped, researchers say",
+                    "uri": "200921280",
+                    "url": "http://www.dumb-out.net/moon-actually-lemon-shaped-researchers-say/2419",
+                    "wgt": 1
+                },
+                {
+                    "body": "Scientists offer explanation to why the moon's shape is different than we initially thought and how the moon got that way\n\nMoon mystery solved! Scientists recently discovered the moon is not really the perfect sphere shape we all once thought it was. According to researchers from the University of California, a study that uses advanced laser technology to smooth over the stony surface indicates the satellite is distorted.\n\nThe moon has an equatorial bulge similar to the Earth's bulge. However, the moon's shape is flattened on the top and bottom. Planetary scientist Ian Garrick-Bethell summed it up as a \"lemon with equal with an equatorial bulge\". And unlike Earth's oblate spheroid nature than enables the planet to spin, the moon hardly spins at all.\n\nPrevious explanations for the moon's strange shape include the fact the moon is too far from Earth to be affected by tidal forces. Another theory is the lack of plate tectonics which could potentially mess up the Moon's surface. Garrick-Bethell and his team returned to the moon to find an explanation. The 'Big Splash' event occurred about 4.5 billion years ago. This was when an unknown body, which was roughly the size of Mars, collided into Earth and caused debris to coalesced which formed the moon to what it is today.\n\nAfter this incident, the moon's surface was actually was solid. It also means the moon would have been closer to our planet and spinning a lot faster than it is now. Garrick-Bethell combined all these factors together to explain the moon's current shape.\n\nThe moon has been a hot topic for scientists for a long time. It has also been the subject of other mysteries as well. One moon mystery involves a photo taken by the Lunar orbiter titled \"The Shard\" which shows a strange \"structure\" appears to be enormous at seven miles high.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571385",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7506,
+                    "source": {
+                        "title": "www.valuewalk.com",
+                        "uri": "www.valuewalk.com"
+                    },
+                    "time": "17:58:00",
+                    "title": "Scientists Solve Lemon-Shaped Moon Mystery",
+                    "uri": "200921272",
+                    "url": "http://www.valuewalk.com/2014/07/scientists-solve-lemon-shaped-moon-mystery/",
+                    "wgt": 1
+                },
+                {
+                    "body": "A variety of factors combine to give the moon its oblong shape\n\nThe moon, by all terrestrial appearances, is a big, perfectly round ball in the sky. Except, it's not - it bulges around its equator and flattens at its poles, making it shaped more like an heirloom tomato than a round ball of cream cheese. Scientists have known this since 1898, but have speculated as to why. Now, thanks to UC Santa Cruz researchers, the verdict is in: Tidal and rotational forces in the moon's infancy are to blame for its goofy shape.\n\n\"In 2010, we found one area that fits the tidal heating effect, but that study left open the rest of the moon and didn't include the tidal-rotational deformation. In this paper we tried to bring all those considerations together,\" said lead author Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz.\n\nFour billion years ago, the moon began to cool and solidify after the collision that caused it to break off in the first place. Prior to that, in a more malleable state, Earth's gravitational pull combined with the moon's rotation to cause the warping. \"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" Garrick-Bethell explained.\n\nThat doesn't tell the whole story, though, so the UCSC team dug deeper. In the new paper, they coauthors incorporated other tidal effects into their analysis. They also took into account the large impact basins that have shaped the moon's topography, and they considered the moon's gravity field together with its topography.\n\nBecause of those impact craters, it was impossible to analyze the moon using spherical calculations. Compensating for that, they found that early-stage tidal heating and varying thickness in the crust was responsible for most of the moon's major topographical features.\n\n\"In 2010, we found one area that fits the tidal heating effect, but that study left open the rest of the moon and didn't include the tidal-rotational deformation. In this paper we tried to bring all those considerations together,\" Garrick-Bethell said.\n\nThe rest of the features appeared to match up with the earlier \"fossil bulge\" theory, but this study is the first to establish multiple theories in combination.\n\nWhat's interesting is that the moon's gravitational field doesn't align with its shape, with the principal axis separated by about 34 degrees from the gravitational axis. Craters (and the mass that left with them) likely account for some of the shift, while internal changes are responsible for the rest.\n\nThe only mystery? The topographical differences between the near and far sides - tidal forces can't explain those.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539974",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7477,
+                    "source": {
+                        "title": "dailydigestnews.com",
+                        "uri": "dailydigestnews.com"
+                    },
+                    "time": "12:59:00",
+                    "title": "Nice looking bulge: Tidal forces caused lemon-shaped moon",
+                    "uri": "200830512",
+                    "url": "http://dailydigestnews.com/2014/07/nice-bulge-bro-tidal-forces-caused-lemon-shaped-moon/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Earth's powerful gravity tugged the moon into its oddball shape long ago, shortly after both bodies formed, a new study suggests.\n\nNBC News -- Earth's powerful gravity tugged the moon into its oddball shape long ago, shortly after both bodies formed, a new study suggests.\n\nTidal forces exerted during the early days of the solar system can explain most of the moon's large-scale topography, including its slight lemon shape, reports the study, which was published online today (July 30) in the journal Nature.\n\n\"What is the origin of that asymmetry?\" said study lead author Ian Garrick-Bethell, of the University of California, Santa Cruz. \"Chipping away at this problem of the shape of the moon can give us insight into those types of fundamental geology problems,\" he told Space.com.\n\nScientists think the moon formed from debris blasted into space when a mysterious planet-size body slammed into the young Earth about 4.5 billion years ago. The moon was born hot, and it came into existence quite close to our home planet. (The moon has been slowly spiraling away ever since.)\n\nThe newborn moon was thus primed to be sculpted by Earth's gravity, and that's exactly what happened, researchers say.\n\nIndeed, scientists have posited for more than a century that tidal forces helped shape the molten moon, causing bulges that froze into place when Earth's natural satellite cooled down and solidified. But the new study provides a much more detailed understanding of how this likely happened.Garrick-Bethell and his team studied topographic data gathered by NASA's Lunar Reconnaissance Orbiter and information about the moon's gravity field collected by the agency's twin GRAIL (Gravity Recovery and Interior Laboratory) spacecraft.\n\nThe data strongly implicate tidal effects as a key shaper of the moon, researchers said. For example, tidal forces pulled on the lunar crust, stretching it out and heating it up in places. This process thinned out the crust at the lunar poles and thickened it in the regions that lined up with Earth, helping sculpt the moon into a lemon with two small bulges (one on the side facing our planet, and one on the side directly opposite).\n\nSuch tidal heating could have occurred only when the moon's crust was floating on a sea of molten rock, largely decoupled from the rest of the body, Garrick-Bethell said.\"This happened a long time ago, when the moon was not completely solid,\" he said. \"This was in the first 100 to 200 million years of lunar thermal evolution.\"\n\nView more at NBC News.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571401",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7468,
+                    "source": {
+                        "title": "My ArkLaMiss",
+                        "uri": "www.myarklamiss.com"
+                    },
+                    "time": "16:58:00",
+                    "title": "Why Is the Moon Shaped Like a Lemon? Scientists Explain",
+                    "uri": "200921299",
+                    "url": "http://www.myarklamiss.com/story/d/story/why-is-the-moon-shaped-like-a-lemon-scientists-exp/33026/Bzr-QiSqAkKRYSzftgCyFA",
+                    "wgt": 1
+                },
+                {
+                    "body": "The team at the University of California, Santa Cruz, found that early tidal effects shaped the moon. The study could also explain the satellite's origin as well as its orientation in space.\n\nPrevious research has shown that a relatively \"mild\" cosmic collision gave rise to Earth's moon some 4.5 billion years ago. Earth's gravity molded a mass of ejected rock into the moon that we see today. But, the gravitational pull of our planet doesn't fully explain why the lunar surface has an odd shape.\n\nBack in 1898, scientists proposed an idea known as \"fossil bulge\" hypothesis to explain the bulge on the lunar surface.\n\n\"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" said Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz, according to a news release. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nThe researchers involved in the current study said that the bulge hypothesis doesn't entirely explain the deformed shape moon. The team incorporated tide effects as well as accounted for large impact basins. The team even used data about moon's gravity and topography.\n\nAccording to the researchers, the moon probably got its squashed appearance due to a gravitational process called tidal heating. The tidal heating stretched the lunar surface; the bulge could have occurred at a later period when the moon was still spinning but had slowed down a bit. As the moon drifted away from earth, a tidal surge got frozen in place, The New York Times reported.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16529242",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7254,
+                    "source": {
+                        "title": "Nature World News",
+                        "uri": "www.natureworldnews.com"
+                    },
+                    "time": "11:19:00",
+                    "title": "Scientists Explain why Moon is Shaped Like a Lemon",
+                    "uri": "200802298",
+                    "url": "http://www.natureworldnews.com/articles/8323/20140731/scientists-explain-why-moon-shaped-lemon.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "According to a new study conducted by scientists and researchers from the University of California, Santa Cruz has proven that the moon's shape is not spherical. They have discovered that the moon's shape is more or an out-of-shape lemon rather than round.\n\nThe moon was initially said to have been formed by the powerful tidal and gravitational forces influenced by the moon itself. However it was later re-shaped by the Earth's gravitational pull. This is what is said to have caused the shape of the moon to turn more lemon-like.\n\nThis is the first time a team was able to achieve an extremely accurate picture of the moon. They achieved this with the help of a device called a \"laser altimeter\". They unraveled, with the help of these images and the topography, that the moon is not a perfect sphere but has somewhat of an oval-shaped.\n\nThe re-shaping occurred when the moon was still in its initial stages of taking shape as per the lead researcher Ian Garrick-Bethell. Another crucial influencing factor was the manipulation of the Earth's gravitational force on the moon's axis. This caused it to shift a little.\n\nThe lead researcher, Ian Garrick-Bethell, explains this with a simple example. When a balloon spins out of control, we see it form a slight bulge at the center. This is the same phenomena that occurred with the moon when it was in its liquid formation stage.\n\nHe also explains that a collision which had happened around 4 billion years ago between the Earth and another planet-like body also influenced the present shape of the moon. As of now thought the moons shape is not influenced by its spinning or the tidal waves or even the gravitational force of the Earth. Also the fact that it spins a lot slower now than its formative years has no influence in shaping it further.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539978",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7231,
+                    "source": {
+                        "title": "rayhawkreview.com",
+                        "uri": "rayhawkreview.com"
+                    },
+                    "time": "12:59:00",
+                    "title": "Moon's Lemon-Shaped Mystery Revealed",
+                    "uri": "200830515",
+                    "url": "http://rayhawkreview.com/moons-lemon-shaped-mystery-revealed/34523",
+                    "wgt": 1
+                },
+                {
+                    "body": "Researchers have recently revealed that the shape of the moon could be attributed to the tidal effects acting early in the moon's history.\n\nThe researchers at UC Santa Cruz found that as the moon cooled and solidified more than 4 billion years ago, the sculpting effects of tidal and rotational forces became frozen in place. The idea of a frozen tidal-rotational bulge, known as the \"fossil bulge\" hypothesis, was first described in 1898.\n\nBut this fossil bulge process cannot fully account for the current shape of the moon. In the new paper, Ian Garrick- Bethelland his coauthors incorporated other tidal effects into their analysis. They also took into account the large impact basins that have shaped the moon's topography, and they considered the moon's gravity field together with its topography.\n\nThe results indicated that variations in the thickness of the moon's crust caused by tidal heating during its formation could account for most of the moon's large-scale topography, while the remainder was consistent with a frozen tidal-rotational bulge that formed later.\n\nThe researchers also found that the moon's overall gravity field was no longer aligned with the topography, as it would have been when the tidal bulges were frozen into the moon's shape. The principal axis of the moon's overall shape (the long axis of the lemon) was now separated from the gravity principal axis by about 34 degrees.\n\nHowever, the details and timing of these processes were still uncertain but Garrick-Bethell said that the new analysis should help efforts to work out the details of the moon's early history.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16509781",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7132,
+                    "source": {
+                        "title": "www.business-standard.com",
+                        "uri": "www.business-standard.com"
+                    },
+                    "time": "06:50:00",
+                    "title": "Mystery behind 'Moon's bulging shape' revealed",
+                    "uri": "200746807",
+                    "url": "http://www.business-standard.com/article/news-ani/mystery-behind-moon-s-bulging-shape-revealed-114073100755_1.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Earth's powerful gravity helped to sculpt the moon into its oddball shape many years ago, shortly after both bodies were formed, a new study suggests.\n\nTidal forces exerted during the early days of the solar system can explain most of the moon's large-scale topography, including its slight lemon shape, reports the study, which was published online Wednesday in the journal Nature.\n\n\"What is the origin of that asymmetry?\" asked study lead author Ian Garrick-Bethell, of the University of California, Santa Cruz. \"Chipping away at this problem of the shape of the moon can give us insight into those types of fundamental geology problems,\" he told Space.com.\n\nScientists believe the moon formed from debris blasted into space when a mysterious planet-size body smashed into the young Earth about 4.5 billion years ago. The moon was born hot, and it came into existence near our home planet, though it has been spiraling away ever since.\n\nThe newborn moon was there for primed to be sculpted by Earth's gravity, and that's exactly what happened, researchers say.\n\nScientists have posited for more than a century that tidal forces aided in shaping the molten moon, causing bulges that froze into place when Earth's natural satellite cooled down and solidified. But the new study provides a more in depth understanding of how this likely happened. Garrick-Bethell and his team studied topographic data gathered by NASA's Lunar Reconnaissance Orbiter and information about the moon's gravity field collected by the agency's twin GRAIL (Gravity Recovery and Interior Laboratory) spacecraft according to NBC News.\n\nThe data collected strongly implicated tidal effects as a key shaper of the moon, researchers said. Tidal forces pulled on the lunar crust, stretching it out and heating it in places. The process thinned out the crust at the lunar poles and thickened it up in the regions that lined up with Earth, creating the moon into a lemon shape with two bulges (one on the side facing our planet, and one on the side directly opposite.)\n\n\"This happened a long time ago, when the moon was not completely solid,\" Garrick-Bethell said. \"This was in the first 100 to 200 million years of lunar thermal evolution.\"",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571399",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7128,
+                    "source": {
+                        "title": "americanlivewire.com",
+                        "uri": "americanlivewire.com"
+                    },
+                    "time": "14:58:00",
+                    "title": "Study: Oddball Shape of Moon Sculpted By Earth's Gravity",
+                    "uri": "200921291",
+                    "url": "http://americanlivewire.com/2014-07-31-study-oddball-shape-moon-sculpted-earths-gravity/",
+                    "wgt": 1
+                },
+                {
+                    "body": "We might think that we know our closest celestial neighbour well, but it's kept one secret hidden until now: it's not round. In fact, it's shaped like a lemon.\n\nNew research, published in Nature this week, reveals that the moon is less like a ball and more like squashed sphere, with a distinct lump. Ian Garrick-Bethell, one of the researchers involved in the new finding, claims that in fact it's \"like a lemon with an equatorial bulge.\" If that's hard to picture, imagine taking a water balloon and spinning on its axis: the rotation causes it to flatten out slightly, and that's how the moon looks.\n\nAll the measurements required to reach this finding were gathered using a laser altimeter to create maps of the moon's surface with unprecedented detail. From there, researchers were able to calculate the true topography of the moon, and understand its actual shape. Such attempts in the past have been hindered by the rough nature of the rocky satellite's surface.\n\nSo why is it that the moon isn't a perfect sphere? The researchers, from University of California, Santa Cruz, suggest that it's probably down to tidal heating which took place when the moon was much younger. Essentially, the orbital forces between Earth and moon could have generated friction in the moon's interior, causing it to deform into the shape it currently exhibits. As the moon's orbit grew larger, the forces reduced, but the shape remained. [Nature via NYT via TheVerge]\n\nPicture: NASA",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571388",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6806,
+                    "source": {
+                        "title": "www.gizmodo.com.au",
+                        "uri": "www.gizmodo.com.au"
+                    },
+                    "time": "21:58:00",
+                    "title": "The Moon Is Actually Shaped Like A Lemon",
+                    "uri": "200921270",
+                    "url": "http://www.gizmodo.com.au/2014/08/the-moon-is-actually-shaped-like-a-lemon/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Many people across the world are wondering why moon is shaped like a lemon. But the bulge is not sexy\n\nFor years moon has been at the centre of scientific research. It was this curiosity that led to the man takes first steps on the moon in 1969. Since then US-space agency NASA has studied the moon. And now the debate is about why the moon is shaped like a lemon. Initially scientists struggled to get to the depth of the story but not anymore.\n\nNow reports have surfaced pointing to the fact that scientists are now in a position to explain this. In a report published in the journal Nature, they have explained that the moon's large-scale topography could be the result of tidal forces that exerted pressure during the early days of the solar system.\n\nThis is what study lead author Ian Garrick-Bethell, of the University of California, Santa Cruz, has to say on the subject. \"What is the origin of that asymmetry? Chipping away at this problem of the shape of the moon can give us insight into those types of fundamental geology problems.\"\n\nScientists believe that moon was formed billion of years ago that too following a mysterious planet-size body slamming into the young Earth some 4.5 billion years ago. This resulted into the formation of the moon that was born hot. As it was quite close to the earth, the moon was thus primed to be sculpted by Earth's gravity, claimed researchers.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571403",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6429,
+                    "source": {
+                        "title": "Northern Voices Online",
+                        "uri": "nvonews.com"
+                    },
+                    "time": "16:58:00",
+                    "title": "Moon shaped like a lemon: But the bulge is not sexy",
+                    "uri": "200921311",
+                    "url": "http://nvonews.com/moon-shaped-like-a-lemon-but-the-bulge-is-not-sexy/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Early tidal effects shaped the moon, according to a new study.\n\nThe study explains that the earth's powerful gravity tugged the moon into its oddball shape long ago.\n\nThe new findings could help researchers solve longstanding lunar mysteries, e.g., why it's near side is dominated by dark volcanic deposits while the far side is not.\n\nIn 1898, researchers had proposed an idea known as \"fossil bulge\" hypothesis that explained the bulge on the lunar surface.\n\n\"If you imagine spinning a water balloon, it will start to flatten at the poles and bulge at the equator,\" said Ian Garrick-Bethell, assistant professor of Earth and planetary sciences at UC Santa Cruz, according to a press release. \"On top of that you have tides due to the gravitational pull of the Earth, and that creates sort of a lemon shape with the long axis of the lemon pointing at the Earth.\"\n\nAccording to researchers, the moon formed from debris blasted into space when a mysterious planet-size body slammed into the newly formed Earth about 4.5 billion years ago. Researchers added that the moon was born hot and it came into existence near to Earth.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16539972",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6325,
+                    "source": {
+                        "title": "Counsel & Heal",
+                        "uri": "www.counselheal.com"
+                    },
+                    "time": "13:59:00",
+                    "title": "Here's Why The Moon Is Shaped Sort Of Like A Lemon",
+                    "uri": "200830510",
+                    "url": "http://www.counselheal.com/articles/10681/20140731/heres-why-moon-shaped-sort-lemon.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "Most of our readers probably think of the moon as a circle, or perhaps as a \"big pizza pie\" as one song puts it. Researchers have now found that it is actually shaped like a lemon. According to reports in Nature shifts in the moon's crust have led to a lemon shape. Orbital forces have slowly shaped it into this new form that has an equatorial bulge. Of course this all happened long before even our ancestors were alive which means that our understanding of the moon's shape has been wrong for some time. Scientist Ian Garrick-Bethell, from the University of California, Santa Cruz performed the research with his team. He used a laser altimeter to create super-accurate maps of the moon's surface, before calculating its topography. As with any new findings researchers will have to check his facts. His paper makes a convincing case for this shape. He believes that there was once much more lunar water than what we have seen so far. Shifts in the crust due to tides which shifted then froze apparently contributed to this form if his theory is correct. While this discovery is unlikely to bring any sudden scientific advances it is vital for helping us understand how our Moon interacts with the Earth. Scientists have also discovered water on Jupiter's moon as well and this finding about our nearby body could improve studies later on.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571392",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6077,
+                    "source": {
+                        "title": "Business Insider",
+                        "uri": "www.digitaljournal.com"
+                    },
+                    "time": "19:58:00",
+                    "title": "Scientific discovery changes how we view the moon",
+                    "uri": "200921296",
+                    "url": "http://www.digitaljournal.com/science/scientific-discovery-changes-how-we-view-the-moon/article/394010",
+                    "wgt": 1
+                },
+                {
+                    "body": "In a recent study conducted by some scientists it has been claimed that the reason behind the oblong shape of the moon has been revealed. If going by its terrestrial appearances, the moon is no where closer to being a perfectly round figure, rather has flat bumps on the sides.\n\nThe study about the shape of the moon was conducted by Ian Gerreck Bethell who is the lead author of the study. Ian was quoted saying \"Early tides heated the Moon's crust in different places, and those differences in heating in different areas gave the Moon most of its shape\".\n\nAn astrophysicist at the University of California, Ian Bethell has been was further quoted saying \"Later on, those tides warped the outside of the moon while it was cooling, and it froze in that warped shape,\". His report excerpts have been printed in the Agence France-Presse.\n\nIn further study of the moon's shape, the researchers have revealed that approximately some 4 billion years ago, when the moon was still in its infancy as a hot solar body, the impacts of the gravitational pull of the Earth and other object's activities had given the moon its current shape.\n\nIn a contribution to the study a team of the Massachusetts Institute of Technology had created a model similar of the topography of the moon. The researchers tried to create an exact model of the moon as it was a few billion years ago. This model was further used for studying the impacts and how the bulges were created.\n\nResearcher Ian Garrick Bethell further elaborated the research by stating an example of the a water balloon as to how it starts to flatten up on the pole area and get bulged on the middle when it is on a rotation spin just like the moon.",
+                    "date": "2014-08-01",
+                    "eventUri": "1081159",
+                    "id": "16571384",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.5961,
+                    "source": {
+                        "title": "rayhawkreview.com",
+                        "uri": "rayhawkreview.com"
+                    },
+                    "time": "00:58:00",
+                    "title": "Cause Behind the Lemon-Shape of Moon Revealed",
+                    "uri": "200921266",
+                    "url": "http://rayhawkreview.com/cause-behind-lemon-shape-moon-revealed/34542",
+                    "wgt": 1
+                },
+                {
+                    "body": "Planetary scientists use computer simulations to recreate the processes of the Moon's evolution.\n\nA team of scientists has mathematically recreated the processes that fashioned the Moon and subsequently described its shape as something less like a perfect sphere and more like a \"lemon with an equatorial bulge.\"\n\nIn addition to the lemon metaphor, planetary scientist Ian Garrick-Bethell of the University of California, Santa Cruz, explained the Moon's shape by conjuring up the image of a spinning water balloon. As the balloon spins, it will flatten at the poles and widen at the equator. The same holds true for the Moon.\n\nHowever, scientists noted that this did not add up, since the Moon barely spins and has no plate tectonics. The answer lies in a process known as tidal heating. Following the formation of the Moon, it was left with a thin crust and a molten interior. This remained the case for approximately 200 million years, but the gravitational forces inherent in the tidal heating process stretched the weak crust while it cooled atop the molten core.\n\nThis resulted in the Moon's compressed appearance. The equatorial bulge, however, came afterward, when the slowly rotating Moon shifted away from Earth. This move froze the tidal surges in place and ended the spinning of the celestial body.\n\nThe Moon possesses an off-center distribution of its mass, and this was likely created by massive volcanic eruptions that started approximately four billion years ago and lasted for nearly two billion years. The researchers noted that these episodes of volcanism altered the appearance of the Moon, just as the tidal processes had done before them.\n\nIn order to gather evidence for their theory, Garrick-Bethell and his team studied topographical maps of the Moon that were created through the use of a laser altimeter. They then ran a number of computer simulations in order to recreate the processes of the celestial body's evolution. According to Garrick-Bethell, the team found \"the exact ratios\" that they were expecting for each process involved in the Moon's transformation.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16571386",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.4866,
+                    "source": {
+                        "title": "thespacereporter.com",
+                        "uri": "thespacereporter.com"
+                    },
+                    "time": "22:58:00",
+                    "title": "Researchers explain Moon's lemon-like shape",
+                    "uri": "200921265",
+                    "url": "http://thespacereporter.com/2014/07/researchers-explain-moons-lemon-like-shape/",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 26,
+            "averageDate": "2014-07-31",
+            "avgCos": 0.5252,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1081159",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1081159",
+            "lang": "eng",
+            "storyDate": "2014-07-31",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-607011",
+            "variance": 0.2242
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-224895": {
+        "articles": {
+            "resultCount": 4,
+            "results": [
+                {
+                    "body": "Los resultados de la investigaci\u00f3n proporcionan una visi\u00f3n de la historia de la joven Luna, su evoluci\u00f3n orbital y su orientaci\u00f3n actual en el cielo.\n\nLa mayor parte de la forma general de la Luna se puede explicar teniendo en cuenta los efectos de la marea que actuaron en su historia temprana. Esta es la conclusi\u00f3n de un estudio realizado por investigadores de la Universidad de California Santa Cruz. Los resultados, publicados en la edici\u00f3n de este mi\u00e9rcoles de Nature, proporcionan una visi\u00f3n de la historia de la joven Luna, su evoluci\u00f3n orbital y su orientaci\u00f3n actual en el cielo, como resume el autor principal, Ian Garrick-Bethell, profesor asistente de Ciencias Terrestres y Planetarias en la Universidad de California Santa Cruz, en Estados Unidos. A medida que la Luna se enfri\u00f3 y solidific\u00f3 hace m\u00e1s de 4.000 millones de a\u00f1os, los efectos de esculpido de las fuerzas de la marea y la rotaci\u00f3n se congelaron. La idea de una protuberancia congelada de la marea rotacional, conocida como la hip\u00f3tesis de la 'protuberancia f\u00f3sil', fue descrita por primera vez en 1898.\n\nLos resultados indican que las variaciones en el espesor de la corteza de la Luna explican la mayor parte de la topograf\u00eda a gran escala\"Si usted se imagina qu\u00e9 hace girar un globo de agua, empieza a aplanarse en los polos y a abultarse en el ecuador\", pone como ejemplo Garrick-Bethell. \"Adem\u00e1s de eso, se producen mareas por la atracci\u00f3n gravitatoria de la Tierra y se crea una especie de forma de lim\u00f3n con el eje mayor apuntando a la Tierra\", a\u00f1ade. Pero este proceso de protuberancias f\u00f3siles no puede explicar por completo la forma actual de la Luna. En el nuevo documento, Garrick-Bethell y sus colegas incorporaron otros efectos de las mareas en su an\u00e1lisis y tuvieron en cuenta las cuencas que han dado forma a la topograf\u00eda de la Luna, adem\u00e1s de considerar el campo gravitatorio de la luna junto a su topograf\u00eda.\n\nLos esfuerzos por analizar la forma general de la Luna se complicaron por las grandes cuencas y los cr\u00e1teres creados por impactos de gran alcance que deforman la corteza lunar y expulsan muchas cantidades de material. \"Cuando tratamos de analizar la forma general de la Luna usando esferas arm\u00f3nicas, los cr\u00e1teres son como lagunas en los datos\", detalla Garrick-Bethell. Los resultados indican que las variaciones en el espesor de la corteza de la Luna causadas por el calentamiento de la marea durante su formaci\u00f3n explican la mayor parte de la topograf\u00eda a gran escala de la Luna, mientras que el resto est\u00e1 en consonancia con una protuberancia por la marea de rotaci\u00f3n congelada que se form\u00f3 m\u00e1s tarde.\n\nEl calentamiento de la marea y la deformaci\u00f3n de la marea de rotaci\u00f3n ten\u00edan efectos similares en la forma general de la Luna, lo que supone que \u00e9sta posee una ligera forma de lim\u00f3n con una protuberancia en el lado que da a la Tierra y otro bulto en el lado opuesto. Sin embargo, los dos procesos dejan firmas distintas en el campo gravitatorio de la Luna.\n\nDebido a que la corteza es m\u00e1s ligera que el manto subyacente, las se\u00f1ales de la gravedad revelan variaciones en el espesor de la corteza que fueron causadas por calentamiento de la marea. Curiosamente, los investigadores encontraron que el campo de gravedad global de la Luna ya no se alinea con la topograf\u00eda , como habr\u00eda sucedido cuando las protuberancias de la marea fueron congeladas en la forma de la Luna.\n\nLa Luna que ve\u00edamos hace mucho tiempo ha cambiado, por lo que ya no miramos la cara principal de la Luna\n\nEl eje principal de la forma general de la Luna (el eje largo del lim\u00f3n) est\u00e1 ahora separado de los ejes principales de gravedad por unos 34 grados. Si se excluyen las grandes cuencas de los datos, la diferencia sigue siendo de unos 30 grados. \"La Luna que ve\u00edamos hace mucho tiempo ha cambiado, por lo que ya no miramos la cara principal de la Luna\", afirma Garrick-Bethell.\n\n\"Los cambios en la distribuci\u00f3n de la masa modificaron la orientaci\u00f3n de la Luna. Los cr\u00e1teres eliminaron algo de masa y tambi\u00e9n hubo alteraciones internas, probablemente relacionadas con cuando la Luna se vuelve volc\u00e1nicamente activa\", agrega. Los detalles y las fechas de estos procesos son todav\u00eda inciertos pero Garrick-Bethell cree que el nuevo an\u00e1lisis debe ayudar a trabajar en los detalles de la historia temprana de la Luna. Si bien el nuevo estudio muestra que los efectos de la marea pueden dar cuenta de la forma general de la Luna, los procesos de la marea no explican las diferencias topogr\u00e1ficas entre el lado m\u00e1s cercano y el m\u00e1s lejano.",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16521137",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.845,
+                    "source": {
+                        "title": "20minutos.es - \u00daltimas Noticias",
+                        "uri": "www.20minutos.es"
+                    },
+                    "time": "11:09:00",
+                    "title": "Las fuerzas de la marea dieron leve forma de lim\u00f3n a la Luna - 20minutos.es",
+                    "uri": "200778772",
+                    "url": "http://www.20minutos.es/noticia/2206683/0/fuerzas-marea/leve-forma-limon/luna/",
+                    "wgt": 1
+                },
+                {
+                    "body": "MADRID, 30 Jul. (EUROPA PRESS) -\n\nLa mayor parte de la forma general de la Luna se puede explicar teniendo en cuenta los efectos de la marea que actuaron en su historia temprana. Esta es la conclusi\u00f3n de un estudio realizado por investigadores de la Universidad de California Santa Cruz.\n\nLos resultados, publicados en la edici\u00f3n de este mi\u00e9rcoles de 'Nature', proporcionan una visi\u00f3n de la historia de la joven Luna, su evoluci\u00f3n orbital y su orientaci\u00f3n actual en el cielo, como resume el autor principal, Ian Garrick-Bethell, profesor asistente de Ciencias Terrestres y Planetarias en la Universidad de California Santa Cruz, en Estados Unidos.\n\nA medida que la Luna se enfri\u00f3 y solidific\u00f3 hace m\u00e1s de 4.000 millones de a\u00f1os, los efectos de esculpido de las fuerzas de la marea y la rotaci\u00f3n se congelaron. La idea de una protuberancia congelada de la marea rotacional, conocida como la hip\u00f3tesis de la \"protuberancia f\u00f3sil\", fue descrita por primera vez en 1898.\n\n\"Si usted se imagina que hace girar un globo de agua, empieza a aplanarse en los polos y a abultarse en el ecuador\", pone como ejemplo Garrick-Bethell. \"Adem\u00e1s de eso, se producen mareas por la atracci\u00f3n gravitatoria de la Tierra y se crea una especie de forma de lim\u00f3n con el eje mayor apuntando a la Tierra\", a\u00f1ade.\n\nPero este proceso de protuberancias f\u00f3siles no puede explicar por completo la forma actual de la Luna. En el nuevo documento, Garrick-Bethell y sus colegas incorporaron otros efectos de las mareas en su an\u00e1lisis y tuvieron en cuenta las cuencas que han dado forma a la topograf\u00eda de la Luna, adem\u00e1s de considerar el campo gravitatorio de la luna junto a su topograf\u00eda.\n\nLos esfuerzos por analizar la forma general de la Luna se complicaron por las grandes cuencas y los cr\u00e1teres creados por impactos de gran alcance que deforman la corteza lunar y expulsan muchas cantidades de material. \"Cuando tratamos de analizar la forma general de la Luna usando esferas arm\u00f3nicas, los cr\u00e1teres son como lagunas en los datos\", detalla Garrick-Bethell.\n\nLos resultados indican que las variaciones en el espesor de la corteza de la Luna causadas por el calentamiento de la marea durante su formaci\u00f3n explican la mayor parte de la topograf\u00eda a gran escala de la Luna, mientras que el resto est\u00e1 en consonancia con una protuberancia por la marea de rotaci\u00f3n congelada que se form\u00f3 m\u00e1s tarde.\n\nRelacionadas As\u00ed lucen la Tierra y la Luna vistas desde Saturno Expertos piden a la NASA reconsiderar un regreso a la Luna El mundo celebra el 45 aniversario del \"primer gran paso de la Humanidad\" en la Luna\n\nUn trabajo anterior de Garrick-Bethell y algunos de los mismos coautores describe los efectos simult\u00e1neos de la extensi\u00f3n de las mareas y el calentamiento de la corteza de la Luna, hace 4.400 millones de a\u00f1os, cuando la corteza exterior s\u00f3lida a\u00fan flotaba en un oc\u00e9ano de roca fundida.\n\nEl calentamiento de la marea habr\u00eda provocado que la corteza sea m\u00e1s delgada en los polos y se formara una corteza m\u00e1s gruesa en las regiones en l\u00ednea con la Tierra. Publicado en la revista Science en 2010, ese estudio previo encontr\u00f3 que la forma de un \u00e1rea topogr\u00e1fica inusual en la Luna, las monta\u00f1as de la cara oculta, fue consistente con los efectos del calentamiento de la marea durante la formaci\u00f3n de la corteza.\n\n\"En 2010, encontramos un \u00e1rea que se ajusta al efecto de calentamiento de la marea, pero ese estudio dej\u00f3 abierta la explicaci\u00f3n del resto de la forma de la Luna y no incluy\u00f3 la deformaci\u00f3n por la marea de rotaci\u00f3n. En este trabajo hemos tratado de tener en cuenta todas estas consideraciones juntas\", detalla Garrick-Bethell.\n\nUNA LEVE FORMA DE LIM\u00d3N\n\nEl calentamiento de la marea y la deformaci\u00f3n de la marea de rotaci\u00f3n ten\u00edan efectos similares en la forma general de la Luna, lo que supone que la Luna posee una ligera forma de lim\u00f3n con una protuberancia en el lado que da a la Tierra y otro bulto en el lado opuesto. Sin embargo, los dos procesos dejan firmas distintas en el campo gravitatorio de la Luna.\n\nDebido a que la corteza es m\u00e1s ligera que el manto subyacente, las se\u00f1ales de la gravedad revelan variaciones en el espesor de la corteza que fueron causadas por calentamiento de la marea. Curiosamente, los investigadores encontraron que el campo de gravedad global de la Luna ya no se alinea con la topograf\u00eda , como habr\u00eda sucedido cuando las protuberancias de la marea fueron congeladas en la forma de la Luna.\n\nEl eje principal de la forma general de la Luna (el eje largo del lim\u00f3n) est\u00e1 ahora separado de los ejes principales de gravedad por unos 34 grados. Si se excluyen las grandes cuencas de los datos, la diferencia sigue siendo de unos 30 grados.\n\n\"La Luna que ve\u00edamos hace mucho tiempo ha cambiado, por lo que ya no miramos la cara principal de la Luna\", afirma Garrick-Bethell. \"Los cambios en la distribuci\u00f3n de la masa modificaron la orientaci\u00f3n de la Luna. Los cr\u00e1teres eliminaron algo de masa y tambi\u00e9n hubo alteraciones internas, probablemente relacionadas con cuando la Luna se vuelve volc\u00e1nicamente activa\", agrega.\n\nLos detalles y las fechas de estos procesos son todav\u00eda inciertos pero Garrick-Bethell cree que el nuevo an\u00e1lisis debe ayudar a trabajar en los detalles de la historia temprana de la Luna. Si bien el nuevo estudio muestra que los efectos de la marea pueden dar cuenta de la forma general de la Luna, los procesos de la marea no explican las diferencias topogr\u00e1ficas entre el lado m\u00e1s cercano y el m\u00e1s lejano.",
+                    "date": "2014-07-30",
+                    "eventUri": "1081159",
+                    "id": "16484822",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8431,
+                    "source": {
+                        "title": "europapress.es",
+                        "uri": "www.europapress.es"
+                    },
+                    "time": "17:09:00",
+                    "title": "Las fuerzas de marea dieron leve forma de lim\u00f3n a la Luna - Europa Press",
+                    "uri": "200668450",
+                    "url": "http://www.europapress.es/ciencia/astronomia/noticia-fuerzas-marea-dieron-leve-forma-limon-luna-20140730190811.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "10:33 A.M. Banco de Nueva York confirma que no pagar\u00e1 deuda de Argentina\n\nLlena, en cuarto creciente o menguante, la Luna, por conocida que resulte para los terr\u00edcolas, tiene sus misterios. Un equipo de investigadores propone una explicaci\u00f3n a su forma, que no es la de una esfera perfecta.\n\nEl sat\u00e9lite natural de la Tierra no es exactamente esf\u00e9rico, sino ligeramente achatado. La Luna presenta una ligera hinchaz\u00f3n en su cara visible desde la Tierra, y otra en la cara oculta.\n\nEl equipo de Ian Garrick-Bethell en la Universidad de California explica, en un estudio publicado en la revista Nature, la forma particular por los \"efectos de marea\", las fuerzas gravitacionales ejercidas por la Tierra durante la infancia de la Luna, hace 4.400 millones de a\u00f1os.\n\nEl sistema solar se form\u00f3 hace unos 4.500 millones de a\u00f1os. Conforme al modelo que hoy es corrientemente admitido, la Luna habr\u00eda nacido de una colisi\u00f3n masiva padecida por la Tierra, que se acababa de formar.\n\nSeg\u00fan los investigadores, las primeras fuerzas de marea ejercidas por la Tierra, que entonces estaba mucho m\u00e1s cercana a la Luna, calentaron de forma desigual, seg\u00fan los lugares, la corteza de la Luna, cuando entonces \u00e9sta era un oc\u00e9ano de rocas en fusi\u00f3n. Este fen\u00f3meno dio a la Luna su forma, ligeramente alargada como un lim\u00f3n.\n\nM\u00e1s tarde, cuando la Luna se enfriaba, las fuerzas de las mareas deformaron el exterior de la Luna y fijaron sus irregularidades.\n\nLa Luna se sit\u00faa a una distancia media de la Tierra de 384.000 km y se aleja de ella unos 3,8 cm por a\u00f1o. Su circunferencia en el ecuador es de 10.920 km, es decir 3,7 veces inferior a la de la Tierra (40.000 km).",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16545838",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8405,
+                    "source": {
+                        "title": "La Naci\u00f3n",
+                        "uri": "www.nacion.com"
+                    },
+                    "time": "16:33:00",
+                    "title": "Luna no es una esfera perfecta debido a las mareas - La Naci\u00f3n Costa Rica",
+                    "uri": "200845968",
+                    "url": "http://www.nacion.com/vivir/ciencia/Luna-esfera-perfecta-debido-mareas_0_1430057110.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Llena, en cuarto creciente o menguante, la luna, por conocida que nos resulte ya que es nuestra compa\u00f1era fiel todas las noches, tiene sus misterios. Un equipo de investigadores explica en el \u00faltimo n\u00famero de la revista Nature cual es su forma, que no es la de una esfera perfecta.\n\nEl sat\u00e9lite natural de la Tierra no es exactamente esf\u00e9rico, sino ligeramente achatado. La luna presenta una ligera hinchaz\u00f3n en su cara visible desde la Tierra, y otra en la cara oculta. El equipo de Ian Garrick-Bethell, de la Universidad de California, asegura que esta forma particular se debe a los \"efectos de marea\", las fuerzas gravitacionales ejercidas por el planeta durante la infancia de la luna, hace 4.400 millones de a\u00f1os.\n\nEl Sistema Solar se form\u00f3 hace unos 4.500 millones de a\u00f1os, y conforme al modelo que actualmente es admitido, el sat\u00e9lite habr\u00eda nacido por una colisi\u00f3n masiva padecida por la Tierra, que se acababa de nacer. Seg\u00fan los investigadores, las primeras fuerzas de marea ejercidas por la Tierra, que entonces estaba mucho m\u00e1s pr\u00f3xima a la luna, la calentaron de forma desigual la corteza del sat\u00e9lite cuando a\u00fan era un oc\u00e9ano de rocas en fusi\u00f3n. Este fen\u00f3meno dio a la luna su forma actual, ligeramente alargada, como un lim\u00f3n. M\u00e1s tarde, mientras se enfriaba, las fuerzas de las mareas deformaron el exterior y fijaron permanentemente sus irregularidades.\n\nLa luna se sit\u00faa a una distancia media de la Tierra de 384.000 km y se aleja de ella unos 3,8 cm por a\u00f1o. Su circunferencia en el ecuador es de 10.920 km, es decir 3,7 veces inferior a la de la Tierra (40.000 km).",
+                    "date": "2014-07-31",
+                    "eventUri": "1081159",
+                    "id": "16526041",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.745,
+                    "source": {
+                        "title": "La Voz de Galicia",
+                        "uri": "www.lavozdegalicia.es"
+                    },
+                    "time": "14:19:00",
+                    "title": "Por qu\u00e9 la luna no es una esfera perfecta",
+                    "uri": "200793647",
+                    "url": "http://www.lavozdegalicia.es/noticia/sociedad/2014/07/31/luna-esfera-perfecta/00031406813842282928577.htm",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 4,
+            "averageDate": "2014-07-31",
+            "avgCos": 0.8184,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1081159",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1049759",
+            "lang": "spa",
+            "storyDate": "2014-07-31",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-224895",
+            "variance": 0.3302
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 36,
+        "CCAArticleMatchRatio": 0.45,
+        "CCAAvgCosSim": 0.7963208333333334,
+        "CCAAvgMatchWgt": 75.22222222222223,
+        "_articleUri1": "200778772",
+        "_articleUri2": "200660568",
+        "_datetime": "2015-01-20 12:43:26",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "e7e700df-6a06-44ea-a4f3-f736278fc36b-224895",
+        "_storyUri2": "850f305d-14db-4c75-b547-79470a557ea3-607011",
+        "_username": "Evgenia Belyaeva",
+        "artCount1": 4,
+        "artCount2": 26,
+        "avgCosSimStory1": 0.8184,
+        "avgCosSimStory2": 0.5252,
+        "categorySim": 0,
+        "conceptCosSim": 0.3034313163031096,
+        "conceptJaccardSim": 0.1044776119402985,
+        "coreTime1": 127793.15,
+        "coreTime2": 127791.85,
+        "coreTimeStDev1": 9.232291607904324,
+        "coreTimeStDev2": 7.961346875816995,
+        "entityCosSim": 0.3556714423998671,
+        "entityJaccardSim": 0.2727272727272727,
+        "extractedDateJaccardSim": 1,
+        "extractedDatesStory1": 1,
+        "extractedDatesStory2": 1,
+        "hasSameLocation": -1,
+        "keywordCosSim": 0.2930734076755789,
+        "keywordJaccardSim": 0.07142857142857142,
+        "lang1": "spa",
+        "lang2": "eng",
+        "matchingDateCount": 1,
+        "matchingDateRatio": 1,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 17,
+        "storyQuality2": 21,
+        "timeAvg1": 127808.7916666667,
+        "timeAvg2": 127812.3903846154,
+        "timeStDev1": 9.232291607904324,
+        "timeStDev2": 9.179516835824794,
+        "varianceStory1": 0.3302,
+        "varianceStory2": 0.2242
+    }
+}

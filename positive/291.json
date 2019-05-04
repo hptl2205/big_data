@@ -1,0 +1,445 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-384915": {
+        "articles": {
+            "resultCount": 9,
+            "results": [
+                {
+                    "body": "Illinois researchers have developed materials that not only heal, but regenerate.  The restorative material is delivered through two, isolated fluid streams (dyed red and blue).  The liquid immediately gels and later hardens, resulting in recovery of the entire damaged region.  This image is halfway through the restoration process.\n Illinois researchers have developed materials that not only heal, but regenerate.  Until now, self-repairing materials could only bond tiny microscopic cracks.  The new regenerating materials fill in large cracks and holes by regrowing material.\n Led by professor Scott White, the research team comprises professors Jeffry S. Moore and Nancy Sottos and graduate students Brett Krull, Windy Santa Cruz and Ryan Gergely.  They report their work in the May 9 issue of the journal Science.\n \"We have demonstrated repair of a nonliving, synthetic materials system in a way that is reminiscent of repair-by-regrowth as seen in some living systems,\" said Moore, a professor of chemistry.\n Such self-repair capabilities would be a boon not only for commercial\ngoods - imagine a mangled car bumper that repairs itself within minutes of an accident - but also for parts and products that are difficult to replace or repair, such as those used in aerospace applications.\n The regenerating capabilities build on the team's previous work in developing vascular materials.  Using specially formulated fibers that disintegrate, the researchers can create materials with networks of capillaries inspired by biological circulatory systems.\n \"Vascular delivery lets us deliver a large volume of healing agents - which, in turn, enables restoration of large damage zones,\" said Sottos, a professor of materials science and engineering.  \"The vascular approach also enables multiple restorations if the material is damaged more than once.\" \"\nFor regenerating materials, two adjoining, parallel capillaries are filled with regenerative chemicals that flow out when damage occurs.  The two liquids mix to form a gel, which spans the gap caused by damage, filling in cracks and holes.  Then the gel hardens into a strong polymer, restoring the plastic's mechanical strength.\n \"We have to battle a lot of extrinsic factors for regeneration, including gravity,\" said study leader White, a professor of aerospace engineering.  \"The reactive liquids we use form a gel fairly quickly, so that as it's released it starts to harden immediately.  If it didn't, the liquids would just pour out of the damaged area and you'd essentially bleed out.  Because it forms a gel, it supports and retains the fluids.  Since it's not a structural material yet, we can continue the regrowth process by pumping more fluid into the hole.\" \"\nThe team demonstrated their regenerating system on the two biggest classes of commercial plastics: thermoplastics and thermosets.  The researchers can tune the chemical reactions to control the speed of the gel formation or the speed of the hardening, depending on the kind of damage.  For example, a bullet impact might cause a radiating series of cracks as well as a central hole, so the gel reaction could be slowed to allow the chemicals to seep into the cracks before hardening.\n The researchers envision commercial plastics and polymers with vascular networks filled with regenerative agents ready to be deployed whenever damage occurs, much like biological healing.  Their previous work established ease of manufacturing, so now they are working to optimize the regenerative chemical systems for different types of materials.\n \"For the first time, we've shown that you can regenerate lost material in a structural polymer.  That's the kicker here,\" White said, \"Prior to this work, if you cut off a piece of material, it's gone.  Now we've shown that the material can actually regrow.\" \"\nMoore, Sottos and White also are affiliated with the Beckman Institute for Advanced Science and Technology at the U. of I. The Air Force Office of Scientific Research supported this work.\n Liz Ahlberg | University of Illinois\nFurther information:\nhttp://news.illinois.edu/news/14/0508plastic_ScottWhite_JeffryMoore_NancySottos.html",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11329765",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.8026,
+                    "source": {
+                        "title": "www.innovations-report.com",
+                        "uri": "www.innovations-report.com"
+                    },
+                    "time": "10:56:00",
+                    "title": "Regenerating plastic grows back after damage",
+                    "uri": "181926199",
+                    "url": "http://www.innovations-report.com/html/report/materials-science/regenerating-plastic-grows-back-after-damage.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "A new plastic that \"heals itself\" has been designed, meaning your cracked phone screen or broken tennis racquet could mend its own wounds.\n The polymer automatically patches holes 3cm wide, 100 times bigger than before.\n Inspired by the human blood clotting system, it contains a network of capillaries that deliver healing chemicals to damaged areas.\n The new material, created by engineers at the University of Illinois, is described in Science journal.\n For decades scientists have dreamed of plastics that heal themselves like human skin.\n Cracks in water pipes and car bonnets would seal up.  Satellites could repair their own damage.  Broken electronic chips in laptops and mobile phones would spontaneously sort out their own problems.\n One of the first big breakthroughs came in 2001 at the University of Illinois.  Prof Scott White and colleagues infused a polymer with microscopic capsules containing a liquid healing agent.  When the material cracked, the chemicals were released and bridged the gaps.\n More recently, concrete, water-resistant coatings, and even electrical circuits have been engineered with self-healing properties.\n But even the best self-healing plastics and polymers can only repair small-scale damage, the Science magazine authors note.\n \"Although self-healing of microscopic defects has been demonstrated, the re-growth of material lost through catastrophic damage requires a regenerative-like approach,\" said Prof White.\n To fix larger breakages, he and his team have designed a new, vascular system - inspired by the arteries and veins of the human body.\n A network of channels delivers a healing agent to the site of damage.\n The chemicals arrive via two separate streams.  They combine to seal the gap in a two-stage reaction.  Initially, they form a gel scaffold across the hole.  The gel then slowly hardens into a robust, solid structure.\n \"We filled regions exceeding 35mm within 20 minutes, and restored mechanical function within three hours,\" the researchers wrote in Science.\n Tests showed the material recovered about 62% of its original strength.\n The new material paves the way for future polymers that can recover from ballistic impacts, such as bullets, bombs or rockets.\n Its design was praised by engineers Zhouzhou Zhao and Prof Ellen Arruda, of the University of Michigan.\n \"This innovative approach enables restoration of mechanical integrity to a damage volume that is roughly 100 times the largest defect previously healed in this manner,\" they wrote in Science.\n \"Vascular systems can potentially eliminate fracture in materials by preventing small, noncritical cracks from propagating to critical sizes.\" \"\nHowever, future materials which are \"truly regenerative\" will require a much more flexible repair system, the scientists admit.\n \"When damage is unpredictable and uncontrolled, more complex and interconnected vascular networks will be necessary to provide sufficient vascular coverage and redundancy to circumvent channel blockage,\" Prof White and his co-authors wrote.\n While recent advances in self-healing are exciting, \"the long-term performance of autonomously healed polymers has largely remained unexamined,\" said Prof Arruda and Mr Zhao.\n \"Methods are also needed to assess and monitor the potential healing ability after multiple repair events.\n \"Here again, elegant examples that have evolved in nature can inspire solutions.\" \"",
+                    "date": "2014-05-12",
+                    "eventUri": "725836",
+                    "id": "11565899",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7236,
+                    "source": {
+                        "title": "BBC Capital",
+                        "uri": "www.bbc.com"
+                    },
+                    "time": "12:46:00",
+                    "title": "Self-healing plastic mimics blood clotting",
+                    "uri": "182556007",
+                    "url": "http://www.bbc.com/news/science-environment-27296365",
+                    "wgt": 1
+                },
+                {
+                    "body": "A new plastic that \"heals itself\" has been designed, meaning your cracked phone screen or broken tennis racquet could one day mend its own wounds.\n The polymer automatically patches holes 3cm wide, 100 times bigger than before.\n Inspired by the human blood system, it contains a network of capillaries that deliver healing chemicals to damaged areas.\n The new material, created by engineers at the University of Illinois, is described in Science journal.\n For decades scientists have dreamed of structures that heal like a plant or an animal heals a wound.\n Cracks in water pipes and car bonnets would seal up.  Satellites could repair their own damage.  Broken electronic chips in laptops and mobile phones would spontaneously sort out their own problems.\n One of the first big breakthroughs came in 2001 at the University of Illinois.  Prof Scott White and colleagues infused a polymer with microscopic capsules containing a liquid healing agent.  When the material cracked, the chemicals were released and bridged the gaps.\n More recently, concrete, water-resistant coatings, and even electrical circuits have been engineered with self-healing properties.\n But even the best self-healing plastics and polymers can only repair small-scale damage, the Science magazine authors note.\n \"Although self-healing of microscopic defects has been demonstrated, the re-growth of material lost through catastrophic damage requires a regenerative-like approach,\" said Prof White.\n To fix larger breakages, he and his team have designed a new, vascular system - inspired by the arteries and veins of the human body.\n A network of channels delivers a healing agent to the site of damage.\n The chemicals arrive via two separate streams.  They combine to seal the gap in a two-stage reaction.  Initially, they form a gel scaffold across the hole.  The gel then slowly hardens into a robust, solid structure.\n \"We filled regions exceeding 35mm within 20 minutes, and restored mechanical function within three hours,\" the researchers wrote in Science.\n Tests showed the material recovered about 62% of its original strength.\n The new material paves the way for future polymers that can recover from ballistic impacts, such as bullets, bombs or rockets.\n Its design was praised by engineers Zhouzhou Zhao and Prof Ellen Arruda, of the University of Michigan.\n \"This innovative approach enables restoration of mechanical integrity to a damage volume that is roughly 100 times the largest defect previously healed in this manner,\" they wrote in Science.\n \"Vascular systems can potentially eliminate fracture in materials by preventing small, noncritical cracks from propagating to critical sizes.\" \"\nHowever, future materials which are \"truly regenerative\" will require a much more flexible repair system, the scientists admit.\n \"When damage is unpredictable and uncontrolled, more complex and interconnected vascular networks will be necessary to provide sufficient vascular coverage and redundancy to circumvent channel blockage,\" Prof White and his co-authors wrote.\n While recent advances in self-healing are exciting, \"the long-term performance of autonomously healed polymers has largely remained unexamined,\" said Prof Arruda and Mr Zhao.\n \"Methods are also needed to assess and monitor the potential healing ability after multiple repair events.\n \"Here again, elegant examples that have evolved in nature can inspire solutions.\" \"",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11324023",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.7194,
+                    "source": {
+                        "title": "BBC",
+                        "uri": "www.bbc.co.uk"
+                    },
+                    "time": "08:58:00",
+                    "title": "Self-healing plastic inspired by blood",
+                    "uri": "181903217",
+                    "url": "http://www.bbc.co.uk/news/science-environment-27296365#sa-ns_mchannel%3Drss%26ns_source%3DPublicRSS20-sa",
+                    "wgt": 1
+                },
+                {
+                    "body": "A new breakthrough in \"self-healing\" plastics has scientists looking forward to a future in which broken smartphones, utility pipes, and even satellites can repair themselves.\n Developed by researchers at the University of Illinois, the new polymer is 100 times stronger then previously designed self-repairing plastics, making it capable of fixing holes as wide as 3 cm.\n According to BBC News, researchers were inspired by the veins and arteries found in the human body, and moved to recreate a synthetic vascular system capable of delivering the liquid healing agent needed to patch holes that occur.\n \"Although self-healing of microscopic defects has been demonstrated, the re-growth of material lost through catastrophic damage requires a regenerative-like approach,\" Professor Scott White, one of the lead researchers at the University of Illinois, told the news outlet.\n Previously, scientists filled polymers with a capsule containing a specific chemical capable of making repairs.  When the polymer was penetrated, the liquid was released and \"bridged\" the newly created gaps.\n By recreating a network similar to the human vascular system, scientists developed a much faster way to distribute the healing chemicals, which now arrive in two different streams and combine to spread a gel-like substance over the affected area.  When the gel hardens, the plastic regains roughly 62 percent of its original strength.\n \"We filled regions exceeding 35mm within 20 minutes, and restored mechanical function within three hours,\" the researchers wrote in an article for Science.\n \"Vascular systems can potentially eliminate fracture in materials by preventing small, noncritical cracks from propagating to critical sizes,\" they added.\n While the breakthrough is impressive, White and his fellow researchers stated that further research would be needed, and an even more effective distribution system would be required before the plastic would be able to repair itself after more devastating ruptures.  In the future, scientists would like products to be able to repair themselves after suffering from bullet strikes and even bomb damage.\n \"When damage is unpredictable and uncontrolled, more complex and interconnected vascular networks will be necessary to provide sufficient vascular coverage and redundancy to circumvent channel blockage,\" Prof White and his co-authors wrote.\n Until then, let's just hope they figure out a way to fix all these broken smartphone screens.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11376903",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6892,
+                    "source": {
+                        "title": "RT (Russia Today)",
+                        "uri": "rt.com"
+                    },
+                    "time": "19:47:00",
+                    "title": "Scientists create 'self-healing' plastic inspired by human vascular system",
+                    "uri": "182040149",
+                    "url": "http://rt.com/usa/157956-scientists-create-self-healing-plastic/",
+                    "wgt": 1
+                },
+                {
+                    "body": "The restorative material is delivered through two, isolated fluid streams (dyed red and blue).\n The liquid immediately gels and later hardens, resulting in recovery of the entire damaged region.\n \"We have demonstrated repair of a non-living, synthetic materials system in a way that is reminiscent of repair-by-regrowth as seen in some living systems,\" said Jeffry S. Moore, a professor of chemistry at University of Illinois.\n Such self-repair capabilities would be a boon not only for commercial goods but also for parts and products that are difficult to replace or repair, such as those used in aerospace applications.\n The regenerating capabilities build on the team's previous work in developing vascular materials.\n Using specially formulated fibres that disintegrate, the researchers can create materials with networks of capillaries inspired by biological circulatory systems.\n \"Vascular delivery lets us deliver a large volume of healing agents - which, in turn, enables restoration of large damage zones,\" said Nancy Sottos, a professor of materials science and engineering.\n The vascular approach also enables multiple restorations if the material is damaged more than once.\n The team demonstrated their regenerating system on the two biggest classes of commercial plastics: thermoplastics and thermosets.\n They envision commercial plastics and polymers with vascular networks filled with regenerative agents ready to be deployed whenever damage occurs, much like biological healing.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11314475",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6521,
+                    "source": {
+                        "title": "Sify",
+                        "uri": "www.sify.com"
+                    },
+                    "time": "06:53:00",
+                    "title": "Plastic that grows back after damage",
+                    "uri": "181879230",
+                    "url": "http://www.sify.com/news/plastic-that-grows-back-after-damage-news-international-ofjluugaeej.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Materials that have the ability to heal and regenerate have been developed by researchers.\n Until now, self-repairing materials could only bond tiny microscopic cracks.  The new regenerating materials fill in large cracks and holes by regrowing material.\n Led by professor Scott White, the research team comprises professors Jeffry S. Moore and Nancy Sottos and graduate students Brett Krull, Windy Santa Cruz and Ryan Gergely.\n The regenerating capabilities build on the team's previous work in developing vascular materials.  Using specially formulated fibers that disintegrate, the researchers can create materials with networks of capillaries inspired by biological circulatory systems.\n For regenerating materials, two adjoining, parallel capillaries are filled with regenerative chemicals that flow out when damage occurs.  The two liquids mix to form a gel, which spans the gap caused by damage, filling in cracks and holes.  Then the gel hardens into a strong polymer, restoring the plastic's mechanical strength.\n The study has been published in the journal Science.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11349678",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6418,
+                    "source": {
+                        "title": "Medindia",
+                        "uri": "www.medindia.net"
+                    },
+                    "time": "15:00:00",
+                    "title": "Self-healing Plastic Developed",
+                    "uri": "181977301",
+                    "url": "http://www.medindia.net/news/self-healing-plastic-developed-135838-1.htm",
+                    "wgt": 1
+                },
+                {
+                    "body": "Scientists have invented a system that enables plastics to repair and regenerate by themselves.\n Researchers at the University of Illinois have managed to develop a type of plastic that is able to heal and completely regenerate all by itself, which could be a big benefit in situations where products are difficult to repair or replace, such as a part of an aeroplane or vehicle.\n The team of researchers, led by Professor Scott White at the The Beckman Institute for Advanced Science and Technology, have created a brand new system that imitates the way blood clots form in biological circulatory systems, taking a vascular approach whereby non-living, synthetic materials contain networks of capillaries that can jump into action when the material is damaged, even if it happens more than once.\n Their research paper, entitled \"Restoration of Large Damage Volumes in Polymers\" is published in the journal Science.\n Until now, self-repairing materials have only been able to bond microscopic cracks.  With the new system, if the plastic is damaged, regenerative chemicals flow out from two adjoining, parallel capillaries.\n When the two liquids mix together, they form a gel that is able to fill in any cracks or holes caused by the damage and then harden within a few minutes into a strong polymer, which is able to completely restore the plastic's mechanical strength.\n The time sequence of the regeneration system repairing a bullet hole in a sheet of plasticNathan Bajandas, Beckman Institute, UIUC\n\"What's important about our approach is that we've been able to isolate the chemical components for two separate reactions to occur simultaneously, into very stable channel networks,\" explains White in the video.\n \"One of the critical features that we have been able to demonstrate is that we have the ability to tune the kinetics of these reactions independently, so we can speed up the gelation reaction or slow it down.  We can also speed up or slow down the hardening reaction to allow you to recover structural materials.\" \"\nThe researchers tested their regenerating system out on thermoplastics and thermosets, which are two of the most commonly used plastics.\n Even if the damage is caused by a bullet hole, which sets off a radiating series of micro cracks, by being able to slow down or speed up the gel's hardening reaction, the gel will have time to seep into the cracks before hardening.\n \"One of the most exciting things about the kind of work we're doing right now is that regeneration is just the first step towards the ultimate goal, which is to have a material system that continually remodels and regenerates itself.\n \"So just like the way that human bones remodel throughout your lifetime, we could see engineering structures that continuously regenerate and perhaps extend their lifetime beyond our wildest dreams.\" \"",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11370682",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6188,
+                    "source": {
+                        "title": "International Business Times UK",
+                        "uri": "www.ibtimes.co.uk"
+                    },
+                    "time": "18:48:00",
+                    "title": "Scientists Create Self-Healing Regenerative Plastic",
+                    "uri": "182025645",
+                    "url": "http://www.ibtimes.co.uk/scientists-create-self-healing-regenerative-plastic-1447934",
+                    "wgt": 1
+                },
+                {
+                    "body": "Good news for klutzes: this new plastic heals itself by oozing liquid, which can solidify to automatically fill holes and cracks -- just like blood clots to repair wounds.\n There have been bio-mimicking materials that could heal microscopic crack in the past, including ones made by Scott White at the University of Illinois at Urbana-Champaign -- who's also responsible for this new one.  This time round, though, he's developed a plastic which is lined with a kind of artificial vascular system, like the veins and arteries that carry blood around the human body, which can repair far larger breaks.\n They system carries two different liquids -- one containing long, thin molecules and the other three-sided molecules -- in separate channels.  When the fluids mix they react, joining together to create a scaffold, forming a thick gel.  A sprinkling of other ingredients in the mix cause the gel to harden over the course of the next few hours.\n So, when the plastic is fractured, the vascular system is damaged and the two liquids leak out, mixing with each other and in turn forming the restorative gel.  In test, the system was able to fill a 4-millimeter hole with 35 millimeters of surrounding cracks within 20 minutes, and hardened in about 3 hours.  The patch was about 60 per cent as strong as the original plastic -- so not full fighting strength, but pretty good nonetheless.  The research is published in Science.\n The researchers reckon that, where such ability is needed, it would be possible to create large sheets of plastic with criss-crossing channels, so that entire structures could recover from damage.  Jeff Moore, one of the researchers, explained to New Scientist:\n\"You pay the price for being able to repair this damage, but it is certainly one that nature has figured out how to tolerate.  If you just look to things like bone or trees, they are all vascularised.\" \"\nThe team sees remote yet safety-critical structures as an obvious application -- spacecraft, say, or drilling equipment at the bottom of deep wells.  For now, though, there's room for improvement: holes larger than 8 millimeters don't fill properly yet, as the gel sags before it hardens.  Hopefully using foams instead of gels should solve that problem.  [Science via New Scientist]",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11337282",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.5999,
+                    "source": {
+                        "title": "Gizmodo",
+                        "uri": "gizmodo.com"
+                    },
+                    "time": "12:33:00",
+                    "title": "This Self-Healing Plastic Oozes Goo That Clots Like Blood",
+                    "uri": "181947609",
+                    "url": "http://gizmodo.com/this-self-healing-plastic-oozes-goo-that-clots-like-blo-1573919262",
+                    "wgt": 1
+                },
+                {
+                    "body": "This image shows the liquids combining around the hole Pic: New Scientist\nA new type of plastic that can heal itself when damaged has been developed.\n Oozing fluids are used to plug holes in the material, similar to the way blood clots form to repair human cuts.\n The plastic is lined with a type of artificial vascular system, which can heal damage large enough to be seen by the naked eye.\n Two types of liquid run through the system, which turn into a thick gel within minutes when mixed.\n Within around three hours, the gel hardens to effectively repair the hole or crack.\n Researchers at the University of Illinois say larger sheets of plastic with criss-crossing channels of the liquids could be created.\n However, they warned the system could slightly weaken the strength of the material.\n Team member Jeff Moore told the New Scientist: \"You pay the price for being able to repair this damage, but it is certainly one that nature has figured out how to tolerate.\n \"If you just look to things like bone or trees, they are all vascularised.\" \"\nPotential uses are likely to be objects in locations that are hard to repair, such as spacecraft or drilling equipment at the bottom of deep wells.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11340407",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.5516,
+                    "source": {
+                        "title": "Sky News",
+                        "uri": "news.sky.com"
+                    },
+                    "time": "13:13:00",
+                    "title": "Fantastic Plastic: New Material Heals Itself",
+                    "uri": "181956056",
+                    "url": "http://news.sky.com/story/1258400/fantastic-plastic-new-material-heals-itself",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 9,
+            "averageDate": "2014-05-09",
+            "avgCos": 0.4713,
+            "categories": [
+                {
+                    "label": "Health/Alternative/Energy_Healing",
+                    "uri": "http://www.dmoz.org/Health/Alternative/Energy_Healing",
+                    "wgt": 30
+                }
+            ],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "725836",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "725836",
+            "lang": "eng",
+            "storyDate": "2014-05-09",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-384915",
+            "variance": 0.2779
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-162504": {
+        "articles": {
+            "resultCount": 10,
+            "results": [
+                {
+                    "body": "Investigadores de la Universidad de Illinois han desarrollado materiales que no s\u00f3lo se reparan, sino que adem\u00e1s se regeneran.  Hasta ahora, los materiales de autorreparaci\u00f3n s\u00f3lo pod\u00edan unir peque\u00f1as grietas microsc\u00f3picas.\n Estos nuevos materiales de regeneraci\u00f3n rellenan grietas y agujeros haciendo que el material vuelva a crecer.  Dirigido por el profesor Scott White, el equipo informa de su trabajo en la \u00faltima edici\u00f3n de la revista Science.\n \"Hemos demostrado la reparaci\u00f3n de un sistema no viviente, con materiales sint\u00e9ticos, de una manera que es una reminiscencia de la reparaci\u00f3n por rebrote tal y como se ha visto en algunos sistemas vivos\", dijo Jeffrey Moore , profesor de Qu\u00edmica.\n Estas capacidades de autorreparaci\u00f3n ser\u00edan de gran ayuda no s\u00f3lo para los bienes comerciales, sino tambi\u00e9n para piezas y productos que son dif\u00edciles de reemplazar o reparar, tales como los utilizados en aplicaciones aeroespaciales fuera de la Tierra.\n Las capacidades de regeneraci\u00f3n se basan en trabajos anteriores del equipo, especializado en el desarrollo de materiales vasculares.  Mediante el uso de fibras especialmente formuladas que se desintegran, los investigadores pueden crear materiales con redes capilares inspirados en los sistemas circulatorios biol\u00f3gicos.\n \"El reparto vascular nos permite administrar una gran cantidad de agentes de curaci\u00f3n que, a su vez, permite la restauraci\u00f3n de grandes zonas da\u00f1ados\", dijo Nancy Sottos, profesora de Ciencias de los Materiales e Ingenier\u00eda.  \"El enfoque vascular tambi\u00e9n permite m\u00faltiples restauraciones si el material est\u00e1 da\u00f1ado m\u00e1s de una vez\".\n Para la regeneraci\u00f3n de materiales, dos capilares paralelos adyacentes son rellenados de productos qu\u00edmicos de regeneraci\u00f3n que fluyen cuando se produce el da\u00f1o.  Los dos l\u00edquidos se mezclan para formar un gel que se extiende por el hueco causado por el da\u00f1o, rellanando las grietas y agujeros .  A continuaci\u00f3n, el gel se endurece en un pol\u00edmero fuerte restaurando la resistencia mec\u00e1nica del pl\u00e1stico.\n \"Tenemos que luchar contra un mont\u00f3n de factores extr\u00ednsecos para la regeneraci\u00f3n , entre ellas el peso \", dijo el l\u00edder del estudio White, un profesor de Ingenier\u00eda Aeroespacial.  \" Los l\u00edquidos reactivos que utilizamos forman un gel con bastante rapidez , por lo que a medida que se administran comienzan a endurecerse de inmediato.\n Si no fuera as\u00ed, los l\u00edquidos simplemente se verter\u00edan fuera de la zona da\u00f1ada y esencialmente se habr\u00eda desangrado.  Debido a que forma un gel, apoya y retiene los l\u00edquidos.  Puesto que a\u00fan no es un material estructural, podemos continuar el proceso de rebrote bombeando m\u00e1s fluido en el agujero.\n El equipo demostr\u00f3 su sistema de regeneraci\u00f3n de las dos clases principales de pl\u00e1sticos comerciales: termopl\u00e1sticos y termoestables.  Los investigadores pueden sintonizar las reacciones qu\u00edmicas para el control de la velocidad de la formaci\u00f3n de gel o la velocidad del endurecimiento , dependiendo de el tipo de da\u00f1o .\n Por ejemplo , un impacto de bala podr\u00eda causar una serie radiante de grietas , as\u00ed como un orificio central, por lo que la reacci\u00f3n del gel podr\u00eda ser disminuida para permitir que los productos qu\u00edmicos que se filtran en las grietas endurecezcan antes.\n Los investigadores prev\u00e9n pl\u00e1sticos comerciales y pol\u00edmeros con redes vasculares llenos de agentes regenerativos listos para desplegarse siempre que se produzca el da\u00f1o , al igual que la curaci\u00f3n biol\u00f3gica.  Su trabajo anterior estableci\u00f3 la facilidad de fabricaci\u00f3n, por lo que ahora se est\u00e1 trabajando en optimizar los sistemas qu\u00edmicos de regeneraci\u00f3n para los diferentes tipos de materiales.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11354371",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.677,
+                    "source": {
+                        "title": "europapress.es",
+                        "uri": "www.europapress.es"
+                    },
+                    "time": "15:48:00",
+                    "title": "Logran pl\u00e1sticos que vuelven a crecer tras sufrir da\u00f1os",
+                    "uri": "181989942",
+                    "url": "http://www.europapress.es/ciencia/laboratorio/noticia-logra-plasticos-vuelven-crecer-sufrir-danos-20140509171133.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Investigadores de la Universidad de Illinois han desarrollado materiales que no s\u00f3lo se reparan, sino que adem\u00e1s se regeneran.  Hasta ahora, los materiales de autorreparaci\u00f3n s\u00f3lo pod\u00edan unir peque\u00f1as grietas microsc\u00f3picas.\n Estos nuevos materiales de regeneraci\u00f3n rellenan grietas y agujeros haciendo que el material vuelva a crecer.  Dirigido por el profesor Scott White, el equipo informa de su trabajo en la \u00faltima edici\u00f3n de la revista Science.  \"Hemos demostrado la reparaci\u00f3n de un sistema no viviente, con materiales sint\u00e9ticos, de una manera que es una reminiscencia de la reparaci\u00f3n por rebrote tal y como se ha visto en algunos sistemas vivos\", dijo Jeffrey Moore, profesor de Qu\u00edmica.\n Estas capacidades de autorreparaci\u00f3n ser\u00edan de gran ayuda no s\u00f3lo para los bienes comerciales, sino tambi\u00e9n para piezas y productos que son dif\u00edciles de reemplazar o reparar, tales como los utilizados en aplicaciones aeroespaciales fuera de la Tierra.  Las capacidades de regeneraci\u00f3n se basan en trabajos anteriores del equipo, especializado en el desarrollo de materiales vasculares.  Mediante el uso de fibras especialmente formuladas que se desintegran, los investigadores pueden crear materiales con redes capilares inspirados en los sistemas circulatorios biol\u00f3gicos.\n Geles que fluyen por redes capilares\n\"El reparto vascular nos permite administrar una gran cantidad de agentes de curaci\u00f3n que, a su vez, permite la restauraci\u00f3n de grandes zonas da\u00f1ados\", dijo Nancy Sottos, profesora de Ciencias de los Materiales e Ingenier\u00eda.  \"El enfoque vascular tambi\u00e9n permite m\u00faltiples restauraciones si el material est\u00e1 da\u00f1ado m\u00e1s de una vez\".\n Para la regeneraci\u00f3n de materiales, dos capilares paralelos adyacentes son rellenados de productos qu\u00edmicos de regeneraci\u00f3n que fluyen cuando se produce el da\u00f1o.  Los dos l\u00edquidos se mezclan para formar un gel que se extiende por el hueco causado por el da\u00f1o, rellanando las grietas y agujeros .  A continuaci\u00f3n, el gel se endurece en un pol\u00edmero fuerte restaurando la resistencia mec\u00e1nica del pl\u00e1stico.\n \"Tenemos que luchar contra un mont\u00f3n de factores extr\u00ednsecos para la regeneraci\u00f3n , entre ellas el peso \", dijo el l\u00edder del estudio White, un profesor de Ingenier\u00eda Aeroespacial.  \"Los l\u00edquidos reactivos que utilizamos forman un gel con bastante rapidez, por lo que a medida que se administran comienzan a endurecerse de inmediato.\n Si no fuera as\u00ed, los l\u00edquidos simplemente se verter\u00edan fuera de la zona da\u00f1ada y esencialmente se habr\u00eda desangrado.  Debido a que forma un gel, apoya y retiene los l\u00edquidos.  Puesto que a\u00fan no es un material estructural, podemos continuar el proceso de rebrote bombeando m\u00e1s fluido en el agujero.\n El equipo demostr\u00f3 su sistema de regeneraci\u00f3n de las dos clases principales de pl\u00e1sticos comerciales: termopl\u00e1sticos y termoestables.  Los investigadores pueden sintonizar las reacciones qu\u00edmicas para el control de la velocidad de la formaci\u00f3n de gel o la velocidad del endurecimiento , dependiendo de el tipo de da\u00f1o .\n Por ejemplo, un impacto de bala podr\u00eda causar una serie radiante de grietas , as\u00ed como un orificio central, por lo que la reacci\u00f3n del gel podr\u00eda ser disminuida para permitir que los productos qu\u00edmicos que se filtran en las grietas endurecezcan antes.\n Los investigadores prev\u00e9n pl\u00e1sticos comerciales y pol\u00edmeros con redes vasculares llenos de agentes regenerativos listos para desplegarse siempre que se produzca el da\u00f1o , al igual que la curaci\u00f3n biol\u00f3gica.  Su trabajo anterior estableci\u00f3 la facilidad de fabricaci\u00f3n, por lo que ahora se est\u00e1 trabajando en optimizar los sistemas qu\u00edmicos de regeneraci\u00f3n para los diferentes tipos de materiales.",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11373828",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6751,
+                    "source": {
+                        "title": "El Economista (EcoDiario)",
+                        "uri": "ecodiario.eleconomista.es"
+                    },
+                    "time": "19:21:00",
+                    "title": "Crean pl&aacute;sticos que se regeneran y vuelven a crecer tras sufrir da&ntilde;os e impactos",
+                    "uri": "182033683",
+                    "url": "http://ecodiario.eleconomista.es/ciencia/noticias/5768041/05/14/Logran-crear-plasticos-que-se-regeneran-y-vuelven-a-crecer-tras-sufrir-danos.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Materiales artificiales que se regeneran.  Hasta ahora, lo m\u00e1ximo que se hab\u00eda logrado en este campo eran pol\u00edmeros capaces de recuperarse de \"heridas\" superficiales y peque\u00f1as.  Un equipo de investigadores de la Universidad de Illinois ha fabricado un nuevo pol\u00edmero similar al pl\u00e1stico que es capaz de cerrar el agujero de un impacto de bala en apenas media hora.\n Lo que el experto en materiales Scott White y su equipo han desarrollado es un pl\u00e1stico que se inspira en los organismos vivos.  Por su estructura pasa una red de canales con dos l\u00edquidos diferentes.  Cuando recibe da\u00f1o, esta red microsc\u00f3pica de tuber\u00edas se rompe y el material \"sangra\".  Al mezclarse, los l\u00edquidos forman un gel lo suficientemente s\u00f3lido como para soportar su propio peso y, al mismo tiempo, lo bastante poroso como para permitir la circulaci\u00f3n de m\u00e1s l\u00edquido.\n El gel va extendi\u00e9ndose hasta cerrar completamente el agujero o corte.  Un agujero de unos 30 mil\u00edmetros en una plancha de tres mil\u00edmetros de grosor se cierra completamente en solo 20 minutos.  El nuevo material tarda unas horas en endurecerse completamente.  Seg\u00fan han publicado en la revista Science, la composici\u00f3n del pol\u00edmero puede ajustarse para que cierre el agujero m\u00e1s r\u00e1pido, o lo haga m\u00e1s lento pero se endurezca antes.\n Seg\u00fan fuentes independientes al estudio, el nuevo material tiene una tasa de regeneraci\u00f3n 100 veces superior a los materiales descubiertos hasta ahora.  No todo es perfecto, sin embargo.  La resistencia de la zona cubierta por el nuevo material es de solo un 62% del compuesto original, y algunas condiciones como el viento o la lluvia pueden interferir en la regeneraci\u00f3n.\n Fuente:Gizmodo.- -",
+                    "date": "2014-05-08",
+                    "eventUri": "725836",
+                    "id": "11270300",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6585,
+                    "source": {
+                        "title": "Jornada",
+                        "uri": "www.jornadaonline.com"
+                    },
+                    "time": "21:50:00",
+                    "title": "Cient\u00edficos crean un pl\u00e1stico que se regenera",
+                    "uri": "181782273",
+                    "url": "http://www.jornadaonline.com/Internacional/113545",
+                    "wgt": 1
+                },
+                {
+                    "body": "Un nuevo avance en los pl\u00e1sticos 'autocurativos' permitir\u00e1 en el futuro que los 'smartphones', tuber\u00edas e incluso sat\u00e9lites espaciales rotos se reparen a s\u00ed mismos.\n El nuevo pol\u00edmero, desarrollado por los cient\u00edficos de la Universidad de Illinois, es 100 veces m\u00e1s fuerte que los pl\u00e1sticos 'autocurativos' dise\u00f1ados previamente, lo cual le permite reparar agujeros de 3 cent\u00edmetros de ancho, informa BBC News.  Los inventores del material se inspiraron en el sistema de coagulaci\u00f3n de la sangre en el cuerpo humano, llenando el nuevo material con un sistema vascular sint\u00e9tico capaz de distribuir el agente reparador l\u00edquido necesario para arreglar los agujeros.\n Al recrear una red similar al sistema vascular humano han desarrollado una manera mucho m\u00e1s r\u00e1pida que las anteriores para distribuir los productos qu\u00edmicos de curaci\u00f3n, que ahora llegan en dos corrientes diferentes y se combinan para difundir una sustancia gelatinosa sobre el \u00e1rea afectada.  Cuando el gel se endurece, el pl\u00e1stico recupera alrededor del 62% de su estructura original.  \"El gel llen\u00f3 una grieta de m\u00e1s 35 mil\u00edmetros en 20 minutos, y el funcionamiento mec\u00e1nico fue restaurado en tres horas\", explic\u00f3 el profesor Scott White, uno de los investigadores principales.\n Aunque el avance es realmente impresionante, el equipo se\u00f1al\u00f3 que se requiere m\u00e1s investigaci\u00f3n y un sistema de distribuci\u00f3n a\u00fan m\u00e1s eficaz antes de que el pl\u00e1stico pueda repararse a s\u00ed mismo despu\u00e9s de rupturas m\u00e1s devastadoras.  Seg\u00fan esperan los cient\u00edficos, en el futuro este material podr\u00eda ser capaz de repararse a s\u00ed mismo despu\u00e9s de ataques de bala e incluso de da\u00f1os por bomba.",
+                    "date": "2014-05-10",
+                    "eventUri": "725836",
+                    "id": "11461879",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6278,
+                    "source": {
+                        "title": "RT en Espa\u00f1ol",
+                        "uri": "actualidad.rt.com"
+                    },
+                    "time": "22:20:00",
+                    "title": "Crean un pl\u00e1stico 'autocurativo' que imita la coagulaci\u00f3n de la sangre en humanos",
+                    "uri": "182275594",
+                    "url": "http://actualidad.rt.com/ciencias/view/127664-plastico-autocurativo-coagulacion-sangre",
+                    "wgt": 1
+                },
+                {
+                    "body": "Publicado por De la Redacci\u00f3n en may 10th, 2014 y archivado bajo Geekbeat _________________________________________________________________________________________________________________________________\nUn pobrecito hablador nos cuenta: \"Un equipo de investigadores de la Universidad de Illinois ha fabricado un nuevo pol\u00edmero similar al pl\u00e1stico que es capaz de cerrar el agujero de un impacto de bala en apenas media hora.  Lo que el experto en materiales Scott White y su equipo han desarrollado es un pl\u00e1stico que se inspira en los organismos vivos.  Por su estructura pasa una red de canales con dos l\u00edquidos diferentes.  Cuando recibe da\u00f1o, esta red microsc\u00f3pica de tuber\u00edas se rompe y el material \"sangra\".  Al mezclarse, los l\u00edquidos forman un gel lo suficientemente s\u00f3lido como para soportar su propio peso y, al mismo tiempo, lo bastante poroso como para permitir la circulaci\u00f3n de m\u00e1s l\u00edquido.  El gel va extendi\u00e9ndose hasta cerrar completamente el agujero o corte.  Un agujero de unos 30 mil\u00edmetros en una plancha de tres mil\u00edmetros de grosor se cierra completamente en solo 20 minutos.  El nuevo material tarda unas horas en endurecerse completamente.  Seg\u00fan han publicado en la revista Science, la composici\u00f3n del pol\u00edmero puede ajustarse para que cierre el agujero m\u00e1s r\u00e1pido, o lo haga m\u00e1s lento pero se endurezca antes.\" \" M\u00e1s informaci\u00f3n en el art\u00edculo fuente, Crean un nuevo pl\u00e1stico que regenera un impacto de bala en 20 minutos - Gizmodo y en ingl\u00e9s en Regenerating Plastic Grows Back After Damage - University of Illinois News y en New Chemical Blend Helps Plastic Heal Itself - Science",
+                    "date": "2014-05-10",
+                    "eventUri": "725836",
+                    "id": "11455178",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6075,
+                    "source": {
+                        "title": "www.elestatal.com",
+                        "uri": "www.elestatal.com"
+                    },
+                    "time": "08:55:00",
+                    "title": "Avances en materiales autorregenerantes",
+                    "uri": "182252988",
+                    "url": "http://www.elestatal.com/tecnologia/geekbeat/avances-en-materiales-autorregenerantes-2/",
+                    "wgt": 1
+                },
+                {
+                    "body": "Una pantalla de tel\u00e9fono m\u00f3vil que al romperse se repara sola.  Este es el tipo de \"milagro\" que propone el un nuevo material capaz de regenerarse imitando la forma en que se coagula la sangre en una herida.\n El in\u00e9dito pol\u00edmero, un tipo de pl\u00e1stico, rellena autom\u00e1ticamente agujeros de 3cm de ancho, 100 veces m\u00e1s grandes de lo que se hab\u00eda conseguido con anterioridad.\n Con un dise\u00f1o inspirado en el sistema de coagulaci\u00f3n de la sangre, contiene una red de capilares que env\u00eda qu\u00edmicos reparadores hacia las \u00e1reas da\u00f1adas.\n El nuevo material, creado por ingenieros de la Universidad de Illinois, EE.UU., se describe en un estudio publicado en la revista Science.\n Los cient\u00edficos llevan so\u00f1ando muchos a\u00f1os con pl\u00e1sticos que se \"curen\" solos tal como lo hace la piel humana.\n As\u00ed podr\u00edan sellarse las rajaduras de los ca\u00f1os de agua o del cap\u00f3 de un auto.  Incluso los sat\u00e9lites podr\u00edan repararse a s\u00ed mismos.\n Y los chips electr\u00f3nicos rotos de computadoras port\u00e1tiles y tel\u00e9fonos m\u00f3viles podr\u00edan resolver sus problemas de forma espont\u00e1nea y aut\u00f3noma.\n Uno de los primeros avances se consigui\u00f3 en 2001 en la misma universidad, cuando Scott White y sus colegas llenaron un pol\u00edmero con c\u00e1psulas microsc\u00f3picas de un agente reparador l\u00edquido.\n Cuando el material se romp\u00eda, se liberaban los qu\u00edmicos y llenaban los huecos.\n M\u00e1s recientemente, se han desarrollado cubiertas impermeables, hormig\u00f3n e incluso circuitos el\u00e9ctricos con propiedades de auto reparaci\u00f3n.\n Pero incluso los mejores pl\u00e1sticos auto reparadores y pol\u00edmeros s\u00f3lo pueden arreglar da\u00f1os a escala peque\u00f1a, tal como apuntan los autores del nuevo trabajo.\n \"Aunque se ha demostrado la auto reparaci\u00f3n de defectos microsc\u00f3picos, la regeneraci\u00f3n de material perdido a causa de da\u00f1os catastr\u00f3ficos requiere un enfoque regenerativo\", dijo White.\n Para arreglar grandes roturas, \u00e9l y su equipo dise\u00f1aron un nuevo sistema vascular inspirado en las arterias y venas del cuerpo humano.\n Una red de canales env\u00eda un agente reparador al sitio del da\u00f1o.\n Los qu\u00edmicos llegan a trav\u00e9s de dos v\u00edas separadas y se combinan para sellar el agujero en una reacci\u00f3n en dos etapas.\n Inicialmente forman una especie de armaz\u00f3n de gel a trav\u00e9s del hueco, y luego el gel se endurece para formar una estructura s\u00f3lida.\n \"Llenamos zonas de m\u00e1s de 35mm en menos de 20 minutos, y restauramos funciones mec\u00e1nicas en menos de tres horas\", escriben los investigadores en Science.\n Las pruebas mostraron que el material recuper\u00f3 alrededor del 62% de su fuerza original.\n El nuevo pl\u00e1stico abre el camino para futuros pol\u00edmeros que puedan recuperarse de impactos de balas, bombas o cohetes.\n Y aunque otros ingenieros elogiaron la innovadora inspiraci\u00f3n de este dise\u00f1o, los cient\u00edficos admiten que los futuros materiales verdaderamente regenerativos requerir\u00e1n un sistema de reparaci\u00f3n mucho m\u00e1s flexible.\n \"Cuando el da\u00f1o es impredecible e incontrolado, ser\u00e1n necesarias redes vasculares m\u00e1s complejas e interconectadas para proveer suficiente cobertura vascular y duplicaci\u00f3n para rodear el bloqueo de los canales\", explicaron los investigadores en su estudio.\n Zhouzhou Zhao y Ellen Arruda, ingenieros de la Universidad de Michigan, comentaron sobre este trabajo en Science que aunque los avances en este campo son estimulantes, \"el desempe\u00f1o a largo plazo de pol\u00edmeros que se han reparado de forma aut\u00f3noma a\u00fan no se ha examinado\".\n \"Tambi\u00e9n se necesitan m\u00e9todos para evaluar y vigilar la habilidad reparadora potencial despu\u00e9s de m\u00faltiples eventos de reparaci\u00f3n\".\n \"Aqu\u00ed de nuevo\", escriben los ingenieros, \"ejemplos elegantes que han evolucionado en la naturaleza pueden inspirar soluciones\".",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11429552",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.5346,
+                    "source": {
+                        "title": "BBC",
+                        "uri": "www.bbc.co.uk"
+                    },
+                    "time": "21:34:00",
+                    "title": "Nuevo pl\u00e1stico que se regenera imitando a la sangre",
+                    "uri": "182158528",
+                    "url": "http://www.bbc.co.uk/mundo/noticias/2014/05/140509_ciencia_material_plastico_regenerativo_como_sangre_np.shtml",
+                    "wgt": 1
+                },
+                {
+                    "body": "Sufrir rayones e incluso agujeros en las carcasas de nuestros dispositivos electr\u00f3nicos es algo muy com\u00fan.  LG ya se enfrent\u00f3 a este problema con su LG G Flex, pero los avances en este campo est\u00e1n siendo interesantes, como demuestra el desarrollo de la Universidad de Illinois.\n De hecho, sus experimentos han servido para ir m\u00e1s all\u00e1 de la autoregeneraci\u00f3n del material pl\u00e1stico en peque\u00f1os rayones o roturas menores.  Los materiales son capaz de regenerarse incluso si en ellos aparecen agujeros de un tama\u00f1o considerable.\n El equipo de investigadores ha producido un sistema que logra rellenar esos agujeros con materiales que se asemejan al comportamiento que ciertos tejidos tienen en los seres vivos.  El secreto est\u00e1 en el hecho de que los materiales cuentan con una red de venas microsc\u00f3picas que funciona de forma similar al sistema sangu\u00edneo tradicional, y que permite que el material regenerativo \"circule\" por ese sistema y logre ir regenerando esas grietas o agujeros.\n El sistema hace uso de dos l\u00edquidos distintos que si est\u00e1n separados fluyen libremente.  Cuando se produce el agujero, los l\u00edquidos acaban mezcl\u00e1ndose y creando el material final que regenera los huecos que se hab\u00edan producido.  El objetivo de este estudio es el de poder ofrecer una aplicaci\u00f3n pr\u00e1ctica a todo tipo de escenarios, desde coches a aplicaciones aeroespaciales y, quiz\u00e1s esas carcasas de nuestros m\u00f3viles que evitar\u00edan hacer que us\u00e1semos protectores adicionales.",
+                    "date": "2014-05-12",
+                    "eventUri": "725836",
+                    "id": "11590050",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4749,
+                    "source": {
+                        "title": "www.xataka.com",
+                        "uri": "www.xataka.com"
+                    },
+                    "time": "17:48:00",
+                    "title": "Los pl\u00e1sticos que se autoregeneran, cada vez m\u00e1s cerca",
+                    "uri": "182617181",
+                    "url": "http://www.xataka.com/moviles/los-plasticos-que-se-autoregeneran-cada-vez-mas-cerca?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bxataka2%2B%2528Xataka%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "El nuevo pol\u00c3\u00admero, desarrollado por los cient\u00c3\u00adficos de la Universidad de Illinois, es 100 veces m\u00c3\u00a1s fuerte que los pl\u00c3\u00a1sticos \u00e2\u0080\u0098autocurativos\u00e2\u0080\u0099 dise\u00c3\u00b1ados previamente, lo cual le permite reparar agujeros de 3 cent\u00c3\u00admetros de ancho, informa BBC News.  Los inventores del material se inspiraron en el sistema de coagulaci\u00c3\u00b3n de la sangre en el cuerpo humano, llenando el nuevo material con un sistema vascular sint\u00c3\u00a9tico capaz de distribuir el agente reparador l\u00c3\u00adquido necesario para arreglar los agujeros.",
+                    "date": "2014-05-11",
+                    "eventUri": "725836",
+                    "id": "11522070",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4618,
+                    "source": {
+                        "title": "www.diario21.com.mx",
+                        "uri": "www.diario21.com.mx"
+                    },
+                    "time": "22:27:00",
+                    "title": "Crean pl\u00e1stico autocurativo que imita coagulaci\u00f3n de la sangre",
+                    "uri": "182439764",
+                    "url": "http://www.diario21.com.mx/?cmd=displaystory&story_id=128349&format=html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La vida compleja nunca podr\u00eda haber evolucionado sin la capacidad de curarse a s\u00ed misma.  Cuando un animal sufre una herida por punci\u00f3n, por ejemplo, diversos compuestos fluyen desde los vasos sangu\u00edneos a la zona de la herida, donde alimentan el crecimiento de nuevo tejido para rellenar el \u00e1rea da\u00f1ada.  El proceso, sin embargo, requiere un sistema vascular para entregar los componentes necesarios.  Debido a que los materiales carecen de esta complejidad, la reparaci\u00f3n precisa la intervenci\u00f3n humana.\n En ese sentido, no es la primera vez que se desarrolla un pl\u00e1stico con capacidad de autorreparaci\u00f3n, sin embargo s\u00ed que es la primera vez en que dicha reparaci\u00f3n se demuestra en un tama\u00f1o tan considerable: un agujero de 9 mil\u00edmetros de ancho en una hoja de pl\u00e1stico, tal y como se\u00f1alan los investigadores responsables del hallazgo en Science.  Esto es aproximadamente 100 veces m\u00e1s grande que cualquier defecto previamente autoreparado en un material.\n En los anteriores dise\u00f1os, unos canales estrechos similares a los vasos sangu\u00edneos del tejido vivo proporcionan compuestos que sellaban las fisuras en el material.  Pero si el da\u00f1o era mayor que, por ejemplo, el tama\u00f1o de una bala, los compuestos eran incapaces de crear un sello reparador.  Ahora, los huecos m\u00e1s grandes se rellenan de otro modo.  Primero, llenaron dos canales paralelos de 330 micr\u00f3metros de di\u00e1metro con dos mezclas de mol\u00e9culas org\u00e1nicas para formar estructuras s\u00f3lidas y semis\u00f3lidas; las mezclas fueron te\u00f1idas de rojo y azul.\n A continuaci\u00f3n, los investigadores insertaron los canales en una l\u00e1mina de pl\u00e1stico de 3 mil\u00edmetros de espesor.  Al punzar la hoja punza, los compuestos de color rojo y azul fluyen hacia el agujero y se mezclan entre s\u00ed.  Un catalizador se une a los dos compuestos, dando como resultado un gel semis\u00f3lido que llena el agujero de afuera hacia adentro.\n Seg\u00fan Ellen Arruda, ingeniera de la Universidad de Michigan:\nEs muy emocionante.  Creo que es un gran paso adelante en la capacidad de sanar de forma aut\u00f3noma estructuras sin intervenci\u00f3n.\n El hallazgo podr\u00eda conducir a nuevos tipos de alas de los aviones y componentes de naves espaciales que podr\u00edan repararse a ellos mismos en pleno vuelo.\n V\u00eda | Science Magazine\nFoto | Nathan Bajandas/Beckman Institute/University of Illinois",
+                    "date": "2014-05-09",
+                    "eventUri": "725836",
+                    "id": "11329974",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.4572,
+                    "source": {
+                        "title": "www.xatakaciencia.com",
+                        "uri": "www.xatakaciencia.com"
+                    },
+                    "time": "11:04:00",
+                    "title": "El pl\u00e1stico que se repara a s\u00ed mismo",
+                    "uri": "181927945",
+                    "url": "http://www.xatakaciencia.com/tecnologia/el-plastico-que-se-repara-a-si-mismo?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bxatakaciencia%2B%2528Xataciencia%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "El pl\u00e1stico causa un serio problema para el medio ambiente.  Cada bolsa llega a tardar siglos en degradarse, por lo que cada vez se hace m\u00e1s necesario buscar materiales alternativos biodegradables.  Una opci\u00f3n, es un material llamado shrilk que emplea en su composici\u00f3n c\u00e1scaras de gambas.\n El material ha sido desarrollado por Javier Fern\u00e1ndez, t\u00e9cnico espa\u00f1ol que desarrolla su actividad en el Wiss Institute for Biologically Inspired Engineering de Harvard.\n Los objetos creados con este nuevo material tienen las mismas caracter\u00edsticas que los creados con el pl\u00e1stico convencional, pero como ventaja no son peligrosos para el medio ambiente.\n El material que realmente se emplea en la fabricaci\u00f3n de este pl\u00e1stico biodegradable es el quitosano, una versi\u00f3n de la quitina, que se encuentra en los exoesqueletos de los insectos y la fibro\u00edna, una prote\u00edna de la seda.\n Seg\u00fan el propio Javier Fern\u00e1ndez el camino no ha sido f\u00e1cil, las primeras pruebas no dieron resultados positivos ya que el material perd\u00eda sus propiedades al entrar en contacto con el agua.\n Sin embargo con la combinaci\u00f3n entre el quitosato y la prote\u00edna de seda le confiere una fuerza que duplica al pl\u00e1stico, en concreto, posee una resistencia de casi 120 MPa, similar a alguna aleaci\u00f3n de aluminio.\n El material es sencillo de fabricar en grandes cantidades y se podr\u00eda utilizar para crear grandes objetos 3D.  Adem\u00e1s se degrada en semanas y su residuo se puede utilizar como abono para las plantas.",
+                    "date": "2014-05-08",
+                    "eventUri": "725836",
+                    "id": "11281871",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.3715,
+                    "source": {
+                        "title": "www.xatakaciencia.com",
+                        "uri": "www.xatakaciencia.com"
+                    },
+                    "time": "23:52:00",
+                    "title": "Pl\u00e1stico biodegradable a base de c\u00e1scara de gambas",
+                    "uri": "181808249",
+                    "url": "http://www.xatakaciencia.com/materiales/plastico-biodegradable-a-base-de-cascara-de-gambas?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bxatakaciencia%2B%2528Xataciencia%2529",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 10,
+            "averageDate": "2014-05-10",
+            "avgCos": 0.4078,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "725836",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "691232",
+            "lang": "spa",
+            "storyDate": "2014-05-10",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-162504",
+            "variance": 0.3837
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 69,
+        "CCAArticleMatchRatio": 0.345,
+        "CCAAvgCosSim": 0.6129369565217391,
+        "CCAAvgMatchWgt": 36,
+        "_articleUri1": "181989942",
+        "_articleUri2": "181926199",
+        "_datetime": "2015-01-20 16:11:48",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "e7e700df-6a06-44ea-a4f3-f736278fc36b-162504",
+        "_storyUri2": "850f305d-14db-4c75-b547-79470a557ea3-384915",
+        "_username": "Evgenia Belyaeva",
+        "artCount1": 10,
+        "artCount2": 9,
+        "avgCosSimStory1": 0.4078,
+        "avgCosSimStory2": 0.4713,
+        "categorySim": 0,
+        "conceptCosSim": 0.6161278513029319,
+        "conceptJaccardSim": 0.2807017543859649,
+        "coreTime1": 125807.8666666667,
+        "coreTime2": 125814.8833333333,
+        "coreTimeStDev1": 20.91659601166505,
+        "coreTimeStDev2": 22.81692570802216,
+        "entityCosSim": 0.130341787268027,
+        "entityJaccardSim": 0.1818181818181818,
+        "extractedDateJaccardSim": -1,
+        "extractedDatesStory1": 0,
+        "extractedDatesStory2": 0,
+        "hasSameLocation": -1,
+        "keywordCosSim": 0.7313875053512344,
+        "keywordJaccardSim": 0.3043478260869565,
+        "lang1": "spa",
+        "lang2": "eng",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 6,
+        "storyQuality2": 9,
+        "timeAvg1": 125838.4983333333,
+        "timeAvg2": 125829.2111111111,
+        "timeStDev1": 28.58742871535594,
+        "timeStDev2": 22.81692570802216,
+        "varianceStory1": 0.3837,
+        "varianceStory2": 0.2779
+    }
+}

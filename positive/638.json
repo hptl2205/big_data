@@ -1,0 +1,343 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-668361": {
+        "articles": {
+            "resultCount": 4,
+            "results": [
+                {
+                    "body": "Cases in West Africa's Ebola outbreak this year have risen to 2,240, including 1,229 deaths, the World Health Organisation (WHO) said on Tuesday, reporting the toll in four countries including Nigeria.\n\nThe WHO said it was working with the UN's World Food Programme to ensure food delivery to 1 million people living in Ebola quarantine zones in Guinea, Liberia and Sierra Leone.\n\n\"Food has been delivered to hospitalised patients and people under quarantine who are not able to leave their homes to purchase food. Providing regular food supplies is a potent means of limiting unnecessary movement,\" the WHO said in a statement.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17468941",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.9468,
+                    "source": {
+                        "title": "The Daily Star",
+                        "uri": "www.thedailystar.net"
+                    },
+                    "time": "09:43:00",
+                    "title": "Ebola toll passes 1,200 in West Africa: WHO | Quarantine victims to get food",
+                    "uri": "204747316",
+                    "url": "http://www.thedailystar.net/ebola-toll-passes-1-200-in-west-africa-who-37795",
+                    "wgt": 1
+                },
+                {
+                    "body": "GENEVA: Cases in West Africa's Ebola outbreak this year have risen to 2,240, including 1,229 deaths, the World Health Organisation (WHO) said on Tuesday, reporting the toll in four countries including Nigeria.\n\nThe WHO said it was working with the U.N.'s World Food Programme to ensure food delivery to 1 million people living in Ebola quarantine zones in Guinea, Liberia and Sierra Leone.\n\n\"Food has been delivered to hospitalised patients and people under quarantine who are not able to leave their homes to purchase food. Providing regular food supplies is a potent means of limiting unnecessary movement,\" the WHO said in a statement.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17467588",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.946,
+                    "source": {
+                        "title": "Economic Times",
+                        "uri": "economictimes.indiatimes.com"
+                    },
+                    "time": "09:17:00",
+                    "title": "West Africa Ebola toll passes 1,200: WHO",
+                    "uri": "204743163",
+                    "url": "http://economictimes.indiatimes.com/news/international/world-news/west-africa-ebola-toll-passes-1200-quarantine-victims-to-get-food-who/articleshow/40399015.cms",
+                    "wgt": 1
+                },
+                {
+                    "body": "Cases in West Africa's Ebola outbreak this year have risen to 2,240, including 1,229 deaths, the World Health Organisation (WHO) said on Tuesday, reporting the toll in four countries including Nigeria.\n\nThe WHO said it was working with the U.N.'s World Food Programme to ensure food delivery to 1 million people living in Ebola quarantine zones in Guinea, Liberia and Sierra Leone.\n\n\"Food has been delivered to hospitalised patients and people under quarantine who are not able to leave their homes to purchase food. Providing regular food supplies is a potent means of limiting unnecessary movement,\" the WHO said in a statement.\n\n(Reporting by Stephanie Nebehay, editing by John Stonestreet)",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17466510",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.9167,
+                    "source": {
+                        "title": "Daily News and Analysis (DNA) India",
+                        "uri": "www.dnaindia.com"
+                    },
+                    "time": "08:53:00",
+                    "title": "West Africa Ebola toll passes 1,200, quarantine victims to get food: WHO",
+                    "uri": "204739614",
+                    "url": "http://www.dnaindia.com/world/report-west-africa-ebola-toll-passes-1200-quarantine-victims-to-get-food-who-2011953",
+                    "wgt": 1
+                },
+                {
+                    "body": "The number of people infected with Ebola is showing no signs of slowing, according to the World Health Organization. The deadly virus has spread across Sierra Leone, Liberia, Guinea and Nigeria over the past six months.\n\nThe World Health Organization (WHO) released its latest figures on the Ebola epidemic in West Africa on Tuesday, warning that the need for humanitarian assistance remained key to combating the virus.\n\nAccording to the report, there have been 2,240 suspected or confirmed cases, including 1,229 deaths.\n\nThe international organization has increased its efforts to provide aid to the affected sub-Saharan countries.\n\n\"Food has been delivered to hospitalized patients and people under quarantine who are not able to leave their homes to purchase food. Providing regular food supplies is a potent means of limiting unnecessary movement,\" it said in a statement.\n\nThe international health emergency has increased fears across Europe and Africa of incoming travelers carrying a strain of the virus, prompting some nations to implement travel bans.\n\nAuthorities in the Liberian capital of Monrovia have warned local residents of a higher risk to exposure. Over the weekend, 17 infected patients fled a local clinic after it was raided by armed gunmen who claimed Ebola was a Western hoax, according to eyewitnesses. Their whereabouts remain unknown.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17469870",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.663,
+                    "source": {
+                        "title": "DW.DE",
+                        "uri": "www.dw.de"
+                    },
+                    "time": "10:01:00",
+                    "title": "WHO: number of Ebola cases tops 2,000",
+                    "uri": "204750017",
+                    "url": "http://www.dw.de/who-number-of-ebola-cases-tops-2000/a-17862418?maca=en-rss_top_news-13961-xml-mrss",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 4,
+            "averageDate": "2014-08-19",
+            "avgCos": 0.6138,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1170853",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1161669",
+            "lang": "eng",
+            "storyDate": "2014-08-19",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-668361",
+            "variance": 0.1232
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-238120": {
+        "articles": {
+            "resultCount": 9,
+            "results": [
+                {
+                    "body": "GINEBRA (Reuters) - Los casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido hasta 2.240, incluyendo 1.229 muertes, dijo el martes la Organizaci\u00f3n Mundial de la Salud (OMS), recogiendo las cifras de cuatro pa\u00edses, entre ellos Nigeria.\n\nLa OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de la ONU para asegurar el env\u00edo de comida a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"Los alimentos se han llevado a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u00edos de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u00eds m\u00e1s poblado de \u00c1frica y el primer productor de petr\u00f3leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u00e1n teniendo problemas para frenar la expansi\u00f3n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u00f1os pa\u00edses del oeste de \u00c1frica y una ONG m\u00e9dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u00f3n para las v\u00edctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17467368",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9551,
+                    "source": {
+                        "title": "El Economista",
+                        "uri": "www.eleconomista.es"
+                    },
+                    "time": "09:13:00",
+                    "title": "La cifra de muertos por \u00e9bola en \u00c1frica supera los 1.200, dice la OMS",
+                    "uri": "204742480",
+                    "url": "http://www.eleconomista.es/cultura/noticias/6018091/08/14/La-cifra-de-muertos-por-ebola-en-Africa-supera-los-1200-dice-la-OMS.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "GINEBRA. Los casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido a 2.240, incluyendo 1.229 muertes, dijo el martes la Organizaci\u00f3n Mundial de la Salud (OMS), reportando las cifras de cuatro pa\u00edses, entre ellos Nigeria.\n\nLa OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de Naciones Unidas para asegurar el env\u00edo de comida a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"Se han llevado alimentos a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u00edos de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u00eds m\u00e1s poblado de \u00c1frica y el primer productor de petr\u00f3leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u00e1n teniendo problemas para frenar la expansi\u00f3n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u00f1os pa\u00edses del oeste de \u00c1frica y una ONG m\u00e9dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u00f3n para las v\u00edctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17471978",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9551,
+                    "source": {
+                        "title": "ABC Color",
+                        "uri": "www.abc.com.py"
+                    },
+                    "time": "10:44:00",
+                    "title": "Muertos por \u00e9bola superan los 1.200 en el oeste de \u00c1frica",
+                    "uri": "204756938",
+                    "url": "http://www.abc.com.py/internacionales/muertos-por-ebola-superan-los-1200-en-el-oeste-de-africa-1277455.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Los casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido a 2,240, incluyendo 1,229 muertes, inform\u00f3 este martes la Organizaci\u00f3n Mundial de la Salud (OMS), reportando las cifras de cuatro pa\u00edses, entre ellos Nigeria.\n\nLa OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de Naciones Unidas para asegurar el env\u00edo de comida a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"Se han llevado alimentos a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u00edos de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u00eds m\u00e1s poblado de \u00c1frica y el primer productor de petr\u00f3leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u00e1n teniendo problemas para frenar la expansi\u00f3n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u00f1os pa\u00edses del oeste de \u00c1frica y una ONG m\u00e9dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u00f3n para las v\u00edctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17476296",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9526,
+                    "source": {
+                        "title": "eleconomista.com.mx",
+                        "uri": "eleconomista.com.mx"
+                    },
+                    "time": "11:12:00",
+                    "title": "Muertos por \u00e9bola superan los 1200: OMS - El Economista",
+                    "uri": "204770875",
+                    "url": "http://eleconomista.com.mx/internacional/2014/08/19/muertos-ebola-superan-1200-oms",
+                    "wgt": 1
+                },
+                {
+                    "body": "Abarca a cuatro pa\u00edses en donde la enfermedad ya afect\u00f3 a 2.240 personas, seg\u00fan un \u00faltimo reporte de la OMS.\n\nLos casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido a 2.240, incluyendo 1.229 muertes, dijo el martes la Organizaci\u00f3n Mundial de la Salud (OMS), reportando las cifras de cuatro pa\u00edses, entre ellos Nigeria.\n\nLa OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de Naciones Unidas para asegurar el env\u00edo de comida a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"Se han llevado alimentos a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u00edos de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u00eds m\u00e1s poblado de \u00c1frica y el primer productor de petr\u00f3leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u00e1n teniendo problemas para frenar la expansi\u00f3n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u00f1os pa\u00edses del oeste de \u00c1frica y una ONG m\u00e9dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u00f3n para las v\u00edctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17489040",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9454,
+                    "source": {
+                        "title": "www.elpais.com.uy",
+                        "uri": "www.elpais.com.uy"
+                    },
+                    "time": "15:20:00",
+                    "title": "Muertos por \u00e9bola superan los 1.200 en el oeste de \u00c1frica",
+                    "uri": "204805495",
+                    "url": "http://www.elpais.com.uy/informacion/muertos-ebola-superan-oeste-africa.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Varios aeropuertos vetan a ciudadanos procedentes de los pa\u00edses del \u00e9bola\n\nGINEBRA (Agencias).- Los casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido hasta 2.240, incluyendo 1.229 muertes, dijo el martes la Organizaci\u00f3n Mundial de la Salud (OMS), recogiendo las cifras de cuatro pa\u00edses, entre ellos Nigeria. La OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de la ONU para asegurar el env\u00edo de comida a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona, informa Reuters.\n\n\"Los alimentos se han llevado a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u00edos de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u00eds m\u00e1s poblado de \u00c1frica y el primer productor de petr\u00f3leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u00e1n teniendo problemas para frenar la expansi\u00f3n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u00f1os pa\u00edses del oeste de \u00c1frica y una ONG m\u00e9dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u00f3n para las v\u00edctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17481092",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9419,
+                    "source": {
+                        "title": "LaVanguardia",
+                        "uri": "www.lavanguardia.com"
+                    },
+                    "time": "09:06:00",
+                    "title": "La cifra de muertos por \u00e9bola en \u00c1frica supera los 1.200",
+                    "uri": "204784776",
+                    "url": "http://www.lavanguardia.com/internacional/20140819/54413169367/la-cifra-de-muertos-por-ebola-en-africa-supera-los-1-200.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "La Organizaci\u0102\u0142n Mundial de la Salud dijo que est\u0102\u0104 trabajando conjuntamente con la ONU para asegurar el env\u0102\u00ado de comida a un mill\u0102\u0142n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona\n\nLos casos por el brote de \u0102\u0160bola en el oeste de \u0102\u0081frica este a\u0102\u0105o han subido a 2 mil 240, incluyendo mil 229 muertes, dijo el martes la Organizaci\u0102\u0142n Mundial de la\n\nSalud (OMS) , reportando las cifras de cuatro pa\u0102\u00adses, entre ellos Nigeria.\n\nLa OMS dijo que est\u0102\u0104 trabajando conjuntamente con el Programa Mundial de Alimentos (PMA) de Naciones Unidas para asegurar el env\u0102\u00ado de comida a un mill\u0102\u0142n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"Se han llevado alimentos a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar comida. Proporcionar el suministro regular de alimentos es un medio potente de limitar movimientos innecesarios\" , dijo la OMS en un comunicado.\n\nEl PMA va a reforzar los env\u0102\u00ados de urgencia a las zonas en cuarentena, entre las que hay varias ciudades muy afectadas, como Gueckedou en Guinea, Kenema y Kailahun en Sierra Leona y Foya en Liberia.\n\nAunque Nigeria, el pa\u0102\u00ads m\u0102\u0104s poblado de \u0102\u0081frica y el primer productor de petr\u0102\u0142leo del continente, parece estar conteniendo el brote, Liberia y Sierra Leona est\u0102\u0104n teniendo problemas para frenar la expansi\u0102\u0142n del virus mortal entre sus habitantes.\n\nEl viernes, estos dos peque\u0102\u0105os pa\u0102\u00adses del oeste de \u0102\u0081frica y una ONG m\u0102\u0160dica criticaron a la OMS por la lentitud de su respuesta, y dijeron que hace falta una mayor intervenci\u0102\u0142n para las v\u0102\u00adctimas amenazadas por el hambre y la enfermedad.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17487894",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7907,
+                    "source": {
+                        "title": "El Universal",
+                        "uri": "www.eluniversal.com.mx"
+                    },
+                    "time": "14:48:00",
+                    "title": "Muertos por \u00e9bola suman mil 299 en \u00c1frica, reporta OMS - El Universal",
+                    "uri": "204802574",
+                    "url": "http://www.eluniversal.com.mx/el-mundo/2014/muertos-por-ebola-suman-mil-299-en-frica-reporta-oms-1031429.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "GINEBRA (Reuters) - Los casos por el brote de \u00e9bola en el oeste de \u00c1frica este a\u00f1o han subido hasta 2.240, incluyendo 1.229 muertes, dijo el martes la Organizaci\u00f3n Mundial de la Salud (OMS), recogiendo las cifras de cuatro pa\u00edses, incluida Nigeria.\n\nLa OMS dijo que est\u00e1 trabajando conjuntamente con el Programa Mundial de Alimentos de la ONU para asegurar el env\u00edo de alimentos a un mill\u00f3n de personas que viven en zonas de cuarentena en Guinea, Liberia y Sierra Leona.\n\n\"La alimentaci\u00f3n ha estado llegando a los pacientes hospitalizados y a las personas en cuarentena que no pueden dejar sus casas para comprar alimentos. Proporcionar el suministro regular de comida es un medio potente de limitar movimientos innecesarios\", dijo la OMS en un comunicado.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17467382",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7837,
+                    "source": {
+                        "title": "El Economista",
+                        "uri": "www.eleconomista.es"
+                    },
+                    "time": "09:13:00",
+                    "title": "La cifra de muertos por el \u00e9bola en \u00c1frica supera los 1.200, seg\u00fan la OMS",
+                    "uri": "204742531",
+                    "url": "http://www.eleconomista.es/cultura/noticias/6018034/08/14/La-cifra-de-muertos-por-el-ebola-en-Africa-supera-los-1200-segun-la-OMS.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "El brote del \u00e9bola ha causado 1.069 fallecidos en \u00c1frica Occidental, seg\u00fan la OMS\n\nLa ONU ha anunciado este martes que se prepara para garantizar el aprovisionamiento de alimentos para un mill\u00f3n de personas en cuatro localidades de Guinea Conakry, Sierra Leona y Liberia, que han sido puestas en cuarentena por el \u00e9bola.\n\nLa cuarentena se aplica en \u00e1reas fuertemente afectadas por el \u00e9bola y donde se observa una transmisi\u00f3n regular del virus del \u00e9bola, que ha causado la muerte de 1.229 personas desde el pasado marzo cuando se detect\u00f3 el actual brote.\n\nLas localidades bajo cuarentena son Gueckedou en Guinea, Kenema y Kailahun, en Sierra Leona, y Foya en Liberia. La OMS ha comunicado que, adem\u00e1s de los 1.229 muertos por el \u00e9bola, hay 2.240 infectados.\n\nEl objetivo es \"reducir la posibilidad de que los infectados lleven la enfermedad fuera de sus comunidades\", ha explicado en Ginebra la portavoz de la Organizaci\u00f3n Mundial de la Salud (OMS), Fadela Chaib.\n\nLa OMS y el Programa Mundial de Alimentos, los brazos sanitario y humanitario de Naciones Unidas, respectivamente, coordinan por ello la distribuci\u00f3n de comida en esas zonas en beneficio de un mill\u00f3n de personas.\n\nLos habitantes de las cuatro \u00e1reas en cuarentena no pueden salir de ellas y trasladarse a otras partes del pa\u00eds -con el fin de reducir el riesgo de transmisi\u00f3n del virus-, lo que significa que tienen limitadas oportunidades de conseguir alimentos, agua y otros art\u00edculos b\u00e1sicos.\n\nLa ayuda de la ONU permitir\u00e1 que se evite la escasez de alimentos y que se generen eventuales situaciones de tensi\u00f3n o violencia.\n\nSin embargo, la portavoz no pudo confirmar si estos alimentos son suficientes para todos los habitantes de las cuatro zonas reunidas y si hay fuerzas armadas desplegadas para evitar que salgan de ellas.\n\nLa OMS insiste en que no son necesarias las restricciones de viajes y comercio internacionales con los pa\u00edses afectados.\n\nA estos les ha aconsejado controlar la temperatura de todas las personas en aeropuertos internacionales, puertos y puestos fronterizos terrestres de importancia para detectar r\u00e1pidamente cualquier casos sospechoso de \u00e9bola.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17473982",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6684,
+                    "source": {
+                        "title": "RTVE.es",
+                        "uri": "www.rtve.es"
+                    },
+                    "time": "11:29:00",
+                    "title": "La ONU alimentar\u00e1 a un mill\u00f3n de personas en zonas de cuarentena por el \u00e9bola",
+                    "uri": "204764523",
+                    "url": "http://www.rtve.es/noticias/20140819/onu-alimentara-millon-personas-zonas-cuarentena-ebola/995640.shtml",
+                    "wgt": 1
+                },
+                {
+                    "body": "Ginebra, EFE La ONU anunci\u00f3 hoy que se prepara para garantizar el aprovisionamiento de alimentos para un mill\u00f3n de personas en cuatro localidades de Guinea Conakry, Sierra Leona y Liberia, que las autoridades han puesto en cuarentena por el \u00e9bola.\n\nLa medida gubernamental se aplica en \u00e1reas fuertemente afectadas por el \u00e9bola y donde se observa una transmisi\u00f3n regular del virus del \u00c9bola, que ha causado la muerte de 1.229 personas desde que se detect\u00f3 la enfermedad en marzo.\n\nLas localidades bajo cuarentena son las de Gueckedou en Guinea, Kenema y Kailahun, en Sierra Leona, y Foya en Liberia.\n\nEl objetivo es \"reducir la posibilidad de que los infectados lleven la enfermedad fuera de sus comunidades\", explic\u00f3 en Ginebra la portavoz de la Organizaci\u00f3n Mundial de la Salud (OMS), Fadela Chaib\n\nLa OMS y el Programa Mundial de Alimentos, los brazos sanitario y humanitario de Naciones Unidas, respectivamente, coordinan por ello la distribuci\u00f3n de comida en esas zonas en beneficio de un mill\u00f3n de personas.\n\nLos habitantes de las cuatro \u00e1reas en cuarentena no pueden salir de ellas y trasladarse a otras partes del pa\u00eds -con el fin de reducir el riesgo de transmisi\u00f3n del virus-, lo que significa que tienen limitadas oportunidades de conseguir alimentos, agua y otros art\u00edculos b\u00e1sicos.\n\nLa ayuda de la ONU permitir\u00e1 que se evite la escasez de alimentos y que se generen eventuales situaciones de tensi\u00f3n o violencia.\n\nSin embargo, la portavoz no pudo confirmar si estos alimentos son suficientes para todos los habitantes de las cuatro zonas reunidas y si hay fuerzas armadas desplegadas para evitar que salgan de ellas.\n\nChaib record\u00f3 que el establecimiento que esta limitaci\u00f3n del Comit\u00e9 de Emergencia de la OMS, que el pasado d\u00eda 8 declar\u00f3 este brote de \u00e9bola como una emergencia de salud p\u00fablica internacional.\n\nLa recomendaci\u00f3n se dirig\u00eda espec\u00edficamente a Guinea, Liberia y Sierra Leona, que concentran la gran mayor\u00eda de casos.\n\nEn cambio, la OMS insiste en que no son necesarias las restricciones de viajes y comercio internacionales con los pa\u00edses afectados.\n\nA estos les ha aconsejado controlar la temperatura de todas las personas en aeropuertos internacionales, puertos y puestos fronterizos terrestres de importancia para detectar r\u00e1pidamente cualquier casos sospechoso de \u00e9bola.\n\nLa OMS comunic\u00f3 hoy que, adem\u00e1s de los 1.229 muertos por el \u00e9bola, hay 2.240 infectados.\n\nS\u00f3lo entre el jueves y s\u00e1bado pasados se registraron 84 fallecimientos en los cuatro pa\u00edses donde se registran casos y 113 nuevos casos.\n\nEl brote se detect\u00f3 en marzo en Guinea, donde hasta hace poco la situaci\u00f3n era la m\u00e1s preocupante, pero \u00faltimamente la enfermedad se est\u00e1 expandiendo con mayor velocidad en Liberia, que acumula 466 muertos y 834 casos.\n\nEn Nigeria, donde la situaci\u00f3n se cree parcialmente bajo control, hay 15 casos y cuatro fallecidos.",
+                    "date": "2014-08-19",
+                    "eventUri": "1170853",
+                    "id": "17473483",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.6519,
+                    "source": {
+                        "title": "El Dia",
+                        "uri": "eldia.es"
+                    },
+                    "time": "11:20:00",
+                    "title": "Dar\u00e1n alimentos a un mill\u00f3n de personas en zonas bajo cuarentena por el \u00e9bola",
+                    "uri": "204763049",
+                    "url": "http://eldia.es/2014-08-19/SOCIEDAD/20-Daran-alimentos-millon-personas-zonas-cuarentena-ebola.htm",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 9,
+            "averageDate": "2014-08-19",
+            "avgCos": 0.6006,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1170853",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1162204",
+            "lang": "spa",
+            "location": {
+                "country": {
+                    "labelEng": "Switzerland",
+                    "lat": 47.00016,
+                    "long": 8.01427,
+                    "wikiUri": "http://en.wikipedia.org/wiki/Switzerland"
+                },
+                "labelEng": "Geneva",
+                "lat": 46.20222,
+                "long": 6.14569,
+                "wikiUri": "http://en.wikipedia.org/wiki/Geneva"
+            },
+            "storyDate": "2014-08-19",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-238120",
+            "variance": 0.1393
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 6,
+        "CCAArticleMatchRatio": 0.03658536585365853,
+        "CCAAvgCosSim": 0.7837333333333333,
+        "CCAAvgMatchWgt": 59.83333333333334,
+        "_articleUri1": "204756938",
+        "_articleUri2": "204747316",
+        "_datetime": "2015-02-19 11:42:19",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "e7e700df-6a06-44ea-a4f3-f736278fc36b-238120",
+        "_storyUri2": "850f305d-14db-4c75-b547-79470a557ea3-668361",
+        "_username": "Evgenia Belyaeva",
+        "artCount1": 9,
+        "artCount2": 4,
+        "avgCosSimStory1": 0.6006,
+        "avgCosSimStory2": 0.6138,
+        "categorySim": 0,
+        "conceptCosSim": 0.4607382896775112,
+        "conceptJaccardSim": 0.2424242424242424,
+        "coreTime1": 128265.2166666667,
+        "coreTime2": 128264.8833333333,
+        "coreTimeStDev1": 2.169154949781216,
+        "coreTimeStDev2": 0.4297124361428576,
+        "entityCosSim": 0.8179076643864133,
+        "entityJaccardSim": 0.5714285714285714,
+        "extractedDateJaccardSim": -1,
+        "extractedDatesStory1": 0,
+        "extractedDatesStory2": 0,
+        "hasSameLocation": -1,
+        "keywordCosSim": 0.279158316962372,
+        "keywordJaccardSim": 0.1538461538461539,
+        "lang1": "spa",
+        "lang2": "eng",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 18,
+        "storyQuality2": 13,
+        "timeAvg1": 128267.3796296296,
+        "timeAvg2": 128265.475,
+        "timeStDev1": 2.169154949781216,
+        "timeStDev2": 0.4297124361428576,
+        "varianceStory1": 0.1393,
+        "varianceStory2": 0.1232
+    }
+}

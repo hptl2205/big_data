@@ -1,0 +1,361 @@
+{
+    "850f305d-14db-4c75-b547-79470a557ea3-864178": {
+        "articles": {
+            "resultCount": 5,
+            "results": [
+                {
+                    "body": "arlindo71/Getty\n\nThe characteristic smell of beer is very easy to recognize, and never fails to attract beer lovers. But now scientists have found that it's really meant to attract something else entirely: fruit flies.\n\nIt turns out those pesky, impossible-to-catch little flies aren't just an annoyance for brewers. Yeast and fruit flies have evolved a mutually beneficial relationship that hinges on that smell, according to new research.\n\nYeast produce small quantities of volatile compounds that give beer a pungent smell that's somewhat like ripening fruit. Scientists have already pinned down a particular gene that's responsible for most of these aromas -- if they knock out the gene, species like S. cerevisiae (brewer's yeast) no longer release the fruity smells, and if they overactivate the gene, the yeast produce even more of the aroma.\n\nWhile studying this years ago, bioengineer Kevin Verstrepen noticed that fruit flies in his lab swarmed around overactivated, flavorful yeast, and ignored non-fruity mutant yeast.\n\n\"I kind of knew already what the story would be then,\" Verstrepen said.\n\nIn a new study published today in Cell Reports, Verstrepen and his team at University of Leuven and the Flanders Institute for Biotechnology in Belgium looked closer at how fruit flies react to the mutant beer yeast. They sent the flies into a cage and blew in air collected from different S. cerevisiae cultures. As expected, the fruit flies showed a strong preference for the smelliest yeast and didn't pay any attention to the non-fruity yeast air. They also discovered that when the flies landed on fruity yeast, they unwittingly picked up the microbes on their legs and transported them to different sites around the cage.\n\nBoth species gain from this aromatic attraction, according to Verstrepen, and it's a relationship that's likely been around for millions of years. Fruit flies eat yeast like S. cerevisiae for protein, and the scents help lure them to the source. In exchange, yeast use fruit flies to hitch a ride and disperse to new habitats. \"I think it's the first description of this kind of smell-based collaboration,\" Verstrepen said.\n\nBecause yeast can't move around on their own, he says, they probably developed this strategy as a way to escape nutrient-poor environments and migrate to nutrient-rich places that fruit flies frequent, like ripe fruit or rotting trash.\n\n\"They definitely have good support for this mutualism,\" said beer scientist Steve Wagner, who wasn't involved in the study. \"And I'd think this relationship pre-dates humans fermenting beverages, which only began about eight to ten thousand years ago.\"\n\nThe aroma-based symbiosis may also apply to other microbes. \"It's possible that this type of relationship is actually really common,\" said Verstrepen, \"We think that some pathogenic microbes may even use this strategy with insects.\"\n\nBrewers ordinarily detest fruit flies because the insects can carry unwanted microbe species with them. For instance, fruit flies often hang out on rotten fruit where they collect acetic acid bacteria. They then transport those microbes to a batch of beer where the bacteria convert ethanol into vinegar, which ruins the alcohol.\n\nBut there's a new trend among beer-makers called 'wild fermentation' that lets microbes spontaneously colonize the batch to achieve a more local flavor, and Verstrepen's research helps explain how that happens. \"You could catch a few flies in your vineyard, put it in your grape juice, and make a very unique wine,\" said Verstrepen. He says he's also considered using fruit flies, rather than machines, to select better yeast strains for brewers.\n\n\"But to be honest,\" he said, \"those are ideas I get after I've had a pint of beer on a Friday night.\"",
+                    "date": "2014-10-09",
+                    "eventUri": "1473790",
+                    "id": "21563934",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6787,
+                    "source": {
+                        "title": "WIRED",
+                        "uri": "www.wired.com"
+                    },
+                    "time": "16:24:00",
+                    "title": "Your Beer Attracts Fruit Flies on Purpose",
+                    "uri": "216900457",
+                    "url": "http://www.wired.com/2014/10/beer-yeast-attracts-fruit-flies/",
+                    "wgt": 1
+                },
+                {
+                    "body": "We know that yeasts produce the molecules that make ales and lagers so aromatic. But why do they do it?\n\nWhether you're catching a whiff of banana from a tall glass of Hefewiezen or enjoying the subtle floral aromas in your favorite American IPA, you have yeast to thank for it. Yeast imbues beer with aromatic molecules that account for a great deal of its final flavor; almost all wild yeasts create these pleasant smells and tastes as they eat.\n\nYet even though we know yeast is the reason beer tastes so good, we don't know exactly why it does it. But in a new study, a team of scientists led by Kevin Verstrepen, a yeast geneticist at the Flanders Institute for Biotechnology and the Belgian University of Leuven, has showed why these tiny microbes make the flavors we savor.\n\nIn a new paper in the journal Cell, the scientists detail the results of four experiments on yeast. It turns out that for yeast, producing these delicious aromatic molecules is a bit like hailing a taxi. The smell lures in wandering flies, to which yeasts hitch a ride so they can disperse throughout nature.\n\n\"This theory actually came about entirely by accident,\" Verstrepen says. Fifteen years ago, working on his Ph.D., he was investigating the gene that controls the production of these aromatic molecules in yeast. \"At one point on a Friday night, I was in hurry to get to the bar and didn't clean up my experiment as well as I should have,\" he says.\n\nHe accidentally left out three flasks of yeast. \"One flask had a mutant strain of yeast that produced 100 times more [of these aromatic molecules], one flask contained normal yeast, and a third had a yeast with this aroma gene partially knocked out,\" Verstrepen says.\n\n\"When I returned Monday morning, I found that somehow fruit flies had gotten into the lab,\" he says. And realizing that he had unwittingly set up an experiment, he wrote down the results. \"Fifty flies drowned in the mutant flask, two drowned in the flask of normal yeast, and the flask with the [nonaromatic] yeast didn't have any,\" he says. \"You don't have to be a genius to start to draw some conclusions from that.\"\n\nAll these years later Verstrepen teamed up with a group of fly neurobiologists to test his idea. They did it in four parts.\n\n1. In the first of Verstrepen's experiments, the scientists identified and picked out a particularly potent aroma-producing yeast strain. They then knocked out the gene called ATF1, which is responsible for creating the bulk of the yeast's aromas, rendering it more or less scentless. The scientists then grew a culture of the scentless yeast as well as a culture of the unmodified strain, and placed a tray of each in opposite corners of an airflow-regulated box they had built.\n\nThe scientists call it the arena. I am not kidding.\n\nWhen the researchers then introduced 50 gladiators -- er, fruit flies -- into the arena and recorded their flights and landings with cameras, they found -- just as Verstrepen found 15 years ago -- that the flies overwhelmingly preferred the fruity, aromatic yeast.\n\n2. In the second experiment the scientists wanted to make sure it was the aromatic molecules -- and not some other unidentified enticement -- luring the flies. So Verstrepen and colleagues set up the arena as before, but this time they added the aromatic molecules back into the scentless yeast tray -- so that the aromas of both trays would be identical. Indeed, when the fruit flies entered the arena, they showed no preference.\n\n3. For the third test the team peered inside the brain of the flies as they smelled various aromatic, yeast-produced molecules. \"It's actually a really cool setup,\" Verstrepen says. The researchers used flies with proteins in their brains that phosphoresce (think, glow in the dark) with neural activity. \"So you can slide open the skull of the flies [and] monitor their brain activity by literally watching their brains flash up phosphorescently,\" Verstrepen says. Using this technique, the researchers discovered that one chemical -- isoamyl acetate -- made the flies' brains go wild. And this should surprise absolutely no one who's ever had fruit flies in his kitchen. Isoamyl acetate smells like overripe bananas.\n\n4. Verstrepen had thought that the evolutionary advantage yeast gains from luring flies is that the flies help the yeast spread through its environment. To test this in the final experiment, the scientists placed a tray of both the normal and scentless yeasts (colored with different dyes for easy recondition) at opposite sides of an enclosed cylinder, introduced flies, and left it alone for 48 hours. After the two days the scientists took a snapshot of the smears and found that the aromatic yeast had smeared across four times as much area as the scentless yeast. The aromas made a huge difference in mobility.\n\n\"It's certainly a very intuitive mechanism,\" says William Alexander, a yeast researcher at the University of Wisconsin who was not involved in the paper. Alexander explains that for yeast, which lacks any cellular components like flagella to help it get around, the evolutionary benefit of being able to spread quickly through insects \"to fruit just as it becomes ripe or a tree when it starts leaking sap, is enormous.\"\n\nThe best and strangest part of Verstrepen's research is something that didn't even make the paper.\n\nOut of sheer curiosity, Verstrepen gave his colleagues fly traps and asked them to collect samples around their houses and apartments. When they returned with now-dead wild flies, Verstrepen ground up the flies and analyzed the resulting insect mash for yeasts. Sure enough, he found some. He cultured these yeasts and found them to be pleasantly aromatic.\n\nThen he did what any sane person would do, having pulled yeasts from crushed up insects. \"We made beer with them,\" Verstrepen says.\n\nApparently it was delicious. I'd still argue that Verstrepen now rivals the guy who made beer from his beard yeast in the contest for the world's strangest brewer. But I asked William Alexander (our outside yeast expert) about this story, and he was unimpressed with my squeamishness.\n\n\"To grab flies and throw them in your [brew] -- that's probably much more reminiscent of how humanity made beer for the last 10,000 years than any of the industrial technologies we now use today,\" he says.\n\nScientists Create Synthetic Yeast Chromosome (And Unlock the Future of Beer)\n\nPM/AM: The Next Decade of Brain Science",
+                    "date": "2014-10-13",
+                    "eventUri": "1473790",
+                    "id": "21970275",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.6446,
+                    "source": {
+                        "title": "Esquire",
+                        "uri": "www.delish.com"
+                    },
+                    "time": "20:41:00",
+                    "title": "The Science of Why Beer Is So Delicious",
+                    "uri": "217972210",
+                    "url": "http://www.delish.com/food/recalls-reviews/science-beer-deliciousness?%3Fsrc=rss",
+                    "wgt": 1
+                },
+                {
+                    "body": "Admission $2 for adults, $1 for students/military/seniors, and for children 12 and under, free.\n\nTasting/activity tickets $1 each Souvenir wine glasses $8 each (for wine and beer tasting).\n\nPlease have your ID ready.\n\nEveryone sampling beer and wine must be over 21 years of age.\n\nFall Festival Special $20, which includes two wine glasses and 10 tickets.\n\nLook for signs at beer, wine, cheese, chocolate, children's activities, petting zoo and other booths throughout the show. These booths offer tastings/activities in exchange for tickets.",
+                    "date": "2014-10-10",
+                    "eventUri": "1473790",
+                    "id": "21621957",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.4533,
+                    "source": {
+                        "title": "www.sierrastar.com",
+                        "uri": "www.sierrastar.com"
+                    },
+                    "time": "00:12:00",
+                    "title": "Front gate entrance & admission information for Oakhurst Fall Festival",
+                    "uri": "217034170",
+                    "url": "http://www.sierrastar.com/2014/10/07/70223/front-gate-entrance-admission.html#storylink%3Drss",
+                    "wgt": 1
+                },
+                {
+                    "body": "AN extremely rare bottle of Sean Connery ale is due to be sold at a charity auction on Friday.\n\nOnly 30 bottles of Big Tam's Ale were made to mark the awarding of a knighthood to Sir Sean 14 years ago.\n\nThe Scottish & Newcastle beer comes complete with a picture of the actor on the label.\n\nThere is little precedence for such sales and estimates of its worth range from as little as \u00a32 to \"priceless\".\n\nHowever, the bottle should fetch at least \u00a3100 and, if Bond fans get into a bidding war, it could go for a four figure sum.\n\nThe bottle \"Big Tam's Ale\" was presented to Sir Sean on July 5, 2000 at a gathering in the City Chambers to mark his Knighthood, conferred on him by the Queen, at the Palace of Holyroodhouse.\n\nThe limited run of bottles is said to have been made on the instructions of the then Scottish & Newcastle Chief Executive Brian Stewart.\n\nThe bottle says \"Sir Sean Connery, Palace of Holyrood House\" and has a grinning Sir Sean on the label, replacing the historic Laughing Cavalier mascot.\n\nIt also celebrates Connery's 70th birthday the following month by stating \"1930 - 2000: From one Fountainbridge Legend To Another\".\n\nSir Sean was joined by his wife Micheline at the event which was arranged by former Edinburgh City Lord Provost, Cllr Eric Milligan.\n\nThe bottle has been donated by Edinburgh businessman Grant MacDonald, who was given the bottle by Sir David Murray who attended the event, with all funds raised going to Pancreatic Cancer Action UK.\n\nJohn Martin, Chairman of the Scottish Brewing Association, who previously worked at Scottish & Newcastle, and has a bottle of the special edition beer said: \"A collector could pay a high amount of money for something like this. It's a collectors item.\n\n\"If you got two people together who really wanted it you could get a high value. I've never seen any go on the market.\n\n\"I remember Sir Sean came to Edinburgh and Scottish & Newcastle and we made a small film of him leaning out the tenament building where he lived looking across at the Fountainbrigde brewery and where he used to do his milk run,\" he added.\n\nMike Peterson, a UK based beer collector and seller said: \"If purchased by a collector, the bottle would probably sell for the label or the cap, as there are more label and cap collectors than full bottled beer collectors. I think around the year 2,000 McEwans used a fairly unusual cap, especially on their Parliament Ale, which this is a relabelled example of.\n\nMatteo Menestrina from online auction site just-whisky.co.uk said: \"We normally deal in high end whisky, but when we saw the uniqueness of this bottle - and the fact it was for charity - then we were delighted to help.\n\n\"This is a very rare bottle and will be a big hit with Bond fans and those into rare bottles, so we hope it will raise some good money for a very worthwhile charity.\"\n\nAli Stunt, CEO of Pancreatic Cancer Action, said: \"We are delighted that someone is kindly auctioning off this special edition beer to support us. As a charity, we rely on the generosity of individuals to help us continue our vital work. We wish them lots of success with the auction.\"\n\nThe online auction starts this Friday and biddings will close on October 19.",
+                    "date": "2014-10-09",
+                    "eventUri": "1473790",
+                    "id": "21556880",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.4505,
+                    "source": {
+                        "title": "Scotsman",
+                        "uri": "www.scotsman.com"
+                    },
+                    "time": "15:21:00",
+                    "title": "Rare 'Sean Connery ale' up for charity auction",
+                    "uri": "216883464",
+                    "url": "http://www.scotsman.com/lifestyle/heritage/rare-sean-connery-ale-up-for-charity-auction-1-3568394",
+                    "wgt": 1
+                },
+                {
+                    "body": "CLEVELAND, Ohio - At the beginning of January, we published \"365 things to do in 2014: Your ultimate arts and entertainment guide.\" Each week, we'll be adding to the project with smaller lists created from the guide. Read on for 10 drinks to raise a toast to Cleveland.\n\n1. Make your night sparkle with a bottle of the bubbly at the effervescent Champagne Bar at Pickwick & Frolic on East Fourth Street. (No. 5)\n\n5. Toast the new nightlife scene on East Fourth Street with a classic cocktail at Society Lounge. (No. 106)\n\n6. Get paddled at the Market Garden Brewery & Distillery on West 25the Street - with the paddle-shaped sampler of 11 housemade brews. (No. 183)\n\n7. Order one of their famous mojitos on the patio at Johnny Mango's in Ohio City. (No. 202)\n\n8. Go on a beer crawl of West 25 Street: McNulty's BierMarkt, Great Lakes Brewing Company, Market Garden Brewery, TownHall and Nano Brew. (No. 217)",
+                    "date": "2014-10-13",
+                    "eventUri": "1473790",
+                    "id": "21938040",
+                    "isDuplicate": false,
+                    "lang": "eng",
+                    "sim": 0.4261,
+                    "source": {
+                        "title": "cleveland.com",
+                        "uri": "www.cleveland.com"
+                    },
+                    "time": "16:45:00",
+                    "title": "365 things to do in Cleveland in 2014: 10 drinks to raise to toast to Cleveland",
+                    "uri": "217887021",
+                    "url": "http://www.cleveland.com/entertainment/index.ssf/2014/10/365_things_to_do_in_cleveland_22.html#incart_river",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 5,
+            "averageDate": "2014-10-11",
+            "avgCos": 0.3752,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1473790",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1491080",
+            "lang": "eng",
+            "location": {
+                "country": {
+                    "labelEng": "Belgium",
+                    "lat": 50.83333,
+                    "long": 4,
+                    "wikiUri": "http://en.wikipedia.org/wiki/Belgium"
+                },
+                "labelEng": "Leuven",
+                "lat": 50.87967,
+                "long": 4.70078,
+                "wikiUri": "http://en.wikipedia.org/wiki/Leuven"
+            },
+            "storyDate": "2014-10-11",
+            "storyDateEnd": "",
+            "uri": "850f305d-14db-4c75-b547-79470a557ea3-864178",
+            "variance": 0.3592
+        }
+    },
+    "e7e700df-6a06-44ea-a4f3-f736278fc36b-307833": {
+        "articles": {
+            "resultCount": 9,
+            "results": [
+                {
+                    "body": "Un grupo de investigadores de Universidad de Lovaina (B\u00e9lgica) han confirmado que la mosca de la fruta (Drosophila melanogaster) se ve atra\u00edda por el aroma que desprende la levadura de la cerveza (Saccharomyces cerevisiae), de tal forma que si el hongo deja de emitir su olor, el insecto ya no se acerca.\n\nLos resultados de este estudio, que publica la revista Cell Reports, sugieren que el aroma que emiten este y otros microorganismos tiene como objetivo atraer a los insectos para que dispersen sus c\u00e9lulas reproductivas en el medio ambiente.\n\n\"Dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor, donde la mosca se alimenta de la levadura, y esta se beneficiar del medio de transporte que ofrece el insecto?, dice Kevin Verstrepen, uno de los autores del trabajo\n\nLos investigadores afirman que este tipo de simbiosis sucede habitualmente en la naturaleza. Seg\u00fan asegura Verstrepen a Sinc, \"para muchos microbios, moverse en el medio ambiente es un reto, por lo que se ven obligados a atraer a otros seres vivos, preferentemente con piernas o alas; por lo que parece muy posible que el olor que bacterias y hongos producen en alimentos como el queso sea una t\u00e1ctica para atraer insectos\".\n\nLa idea de la investigaci\u00f3n surgi\u00f3 cuando, por accidente, se escaparon las moscas en el laboratorio y se dirigieron a un frasco con un cultivo de levadura muy olorosa, mientras que no se acercaron a otro matraz que conten\u00eda una cepa de levadura mutante a la que se hab\u00eda eliminado el gen del aroma.\n\nAhora, el equipo lo ha confirmado manipulando el gen ATF1 de la levadura, responsable del olor afrutado. Cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen que no es f\u00e1cil demostrar que el gen haya evolucionado espec\u00edficamente para favorecer su reproducci\u00f3n. ?Es tentador especular con esta posibilidad y varios informes demuestran la simbiosis existente entre levaduras e insectos voladores como moscas de la fruta?, declaran los autores.\n\nTras experimentar con diferentes variedades de levadura, los expertos han encontrado que la mayor\u00eda producen compuestos arom\u00e1ticos afrutados. Tambi\u00e9n han confirmado que estas sustancias no afectan negativamente a los alimentos. Su concentraci\u00f3n es muy peque\u00f1a, pero por su pureza afectan al aroma de los productos fermentados. ?El \u00fanico inconveniente es que la cerveza y el vino atraen a m\u00e1s moscas de la fruta?, bromea Verstrepen.",
+                    "date": "2014-10-10",
+                    "eventUri": "1560007",
+                    "id": "21663877",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9604,
+                    "source": {
+                        "title": "El Economista (EcoDiario)",
+                        "uri": "ecodiario.eleconomista.es"
+                    },
+                    "time": "09:33:00",
+                    "title": "El aroma de la cerveza 'embriaga' a las moscas",
+                    "uri": "217143260",
+                    "url": "http://ecodiario.eleconomista.es/medio-ambiente/noticias/6147009/10/14/El-aroma-de-la-cerveza-embriaga-a-las-moscas-.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Un grupo de investigadores de Universidad de Lovaina (B\u00e9lgica) han confirmado que la mosca de la fruta (Drosophila melanogaster) se ve atra\u00edda por el aroma que desprende la levadura de la cerveza (Saccharomyces cerevisiae), de tal forma que si el hongo deja de emitir su olor el insecto ya no se acerca. Los resultados de este estudio, que publica la revista Cell Reports, sugieren que el aroma que emiten este y otros microorganismos tiene como objetivo atraer a los insectos para que dispersen sus c\u00e9lulas reproductivas en el medio ambiente.\n\n\"Dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor, donde la mosca se alimenta de la levadura, y esta se beneficiar del medio de transporte que ofrece el insecto\", dice Kevin Verstrepen, uno de los autores del trabajo.\n\nLos investigadores afirman que este tipo de simbiosis sucede habitualmente en la naturaleza. Seg\u00fan asegura Verstrepen a Sinc, \"para muchos microbios, moverse en el medio ambiente es un reto, por lo que se ven obligados a atraer a otros seres vivos, preferentemente con piernas o alas; por lo que parece muy posible que el olor que bacterias y hongos producen en alimentos como el queso sea una t\u00e1ctica para atraer insectos\".\n\nLa idea de la investigaci\u00f3n surgi\u00f3 cuando, por accidente, se escaparon las moscas en el laboratorio y se dirigieron a un frasco con un cultivo de levadura muy olorosa, mientras que no se acercaron a otro matraz que conten\u00eda una cepa de levadura mutante a la que se hab\u00eda eliminado el gen del aroma.\n\nAhora, el equipo lo ha confirmado manipulando el gen ATF1 de la levadura, responsable del olor afrutado. Cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen que no es f\u00e1cil demostrar que el gen haya evolucionado espec\u00edficamente para favorecer su reproducci\u00f3n. \"Es tentador especular con esta posibilidad y varios informes demuestran la simbiosis existente entre levaduras e insectos voladores como moscas de la fruta\", declaran los autores.\n\nTras experimentar con diferentes variedades de levadura, los expertos han encontrado que la mayor\u00eda producen compuestos arom\u00e1ticos afrutados. Tambi\u00e9n han confirmado que estas sustancias no afectan negativamente a los alimentos. Su concentraci\u00f3n es muy peque\u00f1a, pero por su pureza afectan al aroma de los productos fermentados. \"El \u00fanico inconveniente es que la cerveza y el vino atraen a m\u00e1s moscas de la fruta\", bromea Verstrepen.",
+                    "date": "2014-10-10",
+                    "eventUri": "1560007",
+                    "id": "21723952",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9604,
+                    "source": {
+                        "title": "Libertad Digital",
+                        "uri": "www.libertaddigital.com"
+                    },
+                    "time": "19:20:00",
+                    "title": "A las moscas les atrae el olor de la cerveza",
+                    "uri": "217296439",
+                    "url": "http://www.libertaddigital.com/ciencia-tecnologia/ciencia/2014-10-10/a-las-moscas-les-atrae-el-olor-de-la-cerveza-1276530485/",
+                    "wgt": 1
+                },
+                {
+                    "body": "C\u00e9lulas de levadura viajan en la pata de una mosca de la fruta. /Cell Reports, Christiaens et a\n\nUn grupo de investigadores de Universidad de Lovaina (B\u00e9lgica) han confirmado que la mosca de la fruta (Drosophila melanogaster) se ve atra\u00edda por el aroma que desprende la levadura de la cerveza (Saccharomyces cerevisiae), de tal forma que si el hongo deja de emitir su olor, el insecto ya no se acerca.\n\nLos resultados de este estudio, que publica la revista Cell Reports, sugieren que el aroma que emiten este y otros microorganismos tiene como objetivo atraer a los insectos para que dispersen sus c\u00e9lulas reproductivas en el medio ambiente.\n\n\"Dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor, donde la mosca se alimenta de la levadura, y esta se beneficiar del medio de transporte que ofrece el insecto\", dice Kevin Verstrepen, uno de los autores del trabajo.\n\nLos investigadores afirman que este tipo de simbiosis sucede habitualmente en la naturaleza. Seg\u00fan asegura Verstrepen a Sinc, \"para muchos microbios, moverse en el medio ambiente es un reto, por lo que se ven obligados a atraer a otros seres vivos, preferentemente con piernas o alas; por lo que parece muy posible que el olor que bacterias y hongos producen en alimentos como el queso sea una t\u00e1ctica para atraer insectos\".\n\nLa idea de la investigaci\u00f3n surgi\u00f3 cuando, por accidente, se escaparon las moscas en el laboratorio y se dirigieron a un frasco con un cultivo de levadura muy olorosa, mientras que no se acercaron a otro matraz que conten\u00eda una cepa de levadura mutante a la que se hab\u00eda eliminado el gen del aroma.\n\nAhora, el equipo lo ha confirmado manipulando el gen ATF1 de la levadura, responsable del olor afrutado. Cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen que no es f\u00e1cil demostrar que el gen haya evolucionado espec\u00edficamente para favorecer su reproducci\u00f3n. \"Es tentador especular con esta posibilidad y varios informes demuestran la simbiosis existente entre levaduras e insectos voladores como moscas de la fruta\", declaran los autores.\n\nTras experimentar con diferentes variedades de levadura, los expertos han encontrado que la mayor\u00eda producen compuestos arom\u00e1ticos afrutados. Tambi\u00e9n han confirmado que estas sustancias no afectan negativamente a los alimentos. Su concentraci\u00f3n es muy peque\u00f1a, pero por su pureza afectan al aroma de los productos fermentados. \"El \u00fanico inconveniente es que la cerveza y el vino atraen a m\u00e1s moscas de la fruta\", bromea Verstrepen.",
+                    "date": "2014-10-13",
+                    "eventUri": "1560007",
+                    "id": "22016268",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9563,
+                    "source": {
+                        "title": "vlcnoticias.com",
+                        "uri": "vlcnoticias.com"
+                    },
+                    "time": "11:27:00",
+                    "title": "El aroma de la cerveza 'embriaga' a las moscas - VLC Noticias",
+                    "uri": "217861404",
+                    "url": "http://vlcnoticias.com/el-aroma-de-la-cerveza-embriaga-las-moscas/",
+                    "wgt": 1
+                },
+                {
+                    "body": "La denominada mosca de la fruta (Drosophila melanogaster), se siente irresistiblemente atra\u00edda por el aroma que desprende la levadura de la cerveza, anuncia un equipo de investigadores de Universidad de Lovaina en B\u00e9lgica, bajo la tutela de Kevin Verstrepen.\n\nLos estudiosos afirman que si el hongo de esta bebida (Saccharomyces cerevisiae) deja de emitir su olor, el insecto ya no se acerca, seg\u00fan se\u00f1ala el portal web muyinteresante.\n\nLas conclusiones de la indagaci\u00f3n indican que el olor emitido por este y otros microorganismos busca atraer a los insectos y as\u00ed ellos dispersen sus c\u00e9lulasreproductoras en el medio ambiente.\n\nAl decir de Verstrepen, \"dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor: la mosca se alimenta de la levadura y esta se beneficia del medio de transporte que ofrece el insecto con fines reproductivos\".\n\nEste tipo de asociaci\u00f3n sucede con frecuencia en la naturaleza, aseveran los investigadores, y como para muchos microbios, moverse en el medio ambiente es complicado, tienden a atraer a otros seres vivos, de ser posible con piernas o alas.\n\nPor tal raz\u00f3n, parece factible que el aroma producido por las bacterias y hongos en alimentos como el queso, sea una t\u00e1ctica para atraer insectos.\n\nLa idea de realizar este tipo de investigaci\u00f3n surgi\u00f3 de manera inesperada cuando varias moscas se escaparon de un laboratorio y se lanzaron hacia un frasco con un cultivo de levadura muy olorosa, sin embargo ignoraron otro matraz con una cepa de este mismo elemento mutante que se le hab\u00eda eliminado el gen del aroma.\n\nEl equipo de la Universidad de Lovaina ha confirmado su teor\u00eda al manipular el gen ATF1 de la levadura, responsable del olor afrutado, pues cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen el grado de dificultad de demostrar c\u00f3mo el gen ha evolucionado espec\u00edficamente para favorecer su reproducci\u00f3n, pero destacan la esencia tentadora de especular con esta posibilidad dado que varios estudios demuestran los nexos existentes entre levaduras e insectos voladores como moscas de la fruta.\n\nEstos cient\u00edficos, luego de experimentar con diferentes variedades de levadura, encontraron que la mayor\u00eda producen compuestos arom\u00e1ticos afrutados.\n\nAl mismo tiempo, han confirmado que estas sustancias est\u00e1n libres de ocasionar afectaciones negativas a los alimentos, y su concentraci\u00f3n es muy peque\u00f1a, pero su pureza incide en el aroma de los productos fermentados.",
+                    "date": "2014-10-11",
+                    "eventUri": "1560007",
+                    "id": "21886812",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9198,
+                    "source": {
+                        "title": "Granma.cu",
+                        "uri": "www.granma.cu"
+                    },
+                    "time": "16:51:00",
+                    "title": "Moscas embriagadas por el aroma de la cerveza - Granma Internacional",
+                    "uri": "217654204",
+                    "url": "http://www.granma.cu/ciencia/2014-10-11/moscas-embriagadas-por-el-aroma-de-la-cerveza",
+                    "wgt": 1
+                },
+                {
+                    "body": "MADRID(Agencias) Seg\u00c3\u00ban un equipo de investigadores de Universidad de Lovaina (B\u00c3\u00a9lgica) dirigido por Kevin Verstrepen, la mosca de la fruta (Drosophila melanogaster) se siente irresistiblemente atra\u00c3\u00adda por el aroma que desprende la levadura de la cerveza (Saccharomyces cerevisiae), de forma que si el hongo deja de emitir su olor, el insecto ya no se acerca.\n\nLos resultados de este estudio sugieren que el olor que emiten este y otros microorganismos busca atraer a los insectos para que dispersen sus c\u00c3\u00a9lulas reproductoras en el medio ambiente.\n\n\"Dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor: la mosca se alimenta de la levadura y esta se beneficia del medio de transporte que ofrece el insecto con fines reproductivos\u00e2\u0080\u009d, dice Verstrepen.\n\nLa revista Muy Interesante menciona que los investigadores afirman que este tipo de simbiosis se da frecuentemente en la naturaleza.\n\nPara muchos microbios, moverse en el medio ambiente es complicado, por lo que tienen atraer a otros seres vivos, a ser posible con piernas o alas. Parece factible que el aroma que las bacterias y hongos producen en alimentos como el queso sea una t\u00c3\u00a1ctica para atraer insectos.\n\nLa idea de la investigaci\u00c3\u00b3n surgi\u00c3\u00b3 por accidente, cuando varias moscas se escaparon en el laboratorio y se lanzaron hacia un frasco con un cultivo de levadura muy olorosa, mientras que no se acercaron a otro matraz que conten\u00c3\u00ada una cepa de levadura mutante a la que se hab\u00c3\u00ada eliminado el gen del aroma. Ahora, el equipo de la Universidad de Lovaina lo ha confirmado manipulando el gen ATF1 de la levadura, responsable del olor afrutado. Cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen que no es f\u00c3\u00a1cil demostrar que el gen haya evolucionado espec\u00c3\u00adficamente para favorecer su reproducci\u00c3\u00b3n, pero afirman que \u00e2\u0080\u009cresulta tentador especular con esta posibilidad dado que varios estudios demuestran la simbiosis existente entre levaduras e insectos voladores como moscas de la fruta\u00e2\u0080\u009d.\n\nTras experimentar con diferentes variedades de levadura, los expertos han encontrado que la mayor\u00c3\u00ada producen compuestos arom\u00c3\u00a1ticos afrutados. Tambi\u00c3\u00a9n han confirmado que estas sustancias no afectan negativamente a los alimentos. Su concentraci\u00c3\u00b3n es muy peque\u00c3\u00b1a, pero por su pureza afectan al aroma de los productos fermentados.",
+                    "date": "2014-10-12",
+                    "eventUri": "1560007",
+                    "id": "21922285",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9133,
+                    "source": {
+                        "title": "LaCronica.com",
+                        "uri": "www.lacronica.com"
+                    },
+                    "time": "17:27:00",
+                    "title": "El aroma de la cerveza embriaga a las moscas - LaCronica.com",
+                    "uri": "217740400",
+                    "url": "http://www.lacronica.com/EdicionEnLinea/Notas/CienciayTecnologia/12102014/896906-El-aroma-de-la-cerveza-embriaga-a-las-moscas.html",
+                    "wgt": 1
+                },
+                {
+                    "body": "Existen algunos insectos que reaccionan con una especie de atracci\u00f3n hacia determinados olores y este es el caso de la mosca Drosophila melanogaster, la denominada mosca de la fruta, que se siente irresistiblemente atra\u00edda por el aroma que desprende la levadura de la cerveza, seg\u00fan anuncia un equipo de investigadores de Universidad de Lovaina en B\u00e9lgica, bajo la tutela de Kevin Verstrepen.\n\nLos estudiosos afirman que si el hongo de esta bebida (Saccharomyces cerevisiae) deja de emitir su olor, el insecto ya no se acerca, seg\u00fan se\u00f1ala el portal web muyinteresante.\n\nLas conclusiones de la indagaci\u00f3n indican que el olor emitido por este y otros microorganismos busca atraer a los insectos y as\u00ed ellos dispersen sus c\u00e9lulasreproductoras en el medio ambiente.\n\nAl decir de Verstrepen, \"dos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor: la mosca se alimenta de la levadura y esta se beneficia del medio de transporte que ofrece el insecto con fines reproductivos\".\n\nEste tipo de asociaci\u00f3n sucede con frecuencia en la naturaleza, aseveran los investigadores, y como para muchos microbios, moverse en el medio ambiente es complicado, tienden a atraer a otros seres vivos, de ser posible con piernas o alas.\n\nPor tal raz\u00f3n, parece factible que el aroma producido por las bacterias y hongos en alimentos como el queso, sea una t\u00e1ctica para atraer insectos.\n\nLa idea de realizar este tipo de investigaci\u00f3n surgi\u00f3 de manera inesperada cuando varias moscas se escaparon de un laboratorio y se lanzaron hacia un frasco con un cultivo de levadura muy olorosa, sin embargo ignoraron otro matraz con una cepa de este mismo elemento mutante que se le hab\u00eda eliminado el gen del aroma.\n\nEl equipo de la Universidad de Lovaina ha confirmado su teor\u00eda al manipular el gen ATF1 de la levadura, responsable del olor afrutado, pues cuando se desactiva, el hongo no emite el olor y las moscas no acuden.\n\nLos expertos reconocen el grado de dificultad de demostrar c\u00f3mo el gen ha evolucionado espec\u00edficamente para favorecer su reproducci\u00f3n, pero destacan la esencia tentadora de especular con esta posibilidad dado que varios estudios demuestran los nexos existentes entre levaduras e insectos voladores como moscas de la fruta.\n\nEstos cient\u00edficos, luego de experimentar con diferentes variedades de levadura, encontraron que la mayor\u00eda producen compuestos arom\u00e1ticos afrutados.\n\nAl mismo tiempo, han confirmado que estas sustancias est\u00e1n libres de ocasionar afectaciones negativas a los alimentos, y su concentraci\u00f3n es muy peque\u00f1a, pero su pureza incide en el aroma de los productos fermentados. (Texto y foto: Granma)",
+                    "date": "2014-10-12",
+                    "eventUri": "1560007",
+                    "id": "21873604",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.9125,
+                    "source": {
+                        "title": "www.cadenagramonte.cu",
+                        "uri": "www.cadenagramonte.cu"
+                    },
+                    "time": "04:00:00",
+                    "title": "Atra\u00edda mosca de la fruta por el aroma de la cerveza - Radio Cadena Agramonte",
+                    "uri": "217590486",
+                    "url": "http://www.cadenagramonte.cu/articulos/ver/46494%3Aatraida-mosca-de-la-fruta-por-el-aroma-de-la-cerveza",
+                    "wgt": 1
+                },
+                {
+                    "body": "El aroma que desprende la levadura de la cerveza (Saccharomyces cerevisiae) afecta y atrae a la mosca de la fruta (Drosophila melanogaster), seg\u00fan un estudio realizado por un equipo de investigadores de Universidad de Lovaina (B\u00e9lgica) dirigido por Kevin Verstrepen y publicado en la revista Cell Reports.\n\nLa raz\u00f3n, a juicio de Verstrepen, es que los microorganismos responsables de este olor necesitan de los insectos para dispersar sus c\u00e9lulas reproductoras por el medio ambiente.\n\nDos especies aparentemente no relacionadas han desarrollado una simbiosis compleja basada en el olor: la mosca se alimenta de la levadura y esta se beneficia del medio de transporte que ofrece el insecto con fines reproductivos.\n\nDado que para un microbio es complicado desplazarse por el medio ambiente, los olores que desprenden, como en el caso de las bacterias y hongos en alimentos como el queso, sea una buena estrategia para atraer insectos. Algo que se pudo comprobar experimentalmente en el caso de la levadura de cerveza: cuando se manipul\u00f3 el gen ATF1 de la levadura, responsable de su caracter\u00edstico olor afrutado, entonces las moscas no se sent\u00edan atra\u00eddas.",
+                    "date": "2014-10-12",
+                    "eventUri": "1560007",
+                    "id": "21854056",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.8034,
+                    "source": {
+                        "title": "www.xatakaciencia.com",
+                        "uri": "www.xatakaciencia.com"
+                    },
+                    "time": "16:09:00",
+                    "title": "El aroma de una cerveza afecta a las moscas",
+                    "uri": "217659894",
+                    "url": "http://www.xatakaciencia.com/sabias-que/el-aroma-de-una-cerveza-afecta-a-las-moscas?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2Bxatakaciencia%2B%2528Xataciencia%2529",
+                    "wgt": 1
+                },
+                {
+                    "body": "Un laboratorio en Lovaina (B\u00e9gica). Un grupo de moscas que serv\u00edan como cobayas se escaparon de su confinamiento y se acercaron a un frasco con un cultivo de levadura de cerveza muy olorosa, mientras que evitaban otro que conten\u00eda una cepa de levadura mutante a la que se hab\u00eda eliminado el gen del aroma.\n\nEste suceso completamente casual hizo que los investigadores belgas de dicho laboratorio se plantearan estudiar como atraen determinados aromas a la mosca de la fruta (la ya m\u00edtica Drosophila melanogaster). Y los cient\u00edficos pudieron comprobar as\u00ed que el olor de la levadura de cerveza actuaba como un potente im\u00e1n que atra\u00eda a los insectos. Pero si se eliminaban las encimas que provocaban el aroma, las moscas dejaban de estar interesadas en ella.\n\n\"Para muchos microbios, moverse en el medio ambiente es un reto, por lo que se ven obligados a atraer a otros seres vivos, preferentemente con piernas o alas; por lo que parece muy posible que el olor que bacterias y hongos producen en alimentos como el queso sea una t\u00e1ctica para atraer insectos\", explic\u00f3 Kevin Verstrepen, uno de los autores de este estudio cuyos resultados se han publicado en la revista Cell Reports.",
+                    "date": "2014-10-10",
+                    "eventUri": "1560007",
+                    "id": "21666320",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7611,
+                    "source": {
+                        "title": "Quo",
+                        "uri": "www.quo.es"
+                    },
+                    "time": "10:07:00",
+                    "title": "A las moscas tambi\u00e9n les gustan las birras",
+                    "uri": "217151790",
+                    "url": "http://www.quo.es/naturaleza/a-las-moscas-tambien-les-gustan-las-birras",
+                    "wgt": 1
+                },
+                {
+                    "body": "El secreto de una buena cerveza no est\u00e1 en la cebada ni en el l\u00fapulo sino en el hongo Saccharomyces cerevisiae. Esta levadura, responsable del di\u00f3xido de carbono (el gas) y el alcohol de esta bebida, emite varios aromas frutales. Ahora, un estudio demuestra que lo hace para atraer a las moscas. A cambio, los insectos propagan sus c\u00e9lulas como si fuera polen de las flores. Una relaci\u00f3n simbi\u00f3tica de la que se aprovecha, un tercero, los humanos.\n\nLa S. cerevisiae y otras levaduras se usan en la elaboraci\u00f3n de la cerveza, el vino o el pan desde tiempos inmemoriales. Estos hongos se alimentan de los az\u00facares que contienen los cereales o el mosto y los convierten en di\u00f3xido de carbono y alcoholes. Esto hace que el pan suba, aunque pierde el alcohol durante la cocci\u00f3n. En el vino, el gas se deja que escape, pero se conserva en el caso de los espumosos y la cerveza.\n\nPero la levadura emite tambi\u00e9n otros componentes org\u00e1nicos vol\u00e1tiles, del grupo de los \u00e9steres, muy arom\u00e1ticos como el acetato de etilo (antiguamente conocido como \u00e9ter del vinagre) el acetato de isoamilo, hoy usado como aromatizante, o el acetato de feniletilo, cuyo olor recuerda al de algunas flores.\n\n\"El papel de la levadura en el sabor de la cerveza y el vino es bien conocido\", dice el bi\u00f3logo y genetista de la Universidad Cat\u00f3lica de Lovaina, en la muy cervecera B\u00e9lgica, el profesor Kevin Verstrepen. De hecho, \u00e9l mismo tuvo un papel clave en su descubrimiento hace 15 a\u00f1os cuando, durante su doctorado, caracteriz\u00f3 el gen de la levadura llamado ATF1, principal responsable del sabor y aroma afrutado de las c\u00e9lulas de este hongo. \"Lo que se desconoc\u00eda, sin embargo, era porqu\u00e9 ten\u00edan un gen del aroma como el ATF\". Desde un punto de vista qu\u00edmico, no interviene en su capacidad de fermentaci\u00f3n.\n\nFue hace tres lustros cuando, en un caso casi de serendipia, que Verstrepen se fij\u00f3 en esta cuesti\u00f3n. A\u00fan siendo estudiante, al llegar al laboratorio donde investigaban la gen\u00e9tica de la S. cerevisiae, comprob\u00f3 que una nube de moscas de la fruta que se hab\u00eda escapado del laboratorio contiguo se arremolinaba sobre un frasco con la levadura. Para su sorpresa, en otro bote cercano con otra cepa del hongo que hab\u00edan modificaco gen\u00e9ticamente apenas hab\u00eda insectos. Aquello llam\u00f3 la atenci\u00f3n de Verstrepen pero lo dej\u00f3 pasar hasta que, ahora, con la ayuda de neurocient\u00edficos especializados en insectos, ha encontrado el porqu\u00e9.\n\nLos detalles de sus experimentos, que aparecen publicados en la revista Cell, son fascinantes. De un lado cogieron una cepa silvestre de la S. cerevisiae muy arom\u00e1tica. A una parte de ellos les borraron el gen ATF1. Las pruebas les permitieron comprobar que, adem\u00e1s de que la poblaci\u00f3n proliferaba sin problemas, la presencia de los acetatos vol\u00e1tiles hab\u00edan desaparecido casi por completo.\n\nPor otro lado, usaron 50 ejemplares de Drosophila melanogaster, la mosca de la fruta, para comprobar su hip\u00f3tesis. En una especie de cuadril\u00e1tero mantuvieron cuatro corrientes de aire procedentes de las esquinas. De dos opuestas, sal\u00eda aire sin mas, pero de las otroas dos, de una sal\u00eda el aroma de la levadura sin modificar y de la otra la del hongo inodoro. Desde encima, crearon una zona de vac\u00edo para que las distintas corrientes no se mezclaran, dibujando as\u00ed cuatro zonas separadas.\n\nDurante los dos primeros minutos, de cada esquina sal\u00eda aire sin ning\u00fan tipo de aroma y las moscan no mostraban ninguna predilecci\u00f3n. Pero, pasado ese tiempo, llegaron los chorros de aromas de una y otra levadura. Al poco vieron c\u00f3mo las moscas se apretujaban en la zona de la que proced\u00eda el olor de la levadura no modificada gen\u00e9ticamente, la que conservaba todos los acetatos. Despu\u00e9s de cinco minutos, volvieron a liberar aire inodoro por las cuatro esquinas y las D. melanogaster empezaron a deambular sin un patr\u00f3n. Las pruebas las repitieron decenas de veces, cambiando la intensidad del aire o por d\u00f3nde sal\u00eda, siempre con el mismo resultado.\n\nCon la ayuda de los neurocient\u00edficos Emre Yaksi y Bassem Hassan, del centro Flanders de Investigaci\u00f3n en Neuroelectr\u00f3nica y de la Escuela de Medicina de la Universidad Cat\u00f3lica de Lovaina respectivamente, investigaron en paralelo la respuesta neuronal de las moscas. En los extremos de sus antenas reside su sistema olfativo. Comprobaron que seg\u00fan de que levadura se tratara, su bulbo olfativo mostraba patrones diferentes.\n\nPero, \u00bfpor qu\u00e9 iba la levadura a atraer a unos bichos que se la comen? La respuesta podr\u00eda estar en otro hecho que comprobaron. Tras inyectar una sustancia fluorescente tanto en la levadura arom\u00e1tica como en la inodora, dejaron que las moscas se acercaran, esta vez en una sala m\u00e1s grande.\n\nTras repetir el experimento 100 veces, vieron que la levadura silvestre se hab\u00eda expandido por la sala cuatro veces m\u00e1s que la modificada gen\u00e9ticamente. \u00bfC\u00f3mo? Como hacen las flores, que tientan a los insectos con su n\u00e9ctar para que se lleven consigo su polen, la levadura sacrifica parte de su poblaci\u00f3n para que otras c\u00e9lulas del hongo se enreden en las patas y cuerpo del insecto y proliferen all\u00e1 donde \u00e9ste vaya.\n\n\"Las moscas son fuertemente atra\u00eddas por las c\u00e9lulas de la levadura normal en comparaci\u00f3n con la levadura mutante que no produce \u00e9steres\", comenta el neurocient\u00edfico Emre Yaksi. \"Sabiendo que los \u00e9steres hacen que la cerveza sepa tan bien, parece que los mismos aromas que nos permiten disfrutar de la cerveza probablemente evolucionaron para atraer a las moscas y ayudar a la levadura a expandirse\", a\u00f1ade.\n\nDe la misma opini\u00f3n es su colega, el profesor Verstrepen. \"S\u00ed, el agradable aroma de la cerveza se lo debemos a las moscas. Las c\u00e9lulas de la levadura intentan atraerlas produciendo aromas y nosostros nos estamos aprovechando de esto porque tenemos esos aromas en nuestras cervezas y vinos\", asegura. Se trata de una relaci\u00f3n simbi\u00f3tica a tres bandas.",
+                    "date": "2014-10-14",
+                    "eventUri": "1560007",
+                    "id": "22042930",
+                    "isDuplicate": false,
+                    "lang": "spa",
+                    "sim": 0.7182,
+                    "source": {
+                        "title": "EL PA\u00cdS",
+                        "uri": "elpais.com"
+                    },
+                    "time": "10:22:00",
+                    "title": "Gracias, moscas, por la cerveza",
+                    "uri": "218147860",
+                    "url": "http://elpais.com/elpais/2014/10/10/ciencia/1412952158_666855.html",
+                    "wgt": 1
+                }
+            ]
+        },
+        "info": {
+            "articleCount": 9,
+            "averageDate": "2014-10-12",
+            "avgCos": 0.6211,
+            "categories": [],
+            "customDate": false,
+            "customLocation": false,
+            "eventUri": "1560007",
+            "extractedDate": "",
+            "extractedDateEnd": "",
+            "id": "1560007",
+            "lang": "spa",
+            "storyDate": "2014-10-12",
+            "storyDateEnd": "",
+            "uri": "e7e700df-6a06-44ea-a4f3-f736278fc36b-307833",
+            "variance": 0.1142
+        }
+    },
+    "meta": {
+        "CCAArticleMatchCount": 13,
+        "CCAArticleMatchRatio": 0.2241379310344828,
+        "CCAAvgCosSim": 0.7486576923076923,
+        "CCAAvgMatchWgt": 37.84615384615385,
+        "_articleUri1": "216900457",
+        "_articleUri2": "217143260",
+        "_datetime": "2015-02-19 16:15:24",
+        "_ruleBasedShouldMerge": false,
+        "_storyUri1": "850f305d-14db-4c75-b547-79470a557ea3-864178",
+        "_storyUri2": "e7e700df-6a06-44ea-a4f3-f736278fc36b-307833",
+        "_username": "Evgenia Belyaeva",
+        "artCount1": 5,
+        "artCount2": 9,
+        "avgCosSimStory1": 0.3752,
+        "avgCosSimStory2": 0.6211,
+        "categorySim": 0,
+        "conceptCosSim": 0.4237400141357707,
+        "conceptJaccardSim": 0.2258064516129032,
+        "coreTime1": 129495.35,
+        "coreTime2": 129513.55,
+        "coreTimeStDev1": 47.17850334397899,
+        "coreTimeStDev2": 31.60502783793175,
+        "entityCosSim": 0.540766649646006,
+        "entityJaccardSim": 0.1428571428571429,
+        "extractedDateJaccardSim": -1,
+        "extractedDatesStory1": 0,
+        "extractedDatesStory2": 0,
+        "hasSameLocation": 1,
+        "keywordCosSim": 0.4258297812416625,
+        "keywordJaccardSim": 0.25,
+        "lang1": "eng",
+        "lang2": "spa",
+        "matchingDateCount": 0,
+        "matchingDateRatio": 0,
+        "ratioAnnotatedArticlesStory1": 1,
+        "ratioAnnotatedArticlesStory2": 1,
+        "shouldMerge": true,
+        "storyQuality1": 4,
+        "storyQuality2": 20,
+        "timeAvg1": 129537.0766666667,
+        "timeAvg2": 129554.1407407407,
+        "timeStDev1": 47.17850334397899,
+        "timeStDev2": 31.60502783793175,
+        "varianceStory1": 0.3592,
+        "varianceStory2": 0.1142
+    }
+}
